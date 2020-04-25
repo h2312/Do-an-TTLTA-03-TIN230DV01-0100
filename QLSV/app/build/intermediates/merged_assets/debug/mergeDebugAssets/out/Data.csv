@@ -1,0 +1,2958 @@
+No,ID,LastName,FirstName,DateOfBirth,Gender,Major,English,Math,IT
+1,102003969,Nguyễn Nhã,Ái,16/01/1999,Nữ,IT,5,6,5
+2,154006695,Trần Ngọc Khả,Ái,08/12/1999,Nữ,IT,9,8,5
+3,102042246,Lê,Alen,19/04/1999,Nam,English,6,6,7
+4,140010172,Bùi Thúy,An,05/12/1999,Nữ,English,5,9,9
+5,149006521,Cao Thị Thúy,An,30/03/1999,Nữ,English,6,5,4
+6,102043510,Cao Thị Thúy,An,03/06/1999,Nữ,IT,8,2,5
+7,102002657,Đới Đỗ Quỳnh,An,06/01/1999,Nữ,English,8,9,2
+8,102002658,Lưu Nguyễn Phương,An,07/12/1999,Nữ,English,5,4,10
+9,102060010,Nguyễn,An,22/03/1999,Nam,Tourist,4,10,10
+10,102028239,Nguyễn Duy Phương,An,18/02/1999,Nam,Tourist,8,6,4
+11,102024617,Nguyễn Hữu,An,08/12/1999,Nam,Tourist,9,2,8
+12,101014311,Nguyễn Khoa Trường,An,28/02/1999,Nam,IT,1,4,4
+13,141002356,Nguyễn Lưu Thanh,An,15/03/1999,Nam,IT,9,8,7
+14,148002025,Nguyễn My,An,27/11/1999,Nữ,English,8,3,8
+15,146005066,Nguyễn Phúc,An,12/06/1997,Nữ,English,1,4,6
+16,102005496,Nguyễn Thanh Thùy,An,14/11/1999,Nữ,English,6,8,5
+17,102050311,Nguyễn Thụy Trường,An,20/02/1999,Nữ,IT,4,4,4
+18,102020014,Nguyễn Trần Khánh,An,28/10/1999,Nam,English,8,7,3
+19,146005602,Nguyễn Trường,An,27/09/1998,Nam,English,10,7,4
+20,102004451,Trần Lê Phương,An,16/06/1999,Nữ,Tourist,4,6,8
+21,156004626,Trần Phương,An,12/12/1999,Nữ,Tourist,5,5,1
+22,102005497,Trần Thanh Vân,An,12/08/1999,Nữ,Tourist,1,4,4
+23,102039883,Trần Trịnh,An,02/06/1999,Nam,IT,5,7,6
+24,102039142,Võ Giang Hoàng,An,13/11/1999,Nữ,English,5,4,10
+25,102042776,Võ Nguyễn Trường,An,01/01/1999,Nữ,English,6,3,8
+26,102029798,Đặng Thiên,Ân,26/10/1999,Nữ,Tourist,3,4,2
+27,140007958,Hoàng Nữ Thiên,Ân,14/10/1999,Nữ,Tourist,4,3,7
+28,102061946,Hoàng Trần Đức,Ân,13/07/1998,Nam,Tourist,9,8,7
+29,102009866,Lê Dư Hiểu,Ân,12/11/1999,Nữ,IT,10,4,4
+30,102005529,Mai Thế Hồng,Ân,24/03/1998,Nam,IT,10,4,3
+31,102024660,Nguyễn Hoàng Thiên,Ân,26/10/1999,Nam,English,4,4,4
+32,102048812,Nguyễn Thanh Hoài,Ân,23/08/1999,Nữ,English,7,4,2
+33,102029114,Trần Hồng,Ân,02/06/1999,Nữ,English,3,8,5
+34,102037203,Trần Phúc Hồng,Ân,05/11/1999,Nam,IT,3,9,4
+35,102066727,Trần Thiên,Ân,07/12/1997,Nam,English,7,6,4
+36,102031883,Bùi Minh,Anh,09/12/1999,Nữ,English,2,2,2
+37,102045713,Bùi Thị,Anh,29/09/1999,Nữ,Tourist,1,3,2
+38,102004930,Cáp Huy,Anh,19/11/1999,Nam,Tourist,10,7,3
+39,102056084,Đặng Kiều,Anh,19/08/1999,Nữ,Tourist,6,7,6
+40,102010684,Đặng Ngọc Thùy,Anh,11/01/1999,Nữ,IT,8,3,2
+41,102009206,Đặng Thị Mai,Anh,27/05/1999,Nữ,IT,7,1,3
+42,102005500,Đặng Trần Quỳnh,Anh,29/11/1999,Nữ,English,6,8,10
+43,102031885,Đặng Vân,Anh,21/09/1999,Nữ,English,1,3,7
+44,134015270,Đặng Vân,Anh,25/07/1999,Nữ,English,9,8,2
+45,102003976,Đào Nguyễn Thùy,Anh,17/01/1999,Nữ,IT,9,5,3
+46,102028244,Diệp Vũ Vĩnh,Anh,16/12/1999,Nam,English,7,9,4
+47,148009854,Đinh Ngọc Lan,Anh,30/09/1999,Nữ,English,4,10,10
+48,102057519,Đinh Thị Phương,Anh,02/01/1999,Nữ,Tourist,10,5,5
+49,102003546,Đõ Mai,Anh,01/08/1999,Nữ,Tourist,7,1,2
+50,142001893,Đỗ Ngọc Phụng,Anh,08/10/1999,Nữ,Tourist,9,5,7
+51,102057521,Đỗ Thị Nhật,Anh,21/09/1999,Nữ,IT,9,2,8
+52,102022280,Đoàn Thị Minh,Anh,27/11/1999,Nữ,IT,8,7,6
+53,157001265,Dương Đỗ Phương,Anh,06/11/1999,Nữ,English,3,7,7
+54,152000512,Hà Minh,Anh,04/01/1999,Nữ,English,7,5,3
+55,148005652,Hồ Kim,Anh,26/02/1999,Nữ,English,1,7,9
+56,102021098,Hoàng Minh,Anh,04/01/1999,Nam,IT,5,6,7
+57,102029784,Hoàng Thị Quỳnh,Anh,28/12/1999,Nữ,English,4,4,4
+58,102013423,Hứa Minh,Anh,07/04/1999,Nữ,English,1,1,4
+59,102014254,Huỳnh Ngọc,Anh,15/01/1999,Nữ,Tourist,10,6,6
+60,102000012,Huỳnh Phương,Anh,19/08/1999,Nữ,Tourist,3,8,6
+61,137003778,Huỳnh Thị Kiều,Anh,26/05/1999,Nữ,Tourist,3,8,10
+62,102024631,Huỳnh Thị Kiều,Anh,01/03/1999,Nữ,IT,4,9,1
+63,102004463,Huỳnh Thục,Anh,05/11/1999,Nữ,English,10,5,5
+64,102006707,La Trần Vân,Anh,01/02/1999,Nữ,English,5,2,5
+65,102004935,Lê Ngọc Hiền,Anh,12/12/1999,Nữ,Tourist,2,5,7
+66,102056091,Lê Ngọc Lan,Anh,07/04/1999,Nữ,Tourist,8,10,7
+67,102039151,Lê Ngọc Quỳnh,Anh,30/01/1999,Nữ,Tourist,4,4,1
+68,102042262,Lê Nguyễn Ngọc,Anh,25/06/1999,Nữ,IT,8,1,5
+69,146000015,Lê Nguyễn Vân,Anh,22/10/1999,Nữ,IT,1,8,10
+70,102024634,Lê Phương,Anh,20/10/1999,Nữ,English,4,9,9
+71,102039154,Lê Quỳnh,Anh,04/11/1999,Nữ,English,2,2,5
+72,147000124,Lê Thị Kim,Anh,31/05/1999,Nữ,English,6,3,2
+73,102039155,Lê Thị Quỳnh,Anh,19/04/1999,Nữ,IT,10,4,4
+74,102002105,Lê Thu,Anh,25/08/1999,Nữ,English,2,4,5
+75,102014257,Lê Tiến,Anh,25/10/1999,Nam,English,9,3,2
+76,102037186,Lê Trần Bích,Anh,01/05/1998,Nữ,Tourist,5,8,3
+77,102050961,Lê Trần Hải Nguyệt,Anh,08/06/1999,Nữ,Tourist,8,3,3
+78,102033296,Lê Tuấn,Anh,08/09/1999,Nam,Tourist,1,8,9
+79,102035478,Lê Vân,Anh,02/07/1999,Nữ,IT,8,2,10
+80,102002106,Lê Vũ Tuyết,Anh,26/03/1999,Nữ,IT,2,9,1
+81,102054712,Lương Hoàng Mai,Anh,06/07/1999,Nữ,English,3,1,7
+82,146003981,Lý Tuấn,Anh,22/03/1999,Nam,English,1,5,2
+83,102002108,Mai Phương,Anh,28/06/1999,Nữ,English,8,7,7
+84,102034968,Mai Thị Kim,Anh,17/08/1999,Nữ,IT,9,3,8
+85,144009277,Ngô Hoàng,Anh,07/04/1995,Nam,English,5,1,2
+86,143007394,Ngô Hoàng Ngọc,Anh,09/07/1999,Nữ,English,9,10,2
+87,102063073,Ngô Phương,Anh,17/04/1985,Nữ,Tourist,10,5,9
+88,102000017,Ngô Tuấn,Anh,04/12/1999,Nam,Tourist,5,10,10
+89,102006053,Ngô Vân,Anh,13/12/1999,Nữ,Tourist,3,8,4
+90,102037188,Nguyễn Bảo Lan,Anh,27/11/1999,Nữ,IT,3,8,9
+91,102039159,Nguyễn Bảo Trâm,Anh,03/12/1999,Nữ,IT,4,5,2
+92,102006055,Nguyễn Đặng Phương,Anh,05/04/1999,Nữ,English,9,7,4
+93,102027396,Nguyễn Diệu,Anh,27/08/1999,Nữ,English,8,9,7
+94,102030544,Nguyễn Đình,Anh,13/05/1999,Nam,English,1,6,6
+95,144000054,Nguyễn Đoàn Hoàn,Anh,17/11/1999,Nam,IT,7,1,9
+96,102006054,Nguyễn Duy Tuấn,Anh,04/05/1999,Nam,English,10,6,10
+97,102004938,Nguyễn Hà Thùy,Anh,10/03/1999,Nữ,English,7,1,1
+98,102047893,Nguyễn Hoàng,Anh,29/08/1999,Nữ,Tourist,8,8,6
+99,102000021,Nguyễn Hoàng Bảo,Anh,11/04/1999,Nữ,Tourist,6,4,5
+100,140015163,Nguyễn Hồng Phương,Anh,23/11/1999,Nữ,Tourist,8,2,6
+101,102034969,Nguyễn Lâm Minh,Anh,08/05/1999,Nữ,IT,6,10,4
+102,138003545,Nguyễn Lê Diệu,Anh,21/11/1999,Nữ,English,5,5,4
+103,102005512,Nguyễn Lê Kiều,Anh,19/11/1999,Nữ,English,6,9,8
+104,142000756,Nguyễn Lê Phương,Anh,27/08/1999,Nữ,Tourist,2,6,4
+105,102000892,Nguyễn Minh,Anh,06/01/1999,Nữ,Tourist,1,6,1
+106,102039163,Nguyễn Ngọc Lan,Anh,12/11/1999,Nữ,Tourist,3,8,3
+107,102031900,Nguyễn Ngọc Lan,Anh,28/12/1999,Nữ,IT,9,9,2
+108,102056827,Nguyễn Ngọc Phương,Anh,04/12/1999,Nữ,IT,7,8,8
+109,102039164,Nguyễn Ngọc Phương,Anh,10/01/1999,Nữ,English,10,1,2
+110,156001519,Nguyễn Ngọc Phương,Anh,28/01/1999,Nữ,English,5,5,3
+111,153009084,Nguyễn Ngọc Phương,Anh,05/04/1999,Nữ,English,1,6,8
+112,102007917,Nguyễn Ngọc Quỳnh,Anh,06/11/1999,Nữ,IT,4,8,6
+113,102004947,Nguyễn Ngọc Quỳnh,Anh,16/07/1999,Nữ,English,1,4,9
+114,102039165,Nguyễn Ngọc Trâm,Anh,03/12/1999,Nữ,English,4,6,5
+115,102022288,Nguyễn Ngọc Tuấn,Anh,13/04/1999,Nam,Tourist,10,3,7
+116,152003427,Nguyễn Phạm Lan,Anh,17/02/1999,Nữ,Tourist,8,8,2
+117,102000894,Nguyễn Phan Quỳnh,Anh,11/09/1999,Nữ,Tourist,4,5,3
+118,102024644,Nguyễn Phan Việt,Anh,13/09/1999,Nam,IT,10,10,3
+119,102009855,Nguyễn Phương,Anh,30/03/1999,Nữ,IT,9,7,1
+120,102006063,Nguyễn Phương,Anh,18/12/1999,Nữ,English,1,9,3
+121,102020029,Nguyễn Quỳnh,Anh,07/12/1999,Nữ,English,1,1,8
+122,102055401,Nguyễn Sỹ Tuấn,Anh,22/06/1998,Nam,English,6,5,5
+123,102024645,Nguyễn Thái,Anh,27/11/1999,Nam,IT,4,1,7
+124,102019492,Nguyễn Thảo Tâm,Anh,08/03/1999,Nữ,English,1,7,3
+125,102004475,Nguyễn Thị Hoàng,Anh,22/12/1999,Nữ,English,8,6,7
+126,152009340,Nguyễn Thị Hoàng Minh,Anh,16/09/1999,Nữ,Tourist,1,2,9
+127,135003655,Nguyễn Thị Kim,Anh,26/03/1997,Nữ,Tourist,6,3,1
+128,102010704,Nguyễn Thị Ngọc,Anh,28/03/1999,Nữ,Tourist,6,9,5
+129,102006064,Nguyễn Thị Quỳnh,Anh,18/08/1999,Nữ,IT,9,5,7
+130,102039171,Nguyễn Thị Quỳnh,Anh,02/10/1999,Nữ,IT,2,2,8
+131,146005610,Nguyễn Thị Tú,Anh,20/11/1999,Nữ,English,1,6,7
+132,128023165,Nguyễn Thị Tuấn,Anh,26/02/1999,Nữ,English,2,8,9
+133,135002326,Nguyễn Thiệu,Anh,28/05/1999,Nam,English,3,1,5
+134,102030560,Nguyễn Thuỵ Phương,Anh,02/10/1999,Nữ,IT,1,10,8
+135,102052473,Nguyễn Trần Hoàng,Anh,22/01/1999,Nữ,English,4,4,6
+136,102029090,Nguyễn Trần Ngọc,Anh,27/07/1999,Nữ,English,3,9,7
+137,102003556,Nguyễn Tú,Anh,14/04/1999,Nữ,Tourist,2,10,3
+138,143003136,Nguyễn Tuấn,Anh,22/09/1999,Nam,Tourist,10,3,2
+139,102057533,Nguyễn Tuấn,Anh,17/03/1999,Nam,Tourist,3,10,10
+140,102057534,Nguyễn Việt,Anh,13/09/1999,Nam,IT,5,2,1
+141,102006066,Nguyễn Võ Việt,Anh,26/12/1999,Nam,English,8,2,3
+142,102033308,Phạm Đan,Anh,14/04/1999,Nữ,English,8,2,5
+143,102005518,Phạm Duy,Anh,21/01/1999,Nam,Tourist,7,5,3
+144,102008554,Phạm Hàng Kim,Anh,14/04/1999,Nữ,Tourist,9,4,2
+145,102000037,Phạm Hữu Hoàng,Anh,23/11/1999,Nữ,Tourist,8,4,7
+146,102014837,Phạm Ngọc,Anh,25/08/1999,Nữ,IT,6,9,10
+147,102006067,Phạm Nguyễn Quỳnh,Anh,27/10/1999,Nữ,IT,4,10,10
+148,102003122,Phạm Nguyễn Trâm,Anh,10/03/1999,Nữ,English,2,2,3
+149,102033311,Phạm Phương,Anh,12/07/1999,Nữ,English,1,7,10
+150,102032664,Phạm Phương,Anh,07/06/1999,Nữ,English,3,2,4
+151,102042813,Phạm Quỳnh,Anh,12/10/1999,Nữ,IT,8,6,5
+152,102039178,PhạM Thị Kim,Anh,01/01/1999,Nữ,English,8,2,2
+153,102054736,Phạm Thị Lan,Anh,29/01/1999,Nữ,English,5,9,10
+154,102036428,Phạm Thị Mai,Anh,30/01/1999,Nữ,Tourist,9,8,3
+155,102004005,Phạm Trần Tuấn,Anh,18/09/1999,Nam,Tourist,7,3,5
+156,103010589,Phạm Tú,Anh,22/04/1999,Nữ,Tourist,10,10,8
+157,152001988,Phạm Tuấn,Anh,25/01/1999,Nam,IT,8,8,10
+158,102061935,Phan Hoàng,Anh,22/03/1997,Nữ,IT,3,6,3
+159,102014839,Phan Hoàng,Anh,16/11/1999,Nữ,English,10,3,10
+160,102050344,Phan Mai Thúy,Anh,04/10/1999,Nữ,English,8,8,7
+161,102006068,Phan Thanh Nam,Anh,10/06/1999,Nam,English,10,9,3
+162,102002682,Tô Ngọc Hoàng,Anh,17/08/1999,Nữ,IT,10,2,5
+163,102004480,Tô Nguyễn Trâm,Anh,26/03/1999,Nữ,English,1,3,6
+164,102038500,Tô Thị Mai,Anh,21/01/1999,Nữ,English,4,2,6
+165,102033931,Tống Phương,Anh,22/08/1999,Nữ,Tourist,3,9,8
+166,102001502,Trần Dương Hoài,Anh,21/10/1999,Nam,Tourist,4,8,8
+167,102015950,Trần Dương Hoàng,Anh,21/02/1999,Nữ,Tourist,2,3,3
+168,148010413,Trần Huỳnh,Anh,05/08/1999,Nữ,IT,5,3,3
+169,102056118,Trần Minh,Anh,20/08/1999,Nữ,IT,8,8,9
+170,146003987,Trần Mỹ,Anh,17/05/1999,Nữ,English,7,5,2
+171,102043544,Trần Nguyễn Minh,Anh,13/11/1999,Nữ,English,9,3,5
+172,102009212,Trần Nguyễn Quế,Anh,16/08/1999,Nữ,English,6,10,9
+173,102031285,Trần Nguyễn Trúc,Anh,01/04/1999,Nữ,IT,7,3,2
+174,102025267,Trần Phạm Kim,Anh,21/08/1999,Nữ,English,1,1,9
+175,102036436,Trần Thị Mai,Anh,06/04/1999,Nữ,English,1,4,10
+176,152002004,Trịnh Triệu,Anh,29/09/1999,Nam,Tourist,10,10,5
+177,102028287,Trương Huỳnh Thảo,Anh,10/09/1999,Nữ,Tourist,1,8,5
+178,102032676,Trương Thị Lan,Anh,27/11/1999,Nữ,Tourist,9,2,9
+179,102008561,Trương Thị Lan,Anh,28/12/1999,Nữ,IT,10,1,4
+180,102005524,Từ Phương,Anh,04/02/1999,Nữ,English,5,9,8
+181,102031287,Văn Ngọc Vân,Anh,08/07/1999,Nữ,English,1,4,1
+182,102013437,Văn Tuấn,Anh,24/06/1999,Nam,Tourist,1,9,4
+183,102000909,Võ Hồ Minh,Anh,29/03/1999,Nữ,Tourist,3,6,8
+184,102007934,Võ Hoàng Lan,Anh,12/02/1999,Nữ,Tourist,3,1,2
+185,102009862,Võ Lê Tâm,Anh,04/12/1999,Nữ,IT,3,2,9
+186,102033315,Võ Ngọc Trâm,Anh,12/10/1998,Nữ,IT,3,10,9
+187,143004491,Võ Phúc Mai,Anh,12/08/1999,Nữ,English,4,5,9
+188,102039978,Võ Vân,Anh,20/08/1999,Nữ,English,7,1,4
+189,142010817,Vũ Đức,Anh,27/06/1999,Nam,English,10,8,1
+190,102039980,Vũ Hoàng,Anh,06/11/1999,Nam,IT,4,7,9
+191,102004957,Vũ Hoàng Phương,Anh,30/09/1999,Nữ,English,6,2,9
+192,102005526,Vũ Phương,Anh,18/08/1999,Nữ,English,8,9,1
+193,102004485,Vũ Thị Lan,Anh,21/01/1999,Nữ,Tourist,4,1,3
+194,157006282,Vương Nguyễn Việt,Anh,07/07/1999,Nam,Tourist,3,6,4
+195,142002900,Bùi Thị,Ánh,07/11/1999,Nữ,Tourist,5,7,8
+196,102024656,Cao Hồng,Ánh,19/12/1999,Nữ,IT,3,2,7
+197,102045737,Đỗ Ngọc,Ánh,28/10/1999,Nữ,IT,9,1,1
+198,102022300,Phạm Thị Ngọc,Ánh,31/01/1999,Nữ,English,10,9,3
+199,154001029,Trần Quốc,Ánh,06/09/1999,Nam,English,7,4,6
+200,102038508,Trần Thị Ngọc,Ánh,20/10/1999,Nữ,English,1,8,8
+201,142010188,Trương NgọC,ÁNh,18/06/1999,Nữ,IT,6,1,8
+202,156005572,Bùi Văn,Bắc,31/12/1999,Nam,English,4,9,6
+203,152002016,Nguyễn Đặng Tường,Bách,11/08/1999,Nam,English,5,10,4
+204,102034987,Nguyễn Hoàng,Bách,02/12/1999,Nam,Tourist,4,3,7
+205,102032685,Nguyễn Xuân,Bách,12/09/1999,Nữ,Tourist,5,7,8
+206,102027425,Trịnh Văn,Bản,06/10/1999,Nam,Tourist,6,6,8
+207,102051819,Hà Gia,Băng,08/08/1999,Nữ,IT,8,4,5
+208,102030599,Nguyễn Ngân,Băng,11/12/1998,Nữ,IT,10,3,7
+209,102021140,Trần Hoàng Khánh,Băng,06/12/1999,Nữ,English,9,9,7
+210,102027436,Lư Cao,Bằng,14/08/1999,Nam,English,8,7,3
+211,153001002,Nguyễn Hải,Bằng,25/06/1999,Nam,English,8,2,8
+212,102000920,Đào Hoàng Thiên,Bảo,16/07/1999,Nam,IT,7,5,4
+213,102032687,Đỗ Hoài,Bảo,06/01/1999,Nam,English,4,5,10
+214,140015221,Dương Gia,Bảo,28/09/1999,Nam,English,6,4,1
+215,154005494,Dương Nguyên,Bảo,17/06/1999,Nam,Tourist,8,2,6
+216,102006085,Lai Hoàng,Bảo,15/07/1999,Nam,Tourist,7,2,10
+217,102022306,Lê Gia,BảO,27/02/1999,Nam,Tourist,5,5,4
+218,102005533,Lê Trần Gia,Bảo,21/05/1999,Nam,IT,6,2,9
+219,102020511,Ngô Thiên,Bảo,21/06/1998,Nam,English,1,4,2
+220,102051810,Nguyễn Đức,Bảo,08/02/1999,Nam,English,8,6,7
+221,102003567,Nguyễn Gia,Bảo,17/05/1999,Nam,Tourist,6,1,1
+222,102012702,Nguyễn Hồ Phương,Bảo,10/04/1999,Nữ,Tourist,9,7,4
+223,102034990,Nguyễn Hoàng,Bảo,07/08/1999,Nam,Tourist,3,5,4
+224,102014270,Nguyễn Hoàng Thái,Bảo,28/12/1999,Nam,IT,10,10,7
+225,102031292,Nguyễn Lê Duy,Bảo,23/12/1999,Nam,IT,4,1,4
+226,148010426,Nguyễn Ngọc Gia,Bảo,22/12/1999,Nam,English,8,3,6
+227,102056838,Nguyễn Quốc,Bảo,26/01/1998,Nam,English,3,1,1
+228,102034991,Nguyễn Thái,Bảo,23/01/1999,Nam,English,5,10,5
+229,102040022,Nguyễn Thái Hoàng Gia,Bảo,08/09/1999,Nam,IT,9,3,9
+230,159002977,Nguyễn Thị Quốc,Bảo,02/01/1999,Nữ,English,7,10,1
+231,156008343,Phạm Chí,Bảo,01/06/1997,Nam,English,10,3,1
+232,141004674,Phạm Gia,Bảo,18/10/1999,Nam,Tourist,7,7,5
+233,102003134,Phan Gia,Bảo,15/12/1999,Nam,Tourist,4,1,3
+234,144005276,Phan Hoài,Bảo,12/08/1999,Nam,Tourist,6,1,7
+235,102029124,Phùng Gia,Bảo,26/05/1999,Nam,IT,7,4,2
+236,102004968,Thới Gia,Bảo,28/03/1999,Nam,IT,4,5,10
+237,102029126,Tô Gia,Bảo,21/10/1999,Nam,English,7,5,3
+238,102022313,Trần Vũ Gia,Bảo,04/05/1999,Nam,English,5,1,6
+239,102020515,Trương Gia,Bảo,15/08/1999,Nam,English,10,5,6
+240,102005544,Võ Gia,Bảo,23/04/1999,Nam,IT,1,5,10
+241,148024101,Võ Lê Tôn,Bảo,14/06/1999,Nam,English,1,2,9
+242,102015397,Võ Nguyên,Bảo,17/01/1999,Nam,English,1,7,7
+243,102036458,Vũ Gia,Bảo,25/01/1999,Nam,Tourist,5,1,5
+244,102065541,Nguyễn Mạnh,Báu,05/11/1998,Nam,Tourist,6,1,6
+245,102029135,Huỳnh Thị Ngọc,Bích,25/03/1999,Nữ,Tourist,7,8,6
+246,103004344,Nguyễn Thị Ngọc,Bích,29/08/1999,Nữ,IT,5,6,9
+247,102025959,Nguyễn Thị Ngọc,Bích,01/02/1999,Nữ,IT,8,4,4
+248,161005525,Phan Ngọc,Bích,14/03/1999,Nữ,English,4,10,10
+249,102043559,Võ Thị Ngọc,Bích,22/07/1999,Nữ,English,4,3,10
+250,151005796,Bành Ngọc,Bình,05/05/1999,Nữ,English,10,5,9
+251,102022314,Đặng Quang,Bình,06/10/1999,Nam,IT,6,4,8
+252,102022315,Đinh Hoàng Công,Bình,08/08/1999,Nam,English,6,6,3
+253,163001231,Dzịp Lý,Bình,04/09/1999,Nữ,English,2,1,2
+254,102030605,Lê Thị Hương,Bình,29/06/1999,Nữ,Tourist,7,9,6
+255,102009222,Lý Huệ,Bình,01/04/1999,Nữ,Tourist,10,3,2
+256,156001536,Nguyễn Kim,Bình,21/03/1999,Nữ,Tourist,2,6,5
+257,152008727,Nguyễn Thanh,Bình,13/01/1999,Nam,IT,1,5,1
+258,102024681,Nguyễn Thanh,Bình,28/07/1999,Nam,English,5,10,4
+259,102022876,Trần Gia,Bình,11/04/1999,Nữ,English,4,4,8
+260,102014860,Trần Quốc,Bình,29/09/1999,Nam,Tourist,4,7,6
+261,102017134,Trịnh Yến,Bình,02/08/1999,Nữ,Tourist,2,10,8
+262,102062603,Võ Thị Bé,Bình,28/03/1998,Nữ,Tourist,1,3,7
+263,102044873,Vũ Thị,Bình,25/10/1999,Nữ,IT,9,8,5
+264,102004975,Đỗ Quốc,Bửu,17/03/1999,Nam,IT,3,4,8
+265,102002141,Hồ Nghệ,Bửu,17/07/1999,Nam,English,4,1,2
+266,102028314,Nguyễn Nhã,Ca,16/10/1999,Nữ,English,4,9,2
+267,153011303,Trương Thị Lu,Ca,26/09/1999,Nữ,English,2,5,2
+268,102057549,Nguyễn Thị Hồng,Cẩm,13/10/1999,Nữ,IT,10,10,9
+269,158001338,Nguyễn Vỏ Đăng,Cao,07/07/1999,Nam,English,1,6,4
+270,102056163,Lê Bình Cẩm,Cát,01/03/1999,Nữ,English,6,6,8
+271,102000071,Lê Hoàng Cát,Cát,11/08/1999,Nữ,Tourist,2,4,1
+272,122002948,Vũ Thị,Châm,01/07/1999,Nữ,Tourist,4,1,9
+273,102029139,Nguyễn Thiện,Chân,30/05/1999,Nam,Tourist,9,5,4
+274,102027446,Bùi Thị Minh,Châu,07/11/1999,Nữ,IT,7,4,2
+275,102022880,Chung Ngọc Minh,Châu,05/09/1999,Nữ,IT,10,10,2
+276,102039213,Đỗ Kim,Châu,28/09/1999,Nữ,English,4,7,1
+277,147000530,Đỗ Thị Thùy,Châu,02/10/1999,Nữ,English,1,3,8
+278,102000072,Dương Bảo,Châu,02/10/1999,Nữ,English,10,3,4
+279,102025271,Hà Bảo,Châu,09/04/1999,Nữ,IT,7,5,9
+280,102027448,Lâm Ngọc Quế,Châu,09/01/1998,Nữ,English,7,7,9
+281,102035000,Lương Minh,Châu,12/10/1999,Nữ,English,1,8,6
+282,102011634,Nguyễn Bảo Quỳnh,Châu,23/11/1999,Nữ,Tourist,8,3,1
+283,142000052,Nguyễn Hải,Châu,18/09/1999,Nam,Tourist,8,9,8
+284,102016465,Nguyễn Ngọc Bảo,Châu,08/12/1999,Nữ,Tourist,8,2,5
+285,102004977,Nguyễn Phương Bảo,Châu,10/03/1999,Nữ,IT,1,7,7
+286,152002035,Nguyễn Thị Bảo,Châu,12/11/1999,Nữ,IT,4,7,10
+287,156009252,Phạm Trân,Châu,13/08/1999,Nữ,English,9,2,7
+288,102036473,Phan Đỗ Minh,Châu,11/02/1999,Nữ,English,8,2,6
+289,141006462,Phan Hải,Châu,12/09/1999,Nữ,English,2,7,1
+290,102005554,Phùng Diễm Minh,Châu,03/11/1999,Nữ,IT,1,9,8
+291,102028321,Phùng Minh,Châu,21/01/1999,Nữ,English,5,5,9
+292,102014865,Phùng Minh Bảo,Châu,01/09/1999,Nam,English,1,3,10
+293,102002702,Thái Ngọc,Châu,16/10/1999,Nữ,Tourist,2,10,3
+294,102028322,Trần Thị Minh,Châu,02/11/1999,Nữ,Tourist,9,8,7
+295,102007965,Trương Bảo,Châu,03/11/1999,Nữ,Tourist,6,1,2
+296,102005555,Trương Nguyễn Phương,Châu,02/08/1999,Nữ,IT,3,2,9
+297,102004493,Vũ Hoàng Minh,Châu,26/09/1999,Nữ,English,5,9,3
+298,102022328,Đinh Thị Lan,Chi,08/12/1999,Nữ,English,7,6,10
+299,102001520,Lâm Kim,Chi,06/09/1999,Nữ,Tourist,5,2,7
+300,102000950,Lâm Trúc,Chi,04/10/1999,Nữ,Tourist,7,8,5
+301,102028323,Lâm Tùng,Chi,20/12/1999,Nữ,Tourist,8,1,3
+302,102002154,Nguyễn Phương Linh,Chi,23/09/1999,Nữ,IT,7,7,8
+303,102057554,Nguyễn Thị Linh,Chi,09/10/1999,Nữ,IT,9,3,7
+304,102036480,Nguyễn Thị Linh,Chi,17/05/1999,Nữ,English,6,5,3
+305,102021765,Nguyễn Thị Quế,Chi,26/12/1999,Nữ,English,7,3,5
+306,102015403,Phạm Linh,Chi,14/09/1999,Nữ,English,1,9,6
+307,146003436,Trần Thị Kim,Chi,12/07/1999,Nữ,IT,2,9,5
+308,102002156,Vũ Hải Phương,Chi,30/03/1999,Nữ,English,10,8,10
+309,102024703,Nguyễn Mạnh,Chí,15/03/1999,Nam,English,6,6,1
+310,102035007,Ngô Minh,Chiến,19/11/1999,Nam,Tourist,9,7,2
+311,142001925,Trần Quốc,Chiến,01/01/1999,Nam,Tourist,9,4,5
+312,141004709,Shen Ching,Ching,10/12/1999,Nữ,Tourist,2,9,4
+313,102050399,Lê Tuyết,Chinh,14/01/1998,Nữ,IT,7,1,1
+314,140012058,Huỳnh Công,Chính,15/03/1999,Nam,IT,1,10,2
+315,102044293,Nguyễn Hữu,Chính,12/11/1999,Nam,English,1,2,2
+316,147000677,Lê Mạc,Chuẩn,06/07/1999,Nam,English,5,1,1
+317,102035555,Trần My,Chúc,12/02/1999,Nữ,English,2,3,10
+318,102054784,HoàNg NguyễN PhúC Nguyên,Chương,16/01/1999,Nam,IT,10,3,3
+319,139006804,Huỳnh Công,Chương,04/03/1999,Nam,English,10,5,4
+320,102026751,Nguyễn Viết,Chương,13/06/1999,Nam,English,2,4,5
+321,102000089,Trần Minh,Chương,13/03/1999,Nam,Tourist,1,9,6
+322,160000046,Trịnh Chí,Công,18/01/1999,Nam,Tourist,8,10,6
+323,102020083,Nguyễn Chí,Cương,22/05/1999,Nam,Tourist,5,8,7
+324,102015408,Bùi Minh,Cường,03/09/1999,Nam,IT,10,2,1
+325,142010845,Đỗ Tuấn,Cường,24/10/1999,Nam,IT,6,9,9
+326,102057560,Lê Đặng Quốc,Cường,07/01/1998,Nam,English,7,2,3
+327,146002210,Lê Hùng,Cường,06/08/1998,Nam,English,10,1,4
+328,102002162,Liêu Vĩnh,Cường,30/11/1999,Nam,English,6,8,8
+329,102060054,Nguyễn Duy,Cường,26/06/1999,Nam,IT,1,6,9
+330,140015313,Nguyễn Mạnh,Cường,06/02/1999,Nam,English,7,8,5
+331,142010846,Nguyễn Mạnh,Cường,16/09/1999,Nam,English,2,7,5
+332,102042300,Nguyễn Quốc,Cường,16/09/1999,Nam,Tourist,7,1,3
+333,102025993,Nguyễn Quốc,Cường,28/12/1999,Nam,Tourist,8,8,10
+334,157002180,Nguyễn Tấn,Cường,05/09/1999,Nam,Tourist,6,10,3
+335,102020528,Nguyễn Thái,Cường,12/06/1999,Nam,IT,9,3,1
+336,102006112,Phương Chí,Cường,24/07/1999,Nam,English,9,4,6
+337,102020085,Vòng Chí,Cường,22/06/1999,Nam,English,1,7,3
+338,140008528,Đinh Ngọc Trang,Đài,17/07/1999,Nữ,Tourist,5,3,5
+339,102014911,Nguyễn Gia,Đại,20/05/1999,Nam,Tourist,7,10,6
+340,102022367,Trần Nguyễn Cát,Đại,28/04/1999,Nam,Tourist,10,8,10
+341,148025849,Cao Nguyễn Sỹ,Đan,14/08/1999,Nam,IT,5,5,1
+342,102006144,Hoàng Thu,Đan,05/07/1999,Nữ,IT,5,8,10
+343,102052540,Lê Vi,Đan,29/11/1999,Nam,English,8,8,6
+344,141006556,Lưu Cao Tâm,Đan,31/10/1999,Nữ,English,7,3,3
+345,102000139,Nguyễn Thụy,Đan,15/08/1999,Nữ,English,10,1,10
+346,102005586,Nguyễn Trần Quế,Đan,23/06/1999,Nữ,IT,4,6,6
+347,102004518,Dương,Đăng,21/02/1999,Nam,English,2,10,7
+348,102009955,Hà Phước,Đăng,01/09/1999,Nam,English,9,7,3
+349,102012145,Nguyễn Hải,Đăng,19/02/1999,Nam,Tourist,3,10,5
+350,102004521,Nguyễn Hồng,Đăng,12/03/1999,Nữ,Tourist,3,6,8
+351,102033369,Trương Quốc,Đăng,30/03/1999,Nam,Tourist,10,3,9
+352,102039230,Lê Thành,Danh,04/04/1999,Nam,IT,1,6,4
+353,144004801,Nguyễn Công,Danh,09/07/1999,Nam,IT,3,3,7
+354,102006115,Nguyễn Công,Danh,14/04/1999,Nam,English,4,10,10
+355,148003732,Nguyễn Đức,Danh,23/04/1998,Nam,English,4,9,1
+356,152008104,Nguyễn Hoài,Danh,13/07/1999,Nam,English,8,6,10
+357,102052509,Nguyễn Hoàng,Danh,01/12/1999,Nam,IT,10,6,2
+358,102048850,Nguyễn Thành,Danh,10/11/1999,Nam,English,9,10,7
+359,102056186,Nguyễn Thành,Danh,02/09/1998,Nam,English,7,3,9
+360,102025284,Ngô Hồng,Đào,19/03/1999,Nữ,Tourist,8,4,7
+361,102009946,Nguyễn Thị Hồng,Đào,15/04/1998,Nữ,Tourist,10,1,2
+362,102028365,Nguyễn Thị Trúc,Đào,08/03/1999,Nữ,Tourist,6,6,1
+363,102047311,Nguyễn Thị Trúc,Đào,07/11/1999,Nữ,IT,3,3,6
+364,102052543,Phan Thị Hồng,Đào,21/03/1999,Nữ,IT,6,9,4
+365,102032756,Bùi Huỳnh Trọng,Đạt,21/03/1999,Nam,English,10,7,7
+366,102012759,Chung Tiến,Đạt,18/08/1999,Nam,English,3,3,8
+367,102053667,Đặng Đình Minh,Đạt,22/10/1999,Nam,English,9,2,3
+368,102028367,Đỗ Hoàng Danh,Đạt,16/12/1999,Nam,IT,4,9,7
+369,102012760,Đỗ Thành,Đạt,02/05/1999,Nam,English,6,3,5
+370,148000124,Đoàn Thành,Đạt,14/02/1999,Nam,English,2,3,4
+371,102002185,Dương Gia,Đạt,23/06/1999,Nam,Tourist,2,9,8
+372,102001018,Lê Thanh Bảo,Đạt,03/11/1999,Nam,Tourist,3,10,6
+373,102016550,Nguyễn Bùi Trọng,Đạt,22/02/1999,Nam,Tourist,10,7,6
+374,142010874,Nguyễn Minh,Đạt,04/12/1999,Nam,IT,8,3,10
+375,102004515,Nguyễn Phạm Hoàng,Đạt,03/08/1999,Nam,English,7,10,4
+376,102057597,Nguyễn Thành,Đạt,30/09/1999,Nam,English,4,6,3
+377,102035626,Nguyễn Thành,Đạt,03/09/1999,Nam,Tourist,10,10,10
+378,142006038,Nguyễn Tiến,Đạt,15/12/1998,Nam,Tourist,4,6,2
+379,102012767,Phòng Tấn,Đạt,17/04/1999,Nam,Tourist,3,7,2
+380,102036540,Trần Kim,Đạt,20/05/1999,Nam,IT,3,10,6
+381,137000617,Trần Tất,Đạt,12/01/1999,Nam,IT,2,1,9
+382,102004517,Trần Tiến,Đạt,07/01/1999,Nam,English,7,7,1
+383,151011905,Triệu Quốc,Đạt,01/06/1999,Nam,English,10,4,7
+384,102008662,Vũ Tất,Đạt,16/08/1999,Nam,English,7,6,8
+385,102002707,Du Thúy,Diễm,27/01/1999,Nữ,IT,7,6,7
+386,102042304,Nguyễn Đình Hồng,Diễm,20/12/1999,Nữ,English,9,7,1
+387,163005904,Nguyễn Thị Bích,Diễm,30/09/1999,Nữ,English,7,3,8
+388,102025996,Nguyễn Thị Kiều,Diễm,01/04/1999,Nữ,Tourist,7,1,10
+389,102035567,Nguyễn Thị Ngọc,Diễm,11/06/1999,Nữ,Tourist,6,10,4
+390,148002083,Võ Trần Như,Diễm,06/10/1999,Nữ,Tourist,8,10,1
+391,137014484,Nguyễn Châu Thúy,Diểm,22/12/1999,Nữ,IT,2,7,5
+392,155006281,Lương Thị,Điểm,14/10/1999,Nữ,IT,3,4,5
+393,153002282,Huỳnh Phúc,Điển,08/10/1999,Nam,English,2,9,9
+394,102044336,Nguyễn Ngọc Thụy,Điển,25/08/1998,Nữ,English,5,10,10
+395,102015412,Bùi Thị Hồng,Diệp,17/05/1999,Nữ,English,7,2,4
+396,102039281,Lê Hồ,Điệp,22/04/1999,Nam,IT,9,4,6
+397,102021230,Phạm Thị Ngọc,Điệp,08/08/1999,Nữ,English,9,8,6
+398,135006479,Cao Thị,Diệu,17/10/1999,Nữ,English,7,4,10
+399,135003198,Đặng Thị Thanh,Diệu,23/10/1999,Nữ,Tourist,3,8,5
+400,163003031,Hồ Phương,Diệu,29/03/1999,Nữ,Tourist,8,10,7
+401,102039241,Văn Lê Ngọc,Diệu,05/01/1999,Nữ,Tourist,3,10,6
+402,102024732,Hồ Oi,Dìn,03/01/1999,Nữ,IT,7,3,4
+403,102022902,Trần Lê Mai,Dinh,14/08/1999,Nữ,IT,8,5,10
+404,146007466,Đồng Thị Mai,Đình,25/07/1998,Nữ,English,5,5,10
+405,102012772,Huỳnh Chấn,Đình,21/07/1999,Nam,English,10,4,9
+406,102053684,Nguyễn Hoàng,Đỉnh,25/09/1999,Nam,English,1,1,7
+407,102005028,Lâm Quang,Định,31/10/1998,Nam,IT,5,9,7
+408,143000483,Lý Trần Trực,Định,14/01/1999,Nam,English,8,3,1
+409,102015994,Phạm Quang,Định,12/10/1999,Nam,English,3,7,3
+410,102002708,Nguyễn Thảo,Doanh,01/05/1999,Nữ,Tourist,7,3,4
+411,102032771,Nguyễn Huỳnh Quý,Đôn,15/09/1999,Nam,Tourist,1,6,8
+412,102013535,Quách Thuận,Đông,17/12/1999,Nam,Tourist,1,5,1
+413,159000173,Tăng Hoa,Đông,15/01/1999,Nữ,IT,4,3,5
+414,138009116,Nay H',Dri,30/01/1999,Nữ,English,3,8,1
+415,102004080,Cao Anh,Đức,30/10/1999,Nam,English,3,1,2
+416,102009257,Chung Bùi Trí,Đức,10/11/1999,Nam,Tourist,10,2,8
+417,102042345,Đỗ Trung,Đức,04/11/1999,Nam,Tourist,10,3,7
+418,102024798,Huỳnh Minh,Đức,05/11/1999,Nam,Tourist,3,10,2
+419,102053695,Lâm Hoài,Đức,02/10/1999,Nam,IT,10,4,2
+420,102026827,Lê Hồng,Đức,12/09/1998,Nam,IT,4,7,8
+421,102006819,Lê Trung,Đức,29/07/1999,Nam,English,3,4,2
+422,102070815,Nguyễn Hữu,Đức,18/04/1998,Nam,English,2,7,9
+423,157000074,Nguyễn Hữu,Đức,26/05/1999,Nam,English,8,6,7
+424,102009961,Nguyễn Huỳnh,Đức,23/07/1997,Nam,IT,4,9,2
+425,102059121,Nguyễn Minh,Đức,07/06/1999,Nam,English,1,6,3
+426,102042349,Nguyễn Việt,Đức,19/08/1999,Nam,English,4,6,2
+427,102002194,Nguyễn Vũ Thiên,Đức,09/06/1999,Nam,Tourist,10,6,9
+428,102005030,Nguyễn Xuân,Đức,20/10/1999,Nam,Tourist,9,1,1
+429,126004305,Phạm Anh,Đức,28/06/1999,Nam,Tourist,7,3,4
+430,135003968,Phạm Nguyên,Đức,20/10/1999,Nam,IT,10,5,5
+431,102008679,Phan Minh,Đức,08/03/1999,Nam,IT,1,8,2
+432,102039287,Tạ Anh,ĐứC,12/05/1999,Nam,English,2,6,9
+433,102040270,Trần Hoàng,Đức,23/11/1999,Nam,English,7,5,1
+434,102020151,Trần Lâm Minh,Đức,16/12/1999,Nam,English,6,7,1
+435,102004089,Trần Ngọc Hồng,Đức,13/06/1999,Nam,IT,3,4,9
+436,102051928,Trịnh Minh,Đức,10/11/1999,Nam,English,10,2,2
+437,102008681,Trương Minh,Đức,01/06/1999,Nam,English,8,3,1
+438,102032783,Trương Tấn,Đức,27/11/1999,Nam,Tourist,10,1,3
+439,102009259,Vũ Minh,Đức,05/01/1999,Nam,Tourist,2,1,9
+440,102032724,Trần,Duly,15/11/1999,Nữ,Tourist,5,9,9
+441,102022906,Đặng Thị Phương,Dung,21/09/1999,Nữ,IT,6,10,10
+442,142007093,Đinh Thị Thùy,Dung,10/08/1999,Nữ,IT,8,3,8
+443,102004992,Huỳnh Ngọc Tuyết,Dung,02/04/1999,Nữ,English,8,3,3
+444,158005515,Khương Phương,Dung,14/10/1999,Nữ,English,1,9,5
+445,102043577,Lê Nguyễn Thùy,Dung,15/06/1999,Nữ,English,6,8,4
+446,102021182,Lương Ngọc Xuân,Dung,09/11/1999,Nữ,IT,2,10,10
+447,123000639,Ngô Phương,Dung,29/06/1999,Nữ,English,4,5,6
+448,102050415,Nguyễn Phương,Dung,12/06/1999,Nữ,English,8,2,3
+449,142000803,Nguyễn Thị Hạnh,Dung,05/01/1999,Nữ,Tourist,9,10,8
+450,133009840,Nguyễn Thị Kim,Dung,30/01/1999,Nữ,Tourist,8,7,2
+451,102021186,Nguyễn Thị Kim,Dung,22/04/1999,Nữ,Tourist,1,5,3
+452,102009923,Nguyễn Thị Kim,Dung,23/03/1998,Nữ,IT,1,5,5
+453,151000774,Nguyễn Thị Mỹ,Dung,05/08/1999,Nữ,English,3,10,1
+454,102025277,Nguyễn Thị Ngọc,Dung,03/11/1999,Nữ,English,6,6,9
+455,152002062,Nguyễn Thị Phương,Dung,31/01/1999,Nữ,Tourist,6,10,7
+456,140015354,Nguyễn Thùy,Dung,10/01/1999,Nữ,Tourist,4,6,5
+457,102000102,Phan Mỹ,Dung,31/08/1999,Nữ,Tourist,6,3,9
+458,142010857,Phan Phương,Dung,10/08/1999,Nữ,IT,2,10,4
+459,148002085,Phan Thụy Phương,Dung,25/09/1999,Nữ,IT,8,6,7
+460,146001704,Võ Thị Mỹ,Dung,16/11/1999,Nữ,English,10,8,8
+461,153007755,Đào Nguyễn Trí,Dũng,27/10/1999,Nam,English,1,3,3
+462,102042308,Dương Việt,Dũng,02/06/1999,Nam,English,8,8,1
+463,102022914,Lê Hoàng Trí,Dũng,23/06/1999,Nam,IT,2,7,3
+464,102037866,Lê Tiến,Dũng,29/09/1999,Nam,English,5,6,2
+465,101015727,Mạc Đào Hồng,Dũng,27/05/1999,Nam,English,7,7,7
+466,102021194,Mai Anh,Dũng,16/09/1999,Nam,Tourist,8,9,8
+467,102014886,Nguyễn Anh,Dũng,24/12/1999,Nam,Tourist,7,1,10
+468,102057566,Nguyễn Minh,Dũng,20/02/1999,Nam,Tourist,10,9,3
+469,102056855,Nguyễn Tấn,Dũng,28/07/1999,Nam,IT,5,8,5
+470,102026009,Nguyễn Tất,Dũng,24/09/1999,Nam,IT,6,1,9
+471,150008804,Nguyễn Trung,Dũng,05/03/1999,Nam,English,9,6,7
+472,102020101,Nguyễn Việt,Dũng,23/11/1999,Nam,English,6,2,9
+473,102033998,Phạm Bá,Dũng,01/11/1999,Nam,English,5,3,8
+474,152002071,Phan Khắc,Dũng,12/06/1999,Nam,IT,4,10,6
+475,102022349,Trần Trí,Dũng,21/09/1999,Nam,English,4,5,7
+476,102022921,Trần Hữu,Dụng,02/11/1999,Nam,English,8,6,1
+477,102056224,Đặng Thị Thùy,Dương,10/03/1999,Nữ,Tourist,8,8,1
+478,102015423,Huỳnh Phi,Dương,11/12/1999,Nam,Tourist,7,1,8
+479,102028362,Lê Ánh,Dương,06/07/1999,Nữ,Tourist,5,1,9
+480,102050450,Lê Nguyễn Tùng,Dương,06/12/1999,Nam,IT,1,7,9
+481,102005584,Nguyễn Duy Thùy,Dương,29/06/1999,Nữ,IT,3,9,10
+482,102008648,Nguyễn Thị Thùy,Dương,27/09/1999,Nữ,English,2,2,6
+483,142008678,Nguyễn Thị Thùy,Dương,23/11/1999,Nữ,English,5,5,7
+484,122002980,Nguyễn Thuỳ,Dương,01/01/1999,Nữ,English,1,7,7
+485,148005799,Phạm Thị Thuỳ,Dương,25/03/1999,Nữ,IT,6,7,8
+486,150006360,Phạm Thị Thùy,Dương,02/10/1999,Nữ,English,7,4,2
+487,102008008,Tô Nguyễn Hoàng Thùy,Dương,15/08/1999,Nữ,English,2,4,9
+488,102011693,Trần Thị Thùy,Dương,24/07/1999,Nữ,Tourist,5,10,4
+489,135003972,Nguyễn Nguyễn Minh,Đường,01/01/1999,Nam,Tourist,9,2,7
+490,148002091,Bùi Nguyễn Nhật,Duy,02/04/1999,Nam,Tourist,4,1,5
+491,102016508,Cao Nguyễn Hoàng,Duy,11/12/1999,Nam,IT,2,7,8
+492,102000987,Diệp Từ,Duy,21/05/1999,Nam,English,10,5,7
+493,102038550,Đoàn Vĩ,Duy,19/09/1999,Nam,English,4,4,1
+494,102035586,Dương Thái Thanh,Duy,11/07/1999,Nam,Tourist,5,10,3
+495,102022352,Hồ ĐứC,Duy,04/09/1999,Nam,Tourist,9,3,10
+496,102053642,Hồ Đức,Duy,25/01/1999,Nam,Tourist,4,1,10
+497,137000059,Hồ Đức,Duy,20/11/1999,Nam,IT,1,9,10
+498,102022355,Lê Hồ Minh,Duy,05/03/1999,Nam,IT,8,9,1
+499,159000108,Lê Hoàng Khương,Duy,05/11/1999,Nam,English,6,8,5
+500,102031962,Lê Phan,Duy,04/11/1999,Nam,English,3,8,8
+501,102008633,Nguyễn,Duy,26/11/1999,Nam,English,4,3,8
+502,102004502,Nguyễn Anh,Duy,04/07/1999,Nam,IT,1,5,3
+503,102035591,Nguyễn Bá,Duy,18/03/1999,Nam,English,9,9,7
+504,102062005,Nguyễn Đức,Duy,02/01/1997,Nam,English,2,7,7
+505,102030655,Nguyễn Hùng,Duy,13/07/1999,Nam,Tourist,10,6,4
+506,102008635,Nguyễn Lê Khánh,Duy,10/09/1999,Nam,Tourist,9,4,3
+507,102062007,Nguyễn Lê Quang,Duy,29/01/1998,Nam,Tourist,9,6,10
+508,102016511,Nguyễn Lưu Anh,Duy,07/11/1999,Nam,IT,6,2,10
+509,102029197,Nguyễn Nhật,Duy,27/05/1999,Nam,IT,2,5,10
+510,102007339,Nguyễn Phương,Duy,21/09/1999,Nam,English,10,3,5
+511,148010473,NguyễN TàI,Duy,12/04/1999,Nam,English,2,9,10
+512,157000518,Nguyễn Thanh,Duy,07/12/1999,Nam,English,4,4,1
+513,102022926,Nguyễn Thành,Duy,25/02/1999,Nam,IT,4,4,4
+514,102028352,Nguyễn Thiện,Duy,05/08/1999,Nam,English,9,3,6
+515,102023641,Nguyễn Trần Quốc,Duy,18/09/1999,Nam,English,1,6,6
+516,102005007,Phan Công,Duy,10/04/1999,Nam,Tourist,8,3,7
+517,102035598,Phan Đức Công,Duy,01/12/1999,Nam,Tourist,7,4,9
+518,102001530,Trần Cao,Duy,22/12/1999,Nam,Tourist,1,9,10
+519,102029201,Trương Hoàng,Duy,03/11/1999,Nam,IT,3,3,10
+520,102006139,Võ Trường,Duy,18/12/1999,Nam,IT,8,10,1
+521,102067561,Vũ Nguyễn Đức,Duy,23/07/1996,Nam,English,5,10,7
+522,102040176,Đặng Hà Mỹ,Duyên,22/02/1999,Nữ,English,1,5,6
+523,102020118,Dương Thị Mỹ,Duyên,28/10/1997,Nữ,English,8,8,9
+524,159000115,Hồ Hương Mỹ,Duyên,26/12/1999,Nữ,IT,8,1,4
+525,137001148,Huỳnh Thùy,Duyên,07/09/1999,Nữ,English,3,10,4
+526,102032743,Lê Mỹ Kỳ,Duyên,05/10/1999,Nữ,English,5,10,10
+527,153007763,Lê Thị Kim,Duyên,29/10/1999,Nữ,Tourist,2,4,2
+528,102008644,Lê Thị Kỳ,Duyên,14/09/1999,Nữ,Tourist,9,7,1
+529,102002713,Nguyễn Đinh Thuỳ,Duyên,02/06/1999,Nữ,Tourist,5,1,10
+530,102038566,Nguyễn Doãn Thiện,Duyên,06/04/1999,Nữ,IT,1,6,2
+531,147001211,Nguyễn Khắc Mỹ,Duyên,25/03/1999,Nữ,English,9,4,6
+532,102023647,Nguyễn Mỹ,Duyên,13/08/1999,Nữ,English,9,2,2
+533,142010863,Nguyễn Ngọc Bảo,Duyên,08/02/1999,Nữ,Tourist,8,2,2
+534,102011178,Nguyễn Quỳnh,Duyên,06/08/1999,Nữ,Tourist,2,7,1
+535,102005013,Phạm Đinh Phương,Duyên,08/06/1999,Nữ,Tourist,4,1,6
+536,141001089,Phạm Hoàng Khánh,Duyên,14/02/1999,Nữ,IT,1,3,7
+537,148016510,Phạm Minh,Duyên,04/06/1999,Nữ,IT,10,7,1
+538,102012752,Phạm Mỹ,Duyên,11/03/1999,Nữ,English,7,9,2
+539,102027499,Phạm Thị Mỹ,Duyên,12/02/1999,Nữ,English,4,10,7
+540,102014902,Thiều Thị Mỹ,Duyên,22/09/1999,Nữ,English,2,10,1
+541,102009942,Trần Ngọc,Duyên,14/02/1999,Nữ,IT,6,1,10
+542,102022934,Trần Ngọc Mỹ,Duyên,17/07/1999,Nữ,English,3,3,9
+543,146005675,Trần Thị Kỳ,Duyên,19/10/1999,Nữ,English,4,2,5
+544,153002794,Võ Thị Mỹ,Duyên,31/08/1999,Nữ,Tourist,10,4,10
+545,102020122,Nguyễn Nguyên,Dzi,28/08/1999,Nữ,Tourist,9,6,3
+546,102017968,Chuang Quei,Eng,02/09/1999,Nữ,Tourist,7,10,10
+547,102008024,Cao Ngọc Hoàng,Giang,17/11/1999,Nữ,IT,7,2,6
+548,102004524,Đinh Trần Thanh,Giang,18/05/1999,Nữ,IT,4,6,4
+549,102005597,Đỗ Nguyễn Cẩm,Giang,28/04/1999,Nữ,English,2,5,9
+550,102024813,Lâm Trúc,Giang,03/03/1999,Nữ,English,3,7,10
+551,102035071,Lương Thị Quỳnh,Giang,21/09/1999,Nữ,English,7,4,6
+552,102006164,Nguyễn Hồ Hương,Giang,12/03/1999,Nữ,IT,10,1,7
+553,102053705,Nguyễn Thị Hương,Giang,13/09/1999,Nữ,English,3,1,2
+554,102003193,Nguyễn Thị Kiều,Giang,07/04/1999,Nữ,English,2,4,6
+555,153007787,Nguyễn Thị Trà,Giang,18/08/1999,Nữ,Tourist,4,1,5
+556,102020542,Nguyễn Thị Trà,Giang,23/09/1999,Nữ,Tourist,9,6,3
+557,102024814,Trần Châu,Giang,25/05/1999,Nam,Tourist,4,2,9
+558,164002944,Trần Thị Trúc,Giang,12/02/1999,Nữ,IT,2,4,7
+559,102068825,Trương Thị Trường,Giang,29/04/1997,Nữ,IT,5,2,6
+560,102037927,Võ Thanh Trường,Giang,23/01/1998,Nam,English,1,8,4
+561,102004096,Phạm Ngọc Kim,Giao,08/06/1999,Nữ,English,3,6,10
+562,152008794,Nguyễn Thái,Giàu,22/11/1999,Nữ,English,1,7,6
+563,102058585,Trần Ngọc,Giàu,10/12/1999,Nữ,IT,6,4,8
+564,102005035,Chu Thái,Hà,27/05/1999,Nữ,English,9,9,4
+565,102005036,Đỗ Thanh,Hà,02/04/1999,Nữ,English,2,4,2
+566,102002732,Khưu Bích,Hà,26/01/1999,Nữ,Tourist,8,7,8
+567,102042356,Lê Thị Ngọc,Hà,20/03/1999,Nữ,Tourist,8,7,9
+568,102008691,Ngô Lê Ngọc,Hà,19/01/1999,Nữ,Tourist,1,9,5
+569,102068828,Ngô Trần Thanh,Hà,10/09/1997,Nữ,IT,10,9,8
+570,102044350,Nguyễn Diệu,Hà,11/06/1999,Nữ,English,9,10,6
+571,102006834,Nguyễn Lê,Hà,30/12/1999,Nam,English,10,4,6
+572,102036569,Nguyễn Ngọc Vân,Hà,22/10/1999,Nữ,Tourist,7,7,4
+573,140015505,Nguyễn Thị Kim,Hà,24/05/1999,Nữ,Tourist,5,3,6
+574,160000105,Phạm Nguyễn Ngân,Hà,04/04/1999,Nữ,Tourist,5,7,8
+575,146005156,Phạm Thanh,Hà,13/03/1999,Nữ,IT,10,10,2
+576,102058115,Phạm Thị Nguyệt,Hà,08/02/1999,Nữ,IT,1,5,9
+577,125017386,Trần Thị,Hà,14/07/1999,Nữ,English,1,4,4
+578,102005039,Trương Phạm Diễm,Hà,26/08/1999,Nữ,English,10,2,3
+579,153001106,Trương Thị Thanh,Hà,29/07/1999,Nữ,English,1,8,7
+580,102005040,Lê Nhật,Hạ,10/08/1999,Nữ,IT,1,6,9
+581,102009978,Nghiêm Trần Nhật,Hạ,14/03/1999,Nữ,English,8,6,3
+582,102022381,Trang TrầN NhậT,Hạ,11/02/1999,Nữ,English,5,9,7
+583,148001008,Huỳnh Thanh,Hải,28/07/1999,Nam,Tourist,10,5,9
+584,102037934,Lại Tâm,Hải,22/01/1999,Nam,Tourist,6,4,6
+585,102056284,Nguyễn Hồng,Hải,14/10/1999,Nam,Tourist,1,9,7
+586,102001057,Tiết Quốc,Hải,13/09/1999,Nam,IT,10,6,1
+587,102014942,Trương Chí,Hải,29/01/1999,Nam,IT,7,10,8
+588,102010793,Vương Phẩm,Hàm,21/04/1999,Nam,English,6,7,5
+589,102035079,Mách,Hamzah,28/06/1999,Nam,English,2,3,10
+590,102025300,Lương Thiểu,Hán,15/04/1998,Nam,English,7,10,7
+591,102042368,Đặng Ngọc,Hân,18/02/1999,Nữ,IT,7,8,4
+592,102039317,Đinh Quốc Gia,Hân,13/04/1999,Nữ,English,2,10,5
+593,102010005,Đoàn Ngọc Bảo,Hân,26/09/1999,Nữ,English,8,7,7
+594,102006853,Đoàn Thiên,Hân,23/03/1999,Nữ,Tourist,2,7,6
+595,102006179,Dương Gia,Hân,09/05/1999,Nữ,Tourist,5,6,4
+596,102035671,Hồ Võ Gia,Hân,20/02/1999,Nam,Tourist,2,1,6
+597,102002211,Lâm Gia,Hân,17/10/1999,Nữ,IT,5,10,6
+598,102002212,Lâm Kha Ngọc,Hân,03/05/1999,Nữ,IT,7,6,8
+599,102050528,Lê Gia,Hân,25/06/1999,Nữ,English,2,6,10
+600,102005609,Lê Thị Hồng,Hân,17/12/1999,Nữ,English,2,8,3
+601,102032813,Lỗ Mai,Hân,23/06/1999,Nữ,English,2,1,7
+602,148002151,Lương Gia,Hân,20/10/1999,Nữ,IT,10,1,1
+603,102003210,Nguyễn Bảo,Hân,11/03/1999,Nữ,English,1,5,3
+604,102004114,Nguyễn Đặng Gia,Hân,23/04/1999,Nữ,English,3,4,8
+605,159000222,Nguyễn Gia,Hân,25/07/1999,Nữ,Tourist,2,9,10
+606,102013567,Nguyễn Gia,Hân,21/06/1999,Nữ,Tourist,5,3,9
+607,102010009,Nguyễn Hiểu,Hân,22/11/1999,Nữ,Tourist,7,7,8
+608,102005610,Nguyễn Hoàng Ngọc,Hân,20/03/1999,Nữ,IT,4,8,9
+609,102006181,Nguyễn Huỳnh Bảo,Hân,30/11/1999,Nữ,English,10,7,5
+610,102056312,Nguyễn Ngọc,Hân,17/11/1999,Nữ,English,9,5,4
+611,102014359,Nguyễn Ngọc,Hân,21/11/1999,Nữ,Tourist,2,3,1
+612,102022401,Nguyễn Thị Mỹ,Hân,15/09/1999,Nữ,Tourist,8,1,10
+613,102021276,Nguyễn Trần Mai,Hân,04/06/1999,Nữ,Tourist,8,7,5
+614,146004112,Nguyễn Vỏ Gia,Hân,08/03/1999,Nữ,IT,2,3,1
+615,102054932,Phạm Ngọc Gia,Hân,15/03/1998,Nữ,IT,6,5,10
+616,102002216,Phạm Thị Gia,Hân,23/09/1999,Nữ,English,8,1,10
+617,102010010,Phan Gia,Hân,13/12/1998,Nữ,English,1,1,7
+618,152004530,Trần Thị Hồng,Hân,10/09/1999,Nữ,English,2,8,4
+619,156009889,Trần Võ Gia,Hân,21/06/1999,Nữ,IT,3,9,1
+620,102029854,Trịnh Gia,Hân,21/06/1999,Nữ,English,3,9,8
+621,134012803,Võ Trần Bảo,Hân,07/11/1999,Nữ,English,4,7,2
+622,102056316,Vương Ngọc,Hân,17/10/1999,Nữ,Tourist,8,10,5
+623,102012794,Lê Lưu Thanh,Hằng,07/08/1999,Nữ,Tourist,5,5,9
+624,102057618,Lê Thị Minh,Hằng,18/05/1999,Nữ,Tourist,8,1,9
+625,140002447,Lê Thị Thảo,Hằng,16/04/1999,Nữ,IT,8,2,2
+626,144006669,Nguyễn Thị,Hằng,01/12/1999,Nữ,IT,10,4,6
+627,141001148,Nguyễn Thị Diệu,Hằng,17/02/1999,Nữ,English,9,5,9
+628,131009030,Nguyễn Thị Lệ,Hằng,06/09/1999,Nữ,English,5,8,10
+629,137014517,Nguyễn Thị Mỹ,Hằng,18/02/1999,Nữ,English,8,3,2
+630,148005881,Nguyễn Vũ Thái,Hằng,05/08/1999,Nữ,IT,1,4,5
+631,148002146,Trần Thị Kim,Hằng,10/05/1999,Nữ,English,6,10,5
+632,102024191,Trần Thị Vy,Hằng,10/10/1998,Nữ,English,3,2,4
+633,152008176,Vũ Thị Thu,Hằng,10/09/1999,Nữ,Tourist,3,10,3
+634,128029621,Bùi Thị,Hạnh,10/12/1999,Nữ,Tourist,4,6,5
+635,102030725,Đỗ Nguyễn Minh,Hạnh,16/04/1999,Nữ,Tourist,2,8,5
+636,102016013,Lê Hoàng,Hạnh,02/05/1999,Nữ,IT,10,1,7
+637,102022390,Lê Nguyễn Hữu,Hạnh,01/01/1999,Nữ,IT,3,7,3
+638,134006671,Lê Thị,Hạnh,03/01/1999,Nữ,English,9,9,1
+639,164000390,Lê Thị Minh,Hạnh,24/10/1999,Nữ,English,8,1,3
+640,102057615,Nguyễn Hồng,Hạnh,23/04/1999,Nữ,English,6,6,1
+641,102033380,Nguyễn Lê Kiều,Hạnh,08/04/1999,Nữ,IT,6,3,2
+642,102034082,Nguyễn Minh,Hạnh,20/10/1999,Nữ,English,6,8,7
+643,102023685,Nguyễn Thị Minh,Hạnh,24/05/1999,Nữ,English,6,6,8
+644,102000191,Nguyễn Việt Ngân,Hạnh,06/04/1999,Nữ,Tourist,9,6,8
+645,102028404,Phùng Thị Mỹ,Hạnh,24/03/1999,Nữ,Tourist,8,7,7
+646,102007368,Thân Hồng,Hạnh,27/01/1999,Nữ,Tourist,3,7,2
+647,102035661,Vũ Đức,Hạnh,28/11/1999,Nam,IT,2,3,4
+648,102006842,Đinh Quốc,Hào,06/03/1999,Nam,English,7,2,9
+649,158002253,Đỗ Nhật,Hào,06/01/1999,Nam,English,9,5,10
+650,102001560,Hoàng Thái,Hào,12/10/1997,Nam,Tourist,1,4,8
+651,102024837,Hứa Tuấn,Hào,21/06/1999,Nam,Tourist,4,7,7
+652,150005638,Lê Anh,Hào,25/01/1999,Nam,Tourist,10,3,6
+653,102036575,Nguyễn Đình Thiên,Hào,11/03/1999,Nam,IT,10,1,6
+654,149009636,Nguyễn Quốc,Hào,23/11/1999,Nam,IT,6,8,10
+655,142006485,Võ Nhật,Hào,09/09/1998,Nam,English,2,1,5
+656,153011397,Lê Hồng,Hảo,02/04/1999,Nữ,English,3,10,3
+657,102008707,Nguyễn Diệp Kiều,Hảo,21/04/1999,Nữ,English,2,5,3
+658,102002737,Nguyễn Thị Mỹ,Hảo,18/03/1999,Nữ,IT,2,6,9
+659,102012809,Lại Phúc,Hậu,08/04/1999,Nam,English,4,4,6
+660,102032819,Lý Phúc,Hậu,08/10/1999,Nam,English,7,3,10
+661,102026873,Nguyễn Đức,Hậu,19/03/1999,Nam,Tourist,3,10,5
+662,102016023,Phạm Lê Nhiên,Hậu,21/02/1999,Nữ,Tourist,2,4,4
+663,156003003,Phạm Quốc,Hậu,17/04/1999,Nam,Tourist,1,4,9
+664,146001776,Nguyễn Văn,Hên,01/01/1999,Nam,IT,7,8,8
+665,102006859,Bùi Thảo,Hiền,26/04/1999,Nữ,IT,7,8,9
+666,138007138,Bùi Thị,Hiền,30/06/1999,Nữ,English,1,2,8
+667,153007807,Đặng Nguyễn Minh,Hiền,12/06/1999,Nam,English,2,4,3
+668,102022405,Huỳnh Ngọc,Hiền,05/03/1999,Nữ,English,6,9,10
+669,140017668,Huỳnh Nguyễn Thu,Hiền,25/09/1999,Nữ,IT,6,5,6
+670,102002745,Lê An Thuý,Hiền,19/12/1999,Nữ,English,6,6,2
+671,102020559,Lương Chí,Hiền,01/01/1999,Nam,English,7,3,9
+672,102009278,Nguyễn Hồng Ngọc,Hiền,11/11/1999,Nữ,Tourist,3,7,8
+673,102029855,Nguyễn Ngọc,Hiền,09/04/1999,Nữ,Tourist,2,4,9
+674,153004973,Nguyễn Thị Cẩm,Hiền,13/04/1999,Nữ,Tourist,4,10,8
+675,148010538,Nguyễn Thị Thu,Hiền,30/12/1999,Nữ,IT,5,7,6
+676,152002184,Nguyễn Thị Thúy,Hiền,20/03/1999,Nữ,IT,9,8,9
+677,102043614,Nguyễn Thu,Hiền,12/01/1999,Nữ,English,6,5,10
+678,148022020,Phạm Thị Thanh,Hiền,18/01/1998,Nữ,English,3,8,8
+679,152008188,Phan Thị,Hiền,19/09/1999,Nữ,English,8,1,6
+680,137006732,Tạ Công Bích,Hiền,28/02/1999,Nữ,IT,6,10,1
+681,102024201,Tô Hào,Hiền,21/05/1999,Nam,English,2,2,2
+682,102037954,Trần Nguyễn Thục,Hiền,16/12/1999,Nữ,English,10,1,3
+683,150005058,Trần Thanh,Hiền,09/08/1999,Nam,Tourist,2,2,7
+684,134007355,Trần Thị Lệ,Hiền,01/04/1999,Nữ,Tourist,3,5,8
+685,102049786,Võ Thanh,Hiền,09/03/1999,Nữ,Tourist,1,7,7
+686,141000568,Võ Thị Thu,Hiền,10/08/1999,Nữ,IT,9,1,3
+687,102012819,Nguyễn Anh,Hiển,28/08/1999,Nam,English,6,3,2
+688,102030747,Nguyễn Minh,Hiển,23/11/1999,Nam,English,5,6,2
+689,102022409,Phạm Minh,Hiển,06/10/1999,Nam,Tourist,7,3,2
+690,134007356,Trần Văn,Hiển,20/07/1999,Nam,Tourist,9,1,8
+691,153003934,Nguyễn Phú,Hiệp,25/05/1999,Nam,Tourist,1,10,3
+692,142001997,Nguyễn Trần Bảo,Hiệp,05/10/1999,Nam,IT,8,7,4
+693,102032831,Nguyễn Trịnh Hoàng,Hiệp,22/10/1999,Nam,IT,10,2,7
+694,102011760,Phạm Ngọc,Hiệp,17/11/1999,Nam,English,7,6,9
+695,102005057,Vũ Hoàng,Hiệp,31/07/1999,Nam,English,6,6,7
+696,152000681,Vũ Mạnh,Hiệp,03/04/1999,Nam,English,7,1,9
+697,102044375,Hồ Ngọc,Hiếu,22/12/1999,Nữ,IT,8,9,6
+698,137000132,Huỳnh Hữu,Hiếu,29/05/1999,Nam,English,8,4,9
+699,102061320,Lê,Hiếu,21/02/1996,Nam,English,2,2,6
+700,157002769,Lê Trung,Hiếu,25/05/1999,Nam,Tourist,9,6,4
+701,148005911,Nguyễn Đăng,Hiếu,12/04/1999,Nam,Tourist,10,9,9
+702,102022990,Nguyễn Lê Trọng,Hiếu,27/10/1999,Nam,Tourist,8,3,2
+703,102039336,Nguyễn Minh,Hiếu,09/09/1999,Nam,IT,2,9,2
+704,102014373,Nguyễn Minh,Hiếu,21/02/1999,Nam,IT,9,1,9
+705,102045028,Nguyễn Minh,Hiếu,28/01/1999,Nam,English,7,4,3
+706,102056332,Nguyễn Minh,Hiếu,11/10/1999,Nam,English,8,2,1
+707,102012824,Nguyễn Ngọc,Hiếu,27/02/1999,Nam,English,6,5,6
+708,152001342,Nguyễn Thị Ngọc,Hiếu,02/11/1999,Nữ,IT,8,8,10
+709,102030757,Nguyễn Trọng,Hiếu,08/12/1999,Nam,English,3,3,1
+710,102029289,Nguyễn Trọng,Hiếu,17/12/1999,Nam,English,8,8,9
+711,102048080,Nguyễn Trương Minh,Hiếu,14/09/1999,Nữ,Tourist,10,9,10
+712,137001198,Nguyễn Xuân,Hiếu,22/05/1999,Nam,Tourist,9,9,8
+713,102005063,Trần Trung,Hiếu,15/09/1999,Nam,Tourist,7,4,6
+714,102005627,Lâm Lợi,Hinh,12/07/1999,Nữ,IT,9,8,9
+715,155000641,Đàm Thị Thanh,Hoa,29/12/1999,Nữ,IT,9,3,2
+716,102051032,Đoàn Thị Kim,Hoa,15/11/1999,Nữ,English,10,5,9
+717,102008063,Dư Chấn,Hoa,21/07/1999,Nam,English,8,8,9
+718,102010031,Nguyễn Lê Kim,Hoa,07/01/1999,Nữ,English,5,8,4
+719,135009818,Nguyễn Thị Kiều,Hoa,02/10/1999,Nữ,IT,4,10,10
+720,102054970,Văn Viết Anh,Hoa,06/02/1999,Nữ,English,2,8,2
+721,102045039,Vũ Ngọc Quỳnh,Hoa,25/01/1999,Nữ,English,7,9,6
+722,102068868,Lê Đình,Hòa,12/02/1996,Nam,Tourist,8,8,1
+723,102008733,Lục Chấn,Hòa,09/11/1999,Nam,Tourist,4,9,5
+724,152008204,Nguyễn Minh,Hòa,21/05/1999,Nam,Tourist,2,10,9
+725,141008043,Nguyễn Phước Hữa,Hòa,09/03/1997,Nữ,IT,6,7,7
+726,102056898,Nguyễn Thái,Hòa,27/05/1999,Nam,English,6,8,2
+727,102051035,Nguyễn Thanh,Hòa,30/08/1999,Nam,English,4,9,1
+728,142000887,Trần Duy,Hòa,14/09/1999,Nam,Tourist,9,3,8
+729,102021303,Võ Kim,Hòa,15/10/1999,Nữ,Tourist,6,3,8
+730,102024885,Võ Phước,Hòa,25/04/1999,Nam,Tourist,2,9,6
+731,129002380,Bùi Thị,Hoài,25/05/1999,Nữ,IT,10,6,1
+732,152006974,Đinh Ngọc,Hoài,02/09/1999,Nam,IT,1,7,8
+733,125002431,Nguyễn Thị,Hoài,24/02/1999,Nữ,English,1,8,10
+734,102030763,Tăng Thị Thanh,Hoài,21/02/1999,Nữ,English,3,6,2
+735,102007383,Lương Tịnh Bảo,Hoàn,18/09/1999,Nam,English,6,3,5
+736,102032054,Bùi Đăng,Hoàng,29/07/1999,Nam,IT,10,7,5
+737,102040433,Bùi Khánh,Hoàng,16/11/1999,Nam,English,1,2,8
+738,102067671,Đào Vũ Minh,Hoàng,26/09/1998,Nam,English,7,9,7
+739,102046606,Đinh Thụy Kim,Hoàng,23/10/1999,Nữ,Tourist,5,3,8
+740,102007385,Huỳnh Hồng,Hoàng,15/07/1999,Nam,Tourist,7,7,1
+741,102034129,Huỳnh Huy,Hoàng,05/08/1999,Nam,Tourist,9,2,6
+742,102027598,Lê Huy,Hoàng,12/10/1999,Nam,IT,8,5,9
+743,102014381,Nguyễn Đức,Hoàng,04/07/1999,Nam,IT,8,5,7
+744,148006649,Nguyễn Đức,Hoàng,21/02/1999,Nam,English,8,8,9
+745,102024891,Nguyễn Huy,Hoàng,02/05/1999,Nam,English,6,6,3
+746,102033401,Nguyễn Minh,Hoàng,30/12/1998,Nam,English,1,1,9
+747,102006882,Nguyễn Minh,Hoàng,04/01/1999,Nam,IT,8,4,6
+748,102004542,Nguyễn Thái,Hoàng,14/07/1999,Nam,English,4,3,8
+749,142008756,Nguyễn Trường,Hoàng,15/10/1998,Nam,English,1,7,3
+750,102035704,Nguyễn Viết,Hoàng,24/07/1999,Nam,Tourist,1,2,4
+751,102030771,Nguyễn Việt,Hoàng,14/04/1999,Nam,Tourist,7,5,9
+752,102053781,Phạm Quốc,Hoàng,25/11/1999,Nam,Tourist,8,7,7
+753,102005631,Phạm Viết,Hoàng,29/12/1998,Nam,IT,7,6,3
+754,144003776,Phan Huy,Hoàng,29/09/1999,Nam,IT,8,9,2
+755,102056359,Phan Xuân,Hoàng,14/01/1999,Nam,English,6,1,4
+756,142000182,Trần,Hoàng,23/11/1999,Nam,English,2,8,3
+757,102043628,Trần Huy,Hoàng,07/03/1999,Nam,English,1,3,6
+758,102007388,Trương Mỹ,Hoàng,29/08/1999,Nữ,IT,8,7,6
+759,102014984,Vũ Minh,Hoàng,12/10/1998,Nam,English,2,1,4
+760,102010828,Trần Phẩm,Hoằng,04/02/1999,Nam,English,5,8,7
+761,152008215,Bùi Thị Thúy,Hồng,27/06/1999,Nữ,Tourist,10,6,10
+762,148002183,Đỗ Bảo,Hồng,29/03/1999,Nữ,Tourist,4,9,9
+763,102015478,Hoàng Lê Ánh,Hồng,12/03/1999,Nữ,Tourist,2,10,9
+764,102021314,Huỳnh Tuyết,Hồng,15/11/1999,Nữ,IT,3,6,1
+765,142007165,Lê Thị,Hồng,27/03/1999,Nữ,English,9,7,5
+766,149007952,Ngô Thị Ánh,Hồng,29/08/1999,Nữ,English,7,10,5
+767,102056905,Nguyễn Thị Ánh,Hồng,14/12/1999,Nữ,Tourist,3,10,4
+768,146000222,Nguyễn Thị Tuyết,Hồng,27/11/1999,Nữ,Tourist,9,1,7
+769,153002328,Phạm Lưu,Hồng,02/10/1999,Nữ,Tourist,3,5,5
+770,102003238,Phạm Phi,Hồng,24/08/1999,Nam,IT,9,2,1
+771,102060140,Phan Thị Thảo,Hồng,20/05/1999,Nữ,IT,2,6,8
+772,102004543,Trương Kim,Hồng,29/09/1999,Nữ,English,4,9,7
+773,102010831,Võ Quang,Huân,15/06/1999,Nam,English,4,8,5
+774,102023010,Trần Trọng,Huấn,07/06/1999,Nam,English,9,7,3
+775,102024212,Đồng Thị,Huế,13/04/1999,Nữ,IT,7,2,1
+776,117002686,Trần Thị,Huế,15/10/1999,Nữ,English,1,8,6
+777,102056366,Phạm Tú,Huệ,15/08/1999,Nữ,English,3,6,6
+778,102012842,Cao Chiếu,Hùng,15/12/1999,Nam,Tourist,6,5,8
+779,102008750,Lý,Hùng,10/07/1999,Nam,Tourist,3,9,10
+780,144002521,Nguyễn Huy,Hùng,08/03/1999,Nam,Tourist,1,4,5
+781,102003648,Trần Huỳnh Mạnh,Hùng,06/09/1999,Nam,IT,6,4,9
+782,102014991,Trần Thế,Hùng,19/04/1999,Nam,IT,6,6,3
+783,140019404,Vũ Thế,Hùng,25/06/1998,Nam,English,9,9,4
+784,152008246,Bạch Thanh,Hưng,30/06/1999,Nam,English,10,8,3
+785,102020263,Đặng,Hưng,28/05/1999,Nam,English,7,7,8
+786,102056402,Đào Sĩ Gia,Hưng,19/02/1999,Nam,IT,4,2,3
+787,102014410,Đoàn Tấn,Hưng,08/01/1999,Nam,English,5,10,4
+788,135004852,Hà Thái,Hưng,30/12/1999,Nam,English,3,4,5
+789,102011807,Huỳnh Phú,Hưng,17/09/1999,Nam,Tourist,1,6,4
+790,102001163,Lê Thạch Đăng,Hưng,13/11/1999,Nam,Tourist,4,2,5
+791,102039378,Lê Vĩnh,Hưng,02/11/1999,Nam,Tourist,10,2,8
+792,102039379,Lưu,Hưng,30/07/1999,Nam,IT,3,5,5
+793,102058191,Nguyễn Chí,Hưng,20/05/1999,Nam,IT,10,2,5
+794,133005819,Nguyễn Đông,Hưng,25/11/1999,Nam,English,5,4,3
+795,157003811,Nguyễn Khánh,Hưng,09/05/1999,Nam,English,1,7,10
+796,102024940,Nguyễn Mạnh,Hưng,27/05/1999,Nam,English,2,9,10
+797,102010075,Nguyễn Quốc,Hưng,11/02/1998,Nam,IT,10,7,5
+798,102035136,Nguyễn Thành,Hưng,04/10/1999,Nam,English,5,3,7
+799,102056927,Phan Gia,Hưng,02/02/1999,Nam,English,7,6,9
+800,102055476,Võ Đặng Quốc,Hưng,12/08/1999,Nam,Tourist,10,7,8
+801,148002204,Bùi Xuân,Hương,22/03/1999,Nữ,Tourist,7,5,7
+802,102008791,Đinh Thị Ánh,Hương,30/10/1999,Nữ,Tourist,6,8,9
+803,102016048,Đoàn Trần Quỳnh,Hương,07/10/1999,Nữ,IT,4,4,3
+804,102002781,Lâm Thảo,Hương,20/10/1999,Nữ,English,2,2,2
+805,102008103,Lê Ngọc Quỳnh,Hương,01/10/1999,Nữ,English,1,2,5
+806,102026163,Nguyễn Đặng Quỳnh,Hương,01/11/1999,Nữ,Tourist,10,8,7
+807,102030820,Nguyễn Hồ Xuân,Hương,04/12/1999,Nữ,Tourist,6,4,2
+808,102055057,Nguyễn Thị Kim,Hương,05/12/1999,Nữ,Tourist,5,1,1
+809,121002695,Nguyễn Thị Lan,Hương,22/02/1999,Nữ,IT,2,5,4
+810,144001866,Nguyễn Thị Thanh,Hương,27/08/1999,Nữ,IT,6,7,9
+811,102053271,Nguyễn Thị Trúc,Hương,21/04/1999,Nữ,English,5,5,7
+812,154008386,Nguyễn Thiên,Hương,17/03/1999,Nữ,English,1,2,4
+813,144001867,Phan Cao Quỳnh,Hương,15/05/1999,Nữ,English,1,3,9
+814,102000281,Trần Ngọc,Hương,27/09/1999,Nữ,IT,7,1,10
+815,157006814,Nguyễn Thị Cẩm,Hường,15/10/1998,Nữ,English,2,2,3
+816,101022009,Trần Ngọc,Hường,04/09/1999,Nữ,English,2,4,10
+817,148013791,Cao Hoàng,Hưởng,18/01/1999,Nam,Tourist,9,2,3
+818,102056910,Bùi Quốc,Huy,30/01/1999,Nam,Tourist,10,1,8
+819,102001116,Đặng Hồng,Huy,18/06/1999,Nam,Tourist,10,9,8
+820,102021324,Đặng Nhựt,Huy,01/11/1999,Nam,IT,2,5,7
+821,147003006,Đặng Quang,Huy,28/05/1999,Nam,IT,10,3,7
+822,102003651,Đặng Quang,Huy,16/08/1999,Nam,English,6,7,10
+823,102001117,Đinh Hoàng Bảo,Huy,17/01/1999,Nam,English,9,7,7
+824,102005637,Dương Gia,Huy,13/10/1999,Nam,English,8,3,5
+825,102033408,Hà Lê Quốc,Huy,28/01/1999,Nam,IT,5,5,5
+826,102014995,Huỳnh Đức,Huy,22/11/1999,Nam,English,4,3,5
+827,102056914,Huỳnh Quang,Huy,04/05/1999,Nam,English,1,6,8
+828,102035116,Lê,Huy,02/05/1999,Nam,Tourist,8,10,8
+829,160000539,Lê Quốc,Huy,11/10/1999,Nam,Tourist,8,9,1
+830,102036635,Lê Trần Bá,Huy,28/09/1999,Nam,Tourist,5,2,7
+831,142011463,Lữ Gia,Huy,15/10/1999,Nam,IT,5,3,7
+832,102005640,Lương Nguyễn Ngọc,Huy,10/07/1999,Nam,IT,3,3,1
+833,102040525,Ngô Tá Hoàng,Huy,21/02/1999,Nam,English,5,2,4
+834,102016662,Nguyễn Anh,Huy,11/10/1999,Nam,English,3,2,8
+835,140017781,Nguyễn Bùi Đức,Huy,10/10/1999,Nam,English,7,4,8
+836,102015487,Nguyễn Bùi Tấn,Huy,04/07/1999,Nam,IT,5,10,2
+837,102035724,Nguyễn Đức,Huy,24/10/1999,Nam,English,2,2,3
+838,102043106,Nguyễn Hoàng,Huy,17/09/1999,Nam,English,4,3,1
+839,102004142,Nguyễn Mạnh,Huy,25/05/1999,Nam,Tourist,3,1,2
+840,102064392,Nguyễn Minh,Huy,23/04/1997,Nam,Tourist,8,8,7
+841,102037320,Nguyễn Nhật,Huy,25/03/1999,Nam,Tourist,3,10,9
+842,140015772,Nguyễn Quang,Huy,14/08/1998,Nam,IT,7,8,8
+843,153000124,Nguyễn Thanh,Huy,06/09/1999,Nam,English,7,8,3
+844,102045081,Nguyễn Tiến,Huy,12/10/1999,Nam,English,3,10,9
+845,102005092,Phạm Minh,Huy,04/01/1999,Nam,Tourist,1,9,6
+846,102042409,Thi Đặng Tuấn,Huy,21/08/1999,Nam,Tourist,1,4,4
+847,133004182,Tôn Thất Minh,Huy,29/05/1999,Nam,Tourist,8,3,3
+848,102060148,Trần Bảo,Huy,24/07/1999,Nam,IT,2,5,10
+849,102030806,Trần Gia,Huy,20/06/1999,Nam,IT,6,7,3
+850,102001152,Trần Nguyễn Duy,Huy,24/11/1999,Nam,English,1,5,3
+851,141005198,Trần Nhất,Huy,01/06/1999,Nam,English,2,5,4
+852,141007109,Trần Thanh Minh,Huy,22/05/1999,Nam,English,6,5,3
+853,102001586,Trần Vân,Huy,01/04/1999,Nam,IT,7,3,5
+854,102000264,Trương Thị Lý,Huy,17/11/1999,Nữ,English,10,6,9
+855,102020571,Trương Trấn,Huy,17/10/1999,Nam,English,8,4,7
+856,102008779,Trương Triệu,Huy,19/12/1999,Nam,Tourist,7,1,4
+857,102043116,Từ Mạnh,Huy,06/11/1999,Nam,Tourist,3,1,10
+858,102055035,Võ Đức,Huy,16/08/1998,Nam,Tourist,3,4,8
+859,156002108,Võ Khắc,Huy,19/11/1999,Nam,IT,8,3,4
+860,148000252,Lê Trần Kim,Huyên,18/10/1999,Nữ,IT,2,10,7
+861,102012863,Đinh Bích,Huyền,26/05/1999,Nữ,English,5,4,1
+862,129017291,Hoàng Thị Khánh,Huyền,30/08/1999,Nữ,English,4,8,6
+863,102002253,Lê Đỗ Khánh,Huyền,26/02/1999,Nữ,English,2,5,4
+864,152008232,Lê Ngọc,Huyền,12/04/1999,Nữ,IT,7,5,10
+865,102029337,Lê Thị Mỹ,Huyền,03/11/1999,Nữ,English,3,9,5
+866,101059558,Lê Thị Thu,Huyền,26/10/1999,Nữ,English,8,7,10
+867,148024667,Nguyễn Ngọc,Huyền,26/08/1999,Nữ,Tourist,4,8,9
+868,141005215,Nguyễn Thị Minh,Huyền,25/10/1999,Nữ,Tourist,9,10,5
+869,152008235,Nguyễn Thị Mỹ,Huyền,22/10/1999,Nữ,Tourist,4,1,4
+870,156009926,Phạm Thị Ngọc,Huyền,01/10/1999,Nữ,IT,3,9,8
+871,150005098,Thái Ngọc Tường,Huyền,23/02/1999,Nữ,IT,9,7,8
+872,150005667,Trần Ngọc,Huyền,26/03/1999,Nữ,English,8,4,4
+873,102016683,Vũ Thị Kim,Huyền,20/06/1999,Nữ,English,5,3,9
+874,149007965,Lê,Huỳnh,08/12/1999,Nam,English,4,7,10
+875,161000450,Lê Kha,Huỳnh,29/09/1999,Nam,IT,10,1,3
+876,102035132,Lê Thị Thúy,Huỳnh,26/02/1999,Nữ,English,10,4,4
+877,102024952,Lâm Bội,Hy,28/10/1999,Nữ,English,7,1,3
+878,102008800,Giang Thuận,Hỷ,06/08/1999,Nam,Tourist,3,10,1
+879,102024225,Mã Quốc,Hỷ,06/09/1999,Nam,Tourist,8,3,8
+880,102024226,Quan Trạch Lai,Hỷ,09/11/1999,Nữ,Tourist,3,9,4
+881,144001868,Huỳnh,Jenny,09/12/1999,Nữ,IT,6,8,10
+882,141001238,Võ Lê Ka,Ka,03/07/1999,Nữ,English,8,10,5
+883,153007011,Lê Vĩnh,Kha,26/05/1999,Nam,English,4,8,6
+884,102032093,Nguyễn Dương Anh,Kha,07/11/1999,Nữ,Tourist,5,2,4
+885,149008902,Nguyễn Minh,Kha,03/08/1998,Nam,Tourist,6,8,5
+886,102032096,Nguyễn Đức,Khải,24/02/1999,Nam,Tourist,2,3,3
+887,102020279,Nguyễn Nhật Duy,Khải,15/05/1999,Nam,IT,5,7,10
+888,140015867,Nguyễn Quang,Khải,15/08/1999,Nam,IT,9,7,3
+889,141003506,Nguyễn Duy,Khan,16/08/1999,Nam,English,7,5,10
+890,102030829,Đào Mạnh,Khang,23/06/1999,Nam,English,5,6,1
+891,102039391,Đinh An,Khang,10/02/1999,Nữ,English,4,2,7
+892,102043643,Đỗ Phan Hoàng,Khang,09/01/1999,Nữ,IT,7,10,3
+893,102032102,Hồ Tuấn,Khang,23/11/1998,Nam,English,8,1,4
+894,102028494,Lê Hồng,Khang,02/03/1999,Nam,English,9,2,5
+895,154003375,Lê Minh,Khang,01/08/1999,Nam,Tourist,6,3,9
+896,102069583,Lê Nguyên,Khang,16/04/1997,Nam,Tourist,5,6,7
+897,156003796,Lữ Ngọc,Khang,26/03/1999,Nam,Tourist,6,4,4
+898,142005385,Lương Sĩ,Khang,17/09/1999,Nam,IT,7,8,7
+899,102024963,Nguyễn Bảo Duy,Khang,29/09/1999,Nam,IT,6,9,7
+900,146006316,Nguyễn Chí,Khang,16/12/1999,Nam,English,6,8,1
+901,102000292,Nguyễn Đình,Khang,02/04/1999,Nam,English,7,6,1
+902,102016711,Nguyễn Phúc,Khang,28/11/1999,Nam,English,9,6,5
+903,148006020,Nguyễn Phúc,Khang,24/02/1999,Nam,IT,8,8,8
+904,102042425,Nguyễn Phúc Nguyên,Khang,06/02/1999,Nam,English,6,7,8
+905,148013796,Nguyễn Trần Bảo,Khang,18/03/1999,Nam,English,6,8,10
+906,151011979,Phạm Thái Minh,Khang,04/01/1999,Nam,Tourist,7,7,8
+907,102002275,Trịnh Duy,Khang,10/12/1999,Nam,Tourist,7,3,10
+908,102021380,Võ Thanh,Khang,27/06/1999,Nam,Tourist,4,1,8
+909,102005115,Vũ,Khang,19/11/1999,Nam,IT,5,10,6
+910,102022464,Châu Yến,Khanh,28/08/1999,Nữ,IT,1,9,2
+911,102038009,Đỗ Ngọc Bảo,Khanh,05/06/1999,Nữ,English,1,10,10
+912,102000296,Dương Vũ Vân,Khanh,01/10/1999,Nữ,English,3,1,7
+913,102035770,Hồ Lê Kiều,Khanh,03/05/1999,Nữ,English,6,10,6
+914,102030842,Nguyễn Thị Bảo,Khanh,05/04/1999,Nữ,IT,3,6,9
+915,102010095,Nguyễn Thị Hiếu,Khanh,07/02/1999,Nữ,English,6,8,5
+916,159003708,Thạch Quốc,Khanh,29/04/1999,Nam,English,9,10,4
+917,102006936,Trần Mai,Khanh,01/07/1999,Nữ,Tourist,1,4,10
+918,102020284,Trần Tử Mai,Khanh,23/11/1999,Nữ,Tourist,4,5,1
+919,137001738,Võ Nguyên Phi,Khanh,16/08/1999,Nữ,Tourist,10,4,6
+920,102014428,Võ Tuấn,Khanh,25/11/1999,Nam,IT,10,4,2
+921,144004363,Vũ Ngọc Phi,Khanh,20/11/1999,Nữ,English,10,3,2
+922,102056940,Vũ Thị Ngọc,Khanh,30/09/1999,Nữ,English,1,2,3
+923,102024972,Đặng Lương,Khánh,07/03/1999,Nam,Tourist,9,9,2
+924,102032111,Đỗ Đạt,Khánh,25/07/1998,Nam,Tourist,5,10,4
+925,102020285,Đoàn Bảo,Khánh,05/06/1999,Nam,Tourist,1,9,4
+926,140019438,Hồ Quang,Khánh,09/07/1999,Nam,IT,4,2,3
+927,129024366,Lê Bá,Khánh,02/07/1999,Nam,IT,8,1,5
+928,102056941,Lương Hoàng Quốc,Khánh,02/09/1999,Nam,English,2,8,3
+929,102063794,Mai Nhật,Khánh,02/01/1999,Nữ,English,3,3,9
+930,102011841,Nguyễn,Khánh,18/11/1999,Nam,English,10,7,4
+931,147003547,Nguyễn Minh,Khánh,20/02/1998,Nam,IT,9,6,4
+932,148020382,Nguyễn Quốc,Khánh,02/02/1999,Nam,English,4,10,4
+933,102030857,Nguyễn Quốc,Khánh,02/09/1999,Nam,English,9,9,8
+934,102030858,Nguyễn Thị Minh,Khánh,16/03/1999,Nữ,Tourist,3,5,2
+935,126001724,Phạm Minh,Khánh,19/06/1999,Nam,Tourist,3,2,6
+936,102019131,Phạm Nhật,Khánh,12/04/1999,Nữ,Tourist,1,3,9
+937,161004819,Tăng Quốc,Khánh,09/04/1999,Nam,IT,6,2,5
+938,102001194,Vũ Quốc,Khánh,05/11/1999,Nam,IT,9,9,4
+939,102028512,Phạm Đình,Khiêm,09/06/1999,Nam,English,5,1,3
+940,102028513,Phạm Hồng,Khiêm,03/07/1998,Nam,English,8,9,10
+941,149003778,Phan Duy,Khiêm,03/01/1999,Nam,English,4,1,5
+942,102010099,Trần Thiện,Khiêm,18/09/1998,Nam,IT,2,1,10
+943,102011254,Vương Thiện,Khiêm,27/11/1999,Nam,English,6,9,5
+944,102052641,Nguyễn Huỳnh Thanh,Khiết,06/02/1999,Nam,English,8,1,5
+945,102028517,Bùi Thông,Khoa,29/10/1999,Nam,Tourist,6,4,2
+946,102046663,Cao Đăng,Khoa,03/11/1999,Nam,Tourist,8,9,5
+947,102009316,Đỗ Đăng,Khoa,31/03/1999,Nam,Tourist,10,5,1
+948,102010103,Lâm Quốc Đăng,Khoa,25/06/1999,Nam,IT,7,10,2
+949,102003264,Lê Trường Anh,Khoa,23/08/1999,Nam,IT,4,9,9
+950,102021392,Lý Nguyễn Anh,Khoa,09/10/1999,Nam,English,3,3,8
+951,102000311,Nguyễn Anh,Khoa,31/05/1999,Nam,English,6,10,8
+952,102010108,Nguyễn Đăng,Khoa,08/01/1999,Nam,English,1,1,6
+953,102022479,Nguyễn Đình,Khoa,21/02/1999,Nam,IT,7,4,4
+954,149007987,Nguyễn Đỗ Y,Khoa,17/12/1999,Nữ,English,2,6,8
+955,102044426,Nguyễn Đông,Khoa,03/02/1999,Nam,English,2,5,1
+956,102024981,Nguyễn Huỳnh Anh,Khoa,08/11/1999,Nam,Tourist,3,10,10
+957,102004186,Nguyễn Lê Duy,Khoa,25/11/1999,Nam,Tourist,7,6,8
+958,102008824,Nguyễn Minh,Khoa,04/11/1999,Nam,Tourist,6,7,3
+959,147003616,Nguyễn Ngọc Anh,Khoa,16/08/1999,Nam,IT,3,10,2
+960,102029379,Nguyễn Phạm Minh,Khoa,09/12/1999,Nam,English,8,7,9
+961,102005671,Nguyễn Phạm Thế,Khoa,01/09/1999,Nam,English,5,1,4
+962,102006952,Nguyễn Phan Anh,Khoa,05/10/1999,Nam,Tourist,3,3,1
+963,102005673,Nguyễn Vũ Xuân,Khoa,14/01/1999,Nam,Tourist,9,7,10
+964,102007421,Phạm Huỳnh Anh,Khoa,18/12/1999,Nam,Tourist,4,3,1
+965,102006955,Phạm Trần Anh,Khoa,02/05/1999,Nam,IT,10,3,1
+966,102029382,Phạm Văn,Khoa,30/08/1999,Nam,IT,6,1,7
+967,102029899,Phan Trung Anh,Khoa,08/10/1999,Nam,English,9,1,1
+968,102029383,Phùng Tuấn,Khoa,24/04/1999,Nam,English,8,6,1
+969,102024231,Trần Anh,Khoa,11/12/1999,Nam,English,7,5,6
+970,102005674,Trần Anh,Khoa,09/10/1999,Nam,IT,9,5,5
+971,102055090,Trần Đăng,Khoa,21/02/1999,Nam,English,4,7,2
+972,102039404,Trần Ngọc Đăng,Khoa,04/06/1999,Nam,English,6,1,7
+973,102006257,Trần Nhật,Khoa,16/01/1999,Nam,Tourist,4,10,4
+974,102014436,Trương Đại Đăng,Khoa,03/04/1999,Nam,Tourist,8,1,3
+975,102005675,Trương Minh,Khoa,29/09/1999,Nam,Tourist,7,2,5
+976,102002813,Đặng Minh,Khôi,01/06/1999,Nam,IT,7,9,10
+977,102026189,Đặng Minh,Khôi,20/12/1999,Nam,IT,7,7,2
+978,102006961,Đỗ Ngô Anh,Khôi,16/11/1999,Nam,English,6,1,10
+979,102006260,Đỗ Nguyên Minh,Khôi,05/05/1999,Nam,English,6,2,4
+980,102022482,Dương Anh,Khôi,02/03/1999,Nam,English,9,9,8
+981,102031383,Dương Xuân,Khôi,19/10/1999,Nam,IT,5,2,3
+982,153009234,Huỳnh Kim,Khôi,29/09/1999,Nam,English,9,4,8
+983,102040685,Nguyễn Minh,Khôi,24/12/1999,Nam,English,7,6,2
+984,102056445,Nguyễn Minh,Khôi,26/06/1999,Nam,Tourist,4,1,1
+985,153007857,Nguyễn Minh,Khôi,15/12/1999,Nam,Tourist,8,8,1
+986,102011261,Phạm Đăng,Khôi,22/10/1999,Nam,Tourist,3,10,4
+987,102012894,Phan Nguyễn Anh,Khôi,17/11/1999,Nam,IT,4,4,8
+988,142011964,Trần Đình,Khôi,10/04/1999,Nam,IT,8,5,3
+989,102038023,Trần Đức Anh,Khôi,07/10/1999,Nam,English,10,8,1
+990,102005678,Vũ Anh,Khôi,08/07/1999,Nam,English,8,3,9
+991,102004199,Vũ Duy,Khôi,27/05/1999,Nam,English,8,10,4
+992,102005679,Vũ Huỳnh Anh,Khôi,05/06/1999,Nam,IT,3,8,8
+993,152001377,Nguyễn Minh,Khuê,16/02/1999,Nữ,English,4,9,8
+994,102002302,Đoàn Gia,Khương,13/03/1999,Nam,English,4,9,6
+995,102062727,Phan Trọng An,Khương,28/03/1998,Nam,Tourist,5,6,1
+996,155000164,Trần Duy,Khương,27/02/1999,Nam,Tourist,6,2,10
+997,102008835,Mạc Nguyễn Ngọc,Kiên,10/11/1999,Nam,Tourist,7,3,6
+998,102058224,Ngô Trung,Kiên,18/12/1999,Nam,IT,3,4,8
+999,102044434,Nguyễn Hà,Kiên,13/02/1999,Nam,English,7,3,8
+1000,102012900,Nguyễn Huy,Kiên,05/10/1999,Nam,English,10,2,7
+1001,147003691,Nguyễn Trung,Kiên,27/06/1999,Nam,Tourist,1,9,7
+1002,102029399,Trần Lê Trung,Kiên,13/12/1999,Nam,Tourist,5,9,6
+1003,102001608,Trần Trung,Kiên,13/03/1999,Nam,Tourist,7,6,10
+1004,102006969,Hà Lễ,Kiện,31/08/1998,Nam,IT,8,5,4
+1005,102013693,Ngô Vĩ,Kiện,22/10/1999,Nam,IT,2,3,4
+1006,102043655,Hà Hoàng Anh,Kiệt,04/12/1999,Nam,English,2,10,4
+1007,102026960,Hà Tuấn,Kiệt,31/08/1999,Nam,English,7,10,7
+1008,102013696,Hồ Trí,Kiệt,14/10/1999,Nam,English,5,7,2
+1009,102035162,Huỳnh Tuấn,Kiệt,11/10/1999,Nam,IT,9,7,3
+1010,102011869,Lâm Tuấn,Kiệt,27/08/1999,Nam,English,2,5,4
+1011,102003273,Nguyễn Anh,Kiệt,09/12/1999,Nam,English,4,9,5
+1012,155006380,Nguyễn Tuấn,Kiệt,08/12/1999,Nam,Tourist,5,6,9
+1013,148013811,Trần Duy Tuấn,Kiệt,13/07/1999,Nam,Tourist,9,7,2
+1014,102035166,Trần Tử,Kiệt,09/06/1998,Nam,Tourist,5,7,8
+1015,102002819,Võ Tuấn,Kiệt,08/05/1999,Nam,IT,7,2,3
+1016,102025343,Chiêm Mỹ,Kiều,05/06/1999,Nữ,IT,5,7,6
+1017,163005416,Lê Thị Thuý,Kiều,06/05/1999,Nữ,English,2,3,4
+1018,155007727,Nguyễn Thị Thúy,Kiều,23/06/1999,Nữ,English,1,8,10
+1019,153011500,Hoàng Thiên,Kim,13/05/1999,Nữ,English,7,5,1
+1020,102028546,Hoàng Thụy Thiên,Kim,16/10/1999,Nữ,IT,7,7,4
+1021,102057690,Lê Gia,Kim,24/09/1999,Nữ,English,10,3,9
+1022,102002306,Nguyễn Hà Thiên,Kim,20/01/1999,Nữ,English,3,2,1
+1023,102010131,Nguyễn Trần Thiên,Kim,14/01/1999,Nữ,Tourist,6,1,9
+1024,102038034,Phan Phương,Kim,14/03/1999,Nữ,Tourist,7,5,5
+1025,102014440,Chu Hồng Mỹ,Kỳ,26/01/1999,Nữ,Tourist,6,2,6
+1026,102025004,Nguyễn Anh,Kỳ,28/09/1999,Nam,IT,3,4,6
+1027,102021414,Trần Thi,Kỳ,14/10/1999,Nữ,IT,5,6,2
+1028,154006254,Trương Mỹ,Kỳ,25/12/1999,Nữ,English,10,6,9
+1029,148010610,Võ VĩNh,Kỳ,14/12/1999,Nam,English,9,1,8
+1030,102055107,Lùng Năng,Kỷ,31/03/1998,Nam,English,3,3,1
+1031,102012907,Cao Tường Khánh,Lam,13/09/1999,Nữ,IT,2,3,10
+1032,102029405,Đinh Mai Thùy,Lam,18/11/1999,Nữ,English,5,9,10
+1033,150005139,Hồ Thanh,Lam,23/01/1999,Nữ,English,3,3,6
+1034,152002330,Nguyễn Huỳnh,Lam,23/04/1999,Nữ,Tourist,8,9,3
+1035,102013704,Nguyễn Ngọc Thùy,Lam,23/05/1999,Nữ,Tourist,7,7,1
+1036,102012909,Phạm Thảo,Lam,12/09/1999,Nữ,Tourist,9,5,2
+1037,102000332,Châu Hoàng,Lâm,17/10/1999,Nam,IT,10,7,9
+1038,153010471,Huỳnh Khánh,Lâm,13/01/1999,Nam,English,6,1,10
+1039,102005142,Lê Hồ Hàn,Lâm,28/02/1999,Nam,English,9,10,6
+1040,102006282,Lê Nguyễn Hoàng,Lâm,15/10/1999,Nam,Tourist,8,2,4
+1041,102005687,Lý Hồng,Lâm,08/01/1999,Nam,Tourist,4,10,6
+1042,161005687,Mai Trúc,Lâm,01/02/1999,Nam,Tourist,6,3,2
+1043,152004150,Nguyễn Phú,Lâm,04/01/1999,Nam,IT,5,5,10
+1044,102002315,Nguyễn Tùng,Lâm,13/09/1999,Nam,IT,8,9,1
+1045,102057695,Phạm Vũ Gia,Lâm,06/04/1998,Nam,English,7,4,5
+1046,102056471,Trần Bảo,Lâm,10/02/1999,Nam,English,10,10,2
+1047,102052104,Đặng Võ Hoàng,Lan,25/10/1999,Nữ,English,3,3,1
+1048,152009595,Lương Thị Ngọc,Lan,01/05/1999,Nữ,IT,5,3,1
+1049,142001557,Nguyễn Cát,Lan,06/12/1999,Nữ,English,5,10,9
+1050,102002822,Nguyễn Phương,Lan,09/05/1999,Nữ,English,1,3,4
+1051,142010404,NguyễN TrầN ThùY,Lan,29/09/1999,Nữ,Tourist,1,9,5
+1052,102039417,Hoàng Lê,Lân,06/11/1999,Nam,Tourist,10,5,1
+1053,102055496,Nguyễn Quang Vũ,Lân,01/01/1999,Nam,Tourist,10,6,4
+1054,158005616,Nguyễn Thị Ngọc,Lanh,21/05/1999,Nữ,IT,3,1,2
+1055,102020307,Huỳnh Văn,Lành,10/08/1999,Nam,IT,4,10,9
+1056,151011356,Từ Gia,Lập,21/07/1999,Nam,English,4,6,4
+1057,156000588,Dương Lý Thảo,Lê,26/03/1999,Nữ,English,10,8,3
+1058,102008861,Bành Minh,Lệ,07/10/1999,Nữ,English,10,8,7
+1059,102027706,Đàm Mỹ,Lệ,20/09/1998,Nữ,IT,10,9,4
+1060,102042452,Đồng Thị Mỹ,Lệ,30/10/1999,Nữ,English,2,6,7
+1061,102015062,Nguyễn Thanh,Liêm,05/04/1999,Nam,English,10,8,9
+1062,102025010,Chung Thùy,Liên,15/07/1999,Nữ,Tourist,8,4,5
+1063,101068326,Nguyễn Phương,Liên,10/10/1996,Nữ,Tourist,8,6,6
+1064,102055115,Nguyễn Thị Kim,Liên,06/10/1999,Nữ,Tourist,4,4,4
+1065,102027710,Trần Thị Kim,Liên,08/12/1999,Nữ,IT,4,3,7
+1066,102050716,Nguyễn Bích,Liễu,04/12/1999,Nữ,IT,1,1,8
+1067,102000337,Nguyễn Thị Bích,Liễu,14/04/1999,Nữ,English,3,1,9
+1068,102060762,Văn Ngô,Ligia,24/10/1999,Nữ,English,3,8,9
+1069,102043662,Bùi Huỳnh Khánh,Linh,12/09/1999,Nữ,English,3,8,10
+1070,142002067,Đặng Khánh,Linh,31/08/1999,Nữ,IT,2,4,1
+1071,125012630,Đặng Ngọc,Linh,13/11/1999,Nam,English,7,8,6
+1072,102043664,Đặng Phương,Linh,19/03/1999,Nữ,English,7,8,6
+1073,152002342,Đặng Phương,Linh,07/08/1999,Nữ,Tourist,6,6,9
+1074,149002435,Đỗ Ngọc Gia,Linh,05/04/1999,Nữ,Tourist,7,10,3
+1075,102032950,Đỗ Phương,Linh,10/01/1999,Nữ,Tourist,2,3,8
+1076,102006287,Đoàn Khánh,Linh,07/11/1998,Nữ,IT,2,1,4
+1077,146002310,Dương Thùy Phương,Linh,01/01/1999,Nữ,English,9,4,6
+1078,102036717,Hà Khánh,Linh,17/10/1999,Nữ,English,10,4,4
+1079,102029417,Hà Thị Phương,Linh,07/03/1999,Nữ,Tourist,6,8,7
+1080,102036719,Hồ Mỹ,Linh,15/03/1999,Nữ,Tourist,10,5,5
+1081,102070436,Hồ Thảo,Linh,16/11/1998,Nữ,Tourist,7,7,2
+1082,102065806,Hoàng Thị Diệu,Linh,13/10/1998,Nữ,IT,2,9,2
+1083,102012923,Hứa Gia,Linh,16/08/1999,Nữ,IT,1,8,6
+1084,148013833,Huỳnh Hoài,Linh,08/06/1999,Nữ,English,7,1,2
+1085,102039425,Khiếu Phương,Linh,30/05/1999,Nữ,English,4,2,4
+1086,102025015,Lại Thị Chúc,Linh,25/12/1999,Nữ,English,8,1,8
+1087,102039426,Lê Thảo,Linh,19/11/1999,Nữ,IT,9,9,8
+1088,102035175,Lý Xuân,Linh,20/10/1999,Nữ,English,5,5,6
+1089,160003698,Ngô Mỷ,Linh,20/08/1999,Nữ,English,7,3,4
+1090,141001275,Ngô Nguyễn Khánh,Linh,25/08/1999,Nữ,Tourist,2,9,10
+1091,141005400,Ngô Thị Việt,Linh,22/08/1999,Nữ,Tourist,2,2,2
+1092,102006989,Ngô Thị Yến,Linh,06/02/1999,Nữ,Tourist,10,1,6
+1093,102001240,Ngô Thùy,Linh,23/01/1999,Nữ,IT,4,2,5
+1094,102002827,Nguyễn Gia,Linh,07/06/1999,Nữ,IT,8,5,4
+1095,102045160,Nguyễn Hoài Trúc,Linh,21/08/1999,Nữ,English,6,10,1
+1096,102056964,Nguyễn Hoàng Gia,Linh,21/05/1999,Nữ,English,3,2,7
+1097,102005150,Nguyễn Hoàng Phương,Linh,31/10/1999,Nữ,English,9,5,7
+1098,102039428,Nguyễn Hoàng Yến,Linh,09/11/1999,Nữ,IT,7,8,1
+1099,148006073,Nguyễn Hồng Khánh,Linh,22/02/1999,Nữ,English,4,6,7
+1100,102035824,Nguyễn Khánh,Linh,15/11/1999,Nữ,English,6,3,5
+1101,102062737,Nguyễn Khánh,Linh,04/03/1998,Nữ,Tourist,6,8,8
+1102,149002916,Nguyễn Ngọc Khánh,Linh,12/08/1999,Nữ,Tourist,5,5,2
+1103,102032954,Nguyễn Ngọc Phương,Linh,05/06/1999,Nữ,Tourist,2,10,5
+1104,102011892,Nguyễn Ngọc Phương,Linh,06/09/1999,Nữ,IT,9,3,4
+1105,102001242,Nguyễn Phi,Linh,25/09/1999,Nữ,IT,6,7,4
+1106,163003288,Nguyễn Thị Đàn,Linh,23/05/1999,Nữ,English,10,6,4
+1107,102035832,Nguyễn Thị Khánh,Linh,31/01/1998,Nữ,English,8,5,4
+1108,102032957,Nguyễn Thị Mỹ,Linh,04/02/1999,Nữ,English,1,10,9
+1109,102023833,Nguyễn Thị Ngọc,Linh,25/06/1999,Nữ,IT,10,5,7
+1110,102053900,Nguyễn Thị Phương,Linh,16/05/1999,Nữ,English,7,7,7
+1111,152008297,Nguyễn Thị Thúy,Linh,04/12/1999,Nữ,English,6,2,1
+1112,140004337,Nguyễn Thị Thùy,Linh,05/08/1999,Nữ,Tourist,9,6,9
+1113,135004259,Nguyễn Thục,Linh,26/03/1999,Nữ,Tourist,9,1,3
+1114,102043206,Nguyễn Thùy,Linh,17/03/1999,Nữ,Tourist,6,2,3
+1115,102003293,Nguyễn Tường,Linh,19/09/1999,Nữ,IT,4,8,10
+1116,102031397,Nguyễn Vũ Diệp,Linh,26/06/1998,Nữ,English,10,6,3
+1117,102021799,Nguyễn Vũ Khánh,Linh,25/02/1999,Nữ,English,3,3,4
+1118,142000277,Phạm Nguyễn Thị Diệu,Linh,14/06/1999,Nữ,Tourist,6,3,2
+1119,102059250,Phạm Thị Tú,Linh,18/10/1999,Nữ,Tourist,5,9,9
+1120,102040775,Phạm Y,Linh,17/04/1999,Nữ,Tourist,7,9,8
+1121,152009619,Phan Thị Thùy,Linh,22/06/1999,Nữ,IT,5,4,2
+1122,102012207,Quách Mỹ,Linh,29/06/1999,Nữ,IT,3,6,8
+1123,102006297,Thiều Gia,Linh,01/10/1999,Nữ,English,3,3,8
+1124,102005152,Trần Khánh,Linh,15/10/1999,Nữ,English,7,1,7
+1125,102004580,Trần Khánh,Linh,01/01/1999,Nữ,English,7,10,10
+1126,102035838,Trần Lê Hiền,Linh,18/01/1999,Nữ,IT,1,7,7
+1127,102022512,Trần Lê Phương,Linh,07/11/1999,Nữ,English,10,8,2
+1128,153011530,Trần Lê Yến,Linh,19/08/1999,Nữ,English,2,1,10
+1129,141001778,Trần Nhật,Linh,24/06/1999,Nam,Tourist,2,6,9
+1130,102058651,Trần Thị Trúc,Linh,23/08/1999,Nữ,Tourist,4,6,6
+1131,102039440,Trần Thùy,Linh,18/09/1999,Nữ,Tourist,8,4,7
+1132,102050744,Trịnh Gia,Linh,18/04/1999,Nữ,IT,6,3,3
+1133,102042464,Trương Gia,Linh,01/01/1999,Nữ,IT,1,5,7
+1134,102006299,Trương Ngọc Yến,Linh,24/09/1999,Nữ,English,4,8,6
+1135,152000809,Trương Nguyễn Huyền,Linh,07/08/1999,Nữ,English,5,8,9
+1136,102028574,Võ Kim,Linh,19/11/1999,Nữ,English,8,8,2
+1137,102031402,Võ Trúc,Linh,14/07/1999,Nữ,IT,1,5,10
+1138,102014456,Vũ Gia,Linh,20/05/1999,Nữ,English,6,5,10
+1139,102002830,Vũ Hoàng,Linh,06/04/1999,Nam,English,7,9,7
+1140,102053911,Vũ Thị Phương,Linh,09/03/1999,Nữ,Tourist,9,6,4
+1141,102051080,Nguyễn Hùng,Lĩnh,02/02/1999,Nam,Tourist,9,7,7
+1142,138009407,Lê Thị Hồng,Loan,05/10/1999,Nữ,Tourist,7,9,7
+1143,102023108,Ngô Thị Mỹ,Loan,19/05/1999,Nữ,IT,9,1,4
+1144,102035841,Nguyễn Ngọc,Loan,29/05/1999,Nữ,IT,7,8,1
+1145,102054310,Nguyễn Phúc Khánh,Loan,13/03/1999,Nữ,English,4,3,5
+1146,102010164,Nguyễn Phương Thục,Loan,19/04/1999,Nữ,English,9,5,7
+1147,102039443,Nguyễn Thị Hồng,Loan,09/06/1999,Nữ,English,5,4,3
+1148,150010116,Nguyễn Thị Kiều,Loan,05/02/1999,Nữ,IT,10,4,2
+1149,102003299,Nguyễn Thị Thanh,Loan,09/02/1999,Nữ,English,7,2,6
+1150,102000356,Nguyễn Thị Việt,Loan,05/09/1999,Nữ,English,3,4,1
+1151,160003302,Võ Thị Cẩm,Loan,02/04/1999,Nữ,Tourist,4,6,5
+1152,102013731,Vương Bửu,Loan,14/08/1999,Nữ,Tourist,7,6,9
+1153,157005970,Bùi Thanh,Lộc,22/04/1999,Nam,Tourist,9,8,10
+1154,102059258,Đặng Lê Thành,Lộc,06/10/1999,Nam,IT,9,7,6
+1155,102015086,Lê Văn,Lộc,22/11/1999,Nam,English,9,4,4
+1156,153006355,Ngô Quốc,Lộc,04/07/1999,Nam,English,6,5,7
+1157,152007707,Nguyễn Tấn,Lộc,08/08/1999,Nam,Tourist,6,6,4
+1158,102023118,Nguyễn Tấn,Lộc,21/05/1999,Nam,Tourist,1,2,3
+1159,141005458,Nguyễn Thành,Lộc,13/08/1999,Nam,Tourist,10,9,3
+1160,135000964,Nguyễn Thị Mỹ,Lộc,20/09/1999,Nữ,IT,7,10,7
+1161,102003307,Phạm Lê Thiên,Lộc,01/04/1999,Nam,IT,9,8,8
+1162,102021472,Phan Đạm Quang,Lộc,29/09/1999,Nam,English,9,10,9
+1163,102013738,Phan Thành,Lộc,05/09/1999,Nam,English,5,4,7
+1164,102029453,Võ Hữu,Lộc,28/01/1999,Nam,English,1,4,8
+1165,149002453,Võ Tấn,Lộc,21/06/1999,Nam,IT,3,7,7
+1166,102021475,Võ Thành,Lộc,08/03/1998,Nam,English,10,10,10
+1167,102000372,Vũ Tấn,Lộc,14/02/1999,Nam,English,8,4,7
+1168,102055160,Lương Ngọc,Lợi,08/09/1999,Nam,Tourist,5,3,1
+1169,102030923,Đào Hoàng,Long,09/07/1999,Nam,Tourist,1,9,1
+1170,102025031,Hà Bảo,Long,02/06/1999,Nam,Tourist,2,10,7
+1171,102056506,Hồ Thái Minh,Long,21/09/1999,Nam,IT,1,6,1
+1172,148003985,Hoàng Bảo,Long,14/06/1998,Nam,IT,1,7,10
+1173,102005156,Huỳnh Đặng Phi,Long,24/11/1999,Nam,English,1,4,9
+1174,102004234,Lê Đỗ Hoàng,Long,26/05/1999,Nam,English,3,7,1
+1175,102011910,Lê Hoàng Việt,Long,03/01/1999,Nam,English,7,9,5
+1176,148002257,Liêu Thành,Long,17/11/1999,Nam,IT,9,1,2
+1177,102056509,Lương Hoàng,Long,27/03/1999,Nam,English,3,7,9
+1178,102035842,Nguyễn Bảo,Long,29/12/1999,Nam,English,9,3,4
+1179,102021460,Nguyễn Duy,Long,17/04/1999,Nam,Tourist,2,4,3
+1180,102027001,Nguyễn Hoàng,Long,12/08/1999,Nam,Tourist,7,7,9
+1181,102035843,Nguyễn Hoàng,Long,12/06/1999,Nam,Tourist,8,5,3
+1182,153006351,Nguyễn Hoàng Phi,Long,05/12/1999,Nam,IT,4,10,5
+1183,144004953,Nguyễn Minh,Long,26/06/1999,Nam,IT,6,8,6
+1184,102010927,Nguyễn Thiên,Long,10/11/1999,Nam,English,7,7,2
+1185,143003952,Nguyễn Tịnh,Long,21/12/1999,Nam,English,7,5,6
+1186,102037385,Nguyễn Việt Đức,Long,26/08/1999,Nam,English,9,6,3
+1187,102015543,Phạm Hải,Long,23/02/1999,Nam,IT,9,8,3
+1188,102001256,Trần Hoàng,Long,21/03/1999,Nam,English,3,9,4
+1189,102043223,Trần Ngọc Bảo,Long,29/11/1999,Nam,English,1,2,4
+1190,102025038,Trần Việt,Long,21/07/1999,Nam,Tourist,9,1,3
+1191,102056518,Võ Phi,Long,23/07/1999,Nam,Tourist,2,6,10
+1192,102003310,Nguyễn Thế,Luân,21/08/1999,Nam,Tourist,9,4,9
+1193,160003310,Nguyễn Vũ,Luân,02/12/1999,Nam,IT,4,2,1
+1194,102006318,Trần Đức,Luân,14/09/1999,Nam,English,9,2,6
+1195,102006319,Trần Ngọc,Luân,28/08/1999,Nam,English,4,5,9
+1196,102015549,Trần Phan Bảo,Luân,12/11/1999,Nam,Tourist,3,8,1
+1197,102056984,Nguyễn Vũ,Lực,09/05/1999,Nam,Tourist,6,7,10
+1198,149002028,Trần Vĩnh Đại,Lực,11/08/1999,Nam,Tourist,9,3,1
+1199,143008443,Hồ Thị,Lương,08/08/1999,Nữ,IT,1,6,4
+1200,102044469,Lê Thị Hiền,Lương,01/05/1999,Nữ,IT,9,10,3
+1201,102016811,Lê Tuấn,Lương,15/10/1999,Nam,English,4,1,5
+1202,102001267,Tiêu Tuấn,Lương,06/06/1999,Nam,English,5,4,4
+1203,102060799,Nguyễn Gia,Lưu,01/05/1999,Nam,English,1,8,5
+1204,102032164,Bùi Dương Hương,Ly,08/09/1999,Nữ,IT,2,1,3
+1205,142006158,Đào Thụy Trúc,Ly,04/11/1999,Nữ,English,9,7,4
+1206,156001199,Lương Khánh,Ly,29/07/1999,Nữ,English,5,8,5
+1207,147004514,Nguyễn Hải,Ly,17/02/1999,Nữ,Tourist,9,6,4
+1208,153002403,Nguyễn Nhật Thảo,Ly,07/12/1999,Nữ,Tourist,7,9,10
+1209,102018088,Nguyễn Thị Trúc,Ly,28/03/1999,Nữ,Tourist,10,4,3
+1210,142011016,Nguyễn Thị Trúc,Ly,27/06/1999,Nữ,IT,2,4,8
+1211,134007469,Nguyễn Thị Yến,Ly,09/10/1999,Nữ,IT,7,9,8
+1212,102052159,Võ Nguyễn Mai,Ly,26/03/1999,Nữ,English,10,4,10
+1213,102002345,Nguyễn Hoàng Khúc,Lynh,13/04/1999,Nữ,English,8,9,10
+1214,102002841,Phan Nguyễn Yến,Lynh,22/10/1999,Nữ,English,1,4,10
+1215,102031409,Bùi Thị Phương,Mai,16/09/1999,Nữ,IT,7,9,1
+1216,122003166,Đặng Thị Tuyết,Mai,01/02/1999,Nữ,English,4,7,6
+1217,102015551,Hoàng Ngọc Khánh,Mai,15/03/1999,Nữ,English,3,5,2
+1218,102032169,Lê Ngọc Quỳnh,Mai,03/05/1999,Nữ,Tourist,8,7,6
+1219,102004247,Lê Thanh,Mai,17/11/1999,Nữ,Tourist,5,4,8
+1220,153006360,Lê Thị Thanh,Mai,07/03/1999,Nữ,Tourist,2,9,10
+1221,164001335,Lê Trần Phương,Mai,15/12/1999,Nữ,IT,2,2,9
+1222,140018061,Lê Trần Quỳnh,Mai,05/05/1999,Nữ,IT,4,10,1
+1223,102041790,Lưu Thị Ngọc,Mai,24/07/1999,Nữ,English,1,1,5
+1224,102000380,Nguyễn Liên Phúc,Mai,09/07/1999,Nữ,English,2,8,3
+1225,102039462,Nguyễn Thanh,Mai,22/03/1999,Nữ,English,7,5,8
+1226,152001408,Nguyễn Thanh Tuyết,Mai,03/07/1999,Nữ,IT,2,1,10
+1227,102000382,Nguyễn Thị Phương,Mai,21/10/1999,Nữ,English,10,3,1
+1228,102001275,Nguyễn Thị Thanh,Mai,20/10/1999,Nữ,English,9,2,4
+1229,102008184,Nguyễn Thị Thanh,Mai,26/01/1999,Nữ,Tourist,8,2,1
+1230,102053945,Nguyễn Thị Xuân,Mai,28/02/1999,Nữ,Tourist,1,9,3
+1231,102014472,Phạm Ngọc Quỳnh,Mai,14/07/1999,Nữ,Tourist,5,10,6
+1232,141008102,Phan Quỳnh,Mai,15/11/1999,Nữ,IT,5,2,4
+1233,102005714,Trần Xuân,Mai,27/10/1999,Nữ,English,7,5,1
+1234,148001180,Vũ Thanh,Mai,17/01/1998,Nữ,English,5,5,1
+1235,102025364,Hồ Huy,Mân,27/11/1999,Nam,Tourist,3,4,3
+1236,142008473,Ka,Mẫn,20/12/1999,Nữ,Tourist,4,5,9
+1237,102025060,Lâm Lệ,Mẫn,25/07/1999,Nữ,Tourist,7,6,6
+1238,102009346,Lữ Gia,Mẫn,21/08/1999,Nữ,IT,1,5,1
+1239,102038747,Phạm Vương Gia,Mẫn,06/10/1999,Nữ,IT,2,3,4
+1240,102011922,Nguyễn Hồ Gia,Mẩn,01/01/1999,Nữ,English,9,6,9
+1241,102006324,Huỳnh Văn,Mạnh,05/04/1999,Nam,English,4,2,10
+1242,102033481,Nguyễn Đức,Mạnh,10/06/1999,Nam,English,1,5,6
+1243,102058675,Nguyễn Thái,Mây,10/07/1999,Nữ,IT,10,6,7
+1244,140016110,Hồ Hồ Mi,Mi,30/04/1999,Nữ,English,4,4,2
+1245,102025062,Nguyễn Huyền Uyển,Mi,20/07/1999,Nữ,English,6,9,1
+1246,142008090,Ndòng,Mị,21/04/1999,Nữ,Tourist,9,1,10
+1247,161006411,Nguyễn Thiện,Mín,21/10/1998,Nam,Tourist,8,2,10
+1248,102010204,Âu Đức,Minh,02/04/1999,Nam,Tourist,2,10,1
+1249,102036759,Châu Anh,Minh,14/01/1999,Nam,IT,6,7,10
+1250,103016137,Đào Lê,Minh,23/02/1999,Nam,IT,2,3,3
+1251,102039467,Đào Nguyễn Anh,Minh,11/04/1999,Nam,English,2,3,5
+1252,102012964,Đinh Nhật,Minh,28/06/1999,Nam,English,7,3,7
+1253,102019660,Đỗ Quang,Minh,22/04/1999,Nam,English,1,4,3
+1254,102038752,Hà Nhật,Minh,31/10/1999,Nam,IT,7,9,7
+1255,158005339,Kim Hoàng,Minh,17/11/1999,Nam,English,5,8,3
+1256,102002355,Lâm Nguyễn Bình,Minh,07/09/1999,Nữ,English,8,9,5
+1257,102053955,Lê Cao,Minh,25/01/1999,Nam,Tourist,1,5,1
+1258,102020610,Mai Hoa Bình,Minh,01/11/1999,Nữ,Tourist,1,9,5
+1259,161007073,Mai Phan Tiến,Minh,01/01/1999,Nam,Tourist,2,9,5
+1260,153007115,Nguyễn Châu Ngọc,Minh,03/05/1999,Nữ,IT,1,8,7
+1261,152003687,Nguyễn Đức,Minh,12/10/1999,Nam,IT,3,7,4
+1262,102045203,Nguyễn Hoàng,Minh,08/08/1999,Nam,English,6,9,10
+1263,102005720,Nguyễn Hồng,Minh,24/04/1999,Nam,English,9,1,8
+1264,144001935,Nguyễn Lê Trí,Minh,03/09/1999,Nam,English,8,2,1
+1265,102036772,Nguyễn Ngọc,Minh,08/12/1999,Nữ,IT,9,9,5
+1266,102013758,Nguyễn Quang,Minh,01/07/1999,Nam,English,3,8,7
+1267,102015115,Nguyễn Quang,Minh,01/12/1999,Nam,English,3,7,5
+1268,102034283,Nguyễn Thị Nhật,Minh,19/05/1999,Nữ,Tourist,10,1,1
+1269,155000743,Nguyễn Trần,Minh,21/10/1999,Nam,Tourist,9,7,1
+1270,141005536,Nguyễn Trần Hoàng,Minh,05/01/1999,Nam,Tourist,9,2,3
+1271,102010948,Phạm Đỗ Nhật,Minh,26/09/1999,Nam,IT,9,1,10
+1272,102011298,Phan Hoàng,Minh,27/07/1999,Nam,English,7,4,9
+1273,102002854,Phùng Phan Hải,Minh,20/01/1999,Nam,English,4,3,3
+1274,102053965,Trần Thái,Minh,15/12/1999,Nam,Tourist,4,8,9
+1275,102039474,Trịnh Ngọc Bình,Minh,04/06/1999,Nữ,Tourist,3,4,8
+1276,156002669,Nguyễn Thị,Mơ,08/02/1999,Nữ,Tourist,8,6,8
+1277,149008041,Nguyễn Thị,Muội,21/10/1998,Nữ,IT,4,2,1
+1278,163000230,Hà Thị Trà,My,16/10/1999,Nữ,IT,8,8,6
+1279,102058689,Hồ Huỳnh,My,14/04/1999,Nữ,English,4,5,8
+1280,152002449,Hồ Trà,My,20/01/1999,Nữ,English,7,3,10
+1281,102044481,Lê Thị Trà,My,25/02/1999,Nữ,English,3,9,5
+1282,102004592,Lý Khánh,My,02/09/1999,Nữ,IT,7,10,5
+1283,140016147,Mai Hà,My,22/09/1999,Nữ,English,8,2,7
+1284,102037410,Mai Trang Hoàng,My,26/09/1999,Nữ,English,1,8,4
+1285,102022545,Nguyễn Thanh Trà,My,28/10/1999,Nữ,Tourist,2,1,2
+1286,133011549,Nguyễn Thị Diệu,My,16/02/1999,Nữ,Tourist,6,3,7
+1287,102013767,Nguyễn Thị Trà,My,03/07/1999,Nữ,Tourist,10,9,1
+1288,149002044,Nguyễn Thị Xuân Trà,My,26/10/1999,Nữ,IT,3,6,7
+1289,102035884,Nguyễn Trần Trúc,My,10/03/1999,Nữ,IT,4,1,7
+1290,102049918,Phạm Huỳnh Tuyết,My,17/04/1999,Nữ,English,3,3,10
+1291,103002357,Phạm Tứ,My,28/03/1999,Nữ,English,5,10,4
+1292,146003655,Phan Thị Trà,My,15/03/1999,Nữ,English,5,5,3
+1293,102005185,Phi Hồng Hải,My,21/09/1999,Nữ,IT,10,1,1
+1294,102053968,Trần Nguyễn Nhật,My,09/04/1999,Nữ,English,3,2,7
+1295,102009358,Trần Nguyễn Thảo,My,17/07/1999,Nữ,English,8,7,2
+1296,135004974,Trần Nữ Hoàng,My,12/02/1999,Nữ,Tourist,5,7,8
+1297,102037412,Trần Thảo,My,06/04/1999,Nữ,Tourist,5,7,7
+1298,150005724,Trần Thị Diễm,My,04/07/1999,Nữ,Tourist,3,4,8
+1299,102021816,Trần Thuận,My,26/02/1999,Nữ,IT,7,10,6
+1300,142001007,Trần Xuân Thảo,My,24/09/1999,Nữ,IT,5,2,4
+1301,152005884,Trịnh Thị Kiều,My,25/09/1999,Nữ,English,9,2,4
+1302,102025370,Hồ Ái,Mỹ,20/04/1999,Nữ,English,4,3,10
+1303,102029500,Lê Hoài,Mỹ,05/09/1999,Nữ,English,3,8,7
+1304,102026267,Nguyễn Hạo,Mỹ,02/02/1999,Nữ,IT,1,1,2
+1305,148003141,Nguyễn Hoàng Nhật,Mỹ,26/09/1999,Nữ,English,5,9,4
+1306,146005847,Phạm Gia,Mỹ,06/09/1999,Nữ,English,5,2,9
+1307,157002347,Phạm Gia,Mỹ,11/05/1999,Nữ,Tourist,3,4,6
+1308,102048260,Phan Như Hoàng,Mỹ,20/02/1999,Nữ,Tourist,10,1,6
+1309,102044485,Nguyễn Chi,Na,16/03/1999,Nữ,Tourist,9,9,2
+1310,102059278,Hoàng Mạnh,Nam,18/12/1997,Nam,IT,1,4,8
+1311,102042496,Hoàng Nhật,Nam,14/05/1999,Nam,English,3,1,3
+1312,102040901,Nguyễn Đức Phương,Nam,02/07/1999,Nam,English,8,10,8
+1313,102014501,Nguyễn Hồ Chấn,Nam,07/06/1999,Nam,Tourist,6,4,3
+1314,102063284,Nguyễn Hoàng Đông,Nam,11/03/1995,Nam,Tourist,7,3,2
+1315,149006012,Nguyễn Lê Hoài,Nam,05/03/1999,Nam,Tourist,4,4,9
+1316,152008345,Nguyễn Phạm Thành,Nam,18/03/1999,Nam,IT,4,7,8
+1317,102002377,Nguyễn Phương,Nam,18/11/1999,Nam,IT,9,10,5
+1318,102055218,Nguyễn Phương Hoài,Nam,10/04/1999,Nữ,English,7,7,3
+1319,102044488,Phạm Thanh,Nam,09/03/1999,Nam,English,8,2,3
+1320,144007827,Phan NguyễN HữU,Nam,27/05/1999,Nam,English,5,4,2
+1321,102056572,Phùng Nhật,Nam,14/12/1999,Nữ,IT,4,1,5
+1322,102012982,Thái Vĩ,Nam,29/05/1999,Nam,English,7,2,4
+1323,102035232,Trần Hoàng,Nam,17/05/1999,Nam,English,6,6,5
+1324,102040909,Trần Hoàng,Nam,23/11/1999,Nam,Tourist,9,6,3
+1325,157000205,Trần Phương,Nam,07/05/1999,Nam,Tourist,6,10,9
+1326,134010828,Trần Phương,Nam,21/06/1999,Nam,Tourist,2,5,9
+1327,137016635,TrầN TuấN,Nam,11/10/1998,Nam,IT,1,2,2
+1328,102000423,Vũ Hồng,Nam,04/05/1999,Nam,IT,1,10,4
+1329,102043705,Đào Thúy,Nga,20/10/1999,Nữ,English,3,7,8
+1330,102000426,Lê Ngọc Phương,Nga,14/12/1999,Nữ,English,6,9,4
+1331,102055223,Lương Vũ Quỳnh,Nga,21/04/1999,Nữ,English,2,10,2
+1332,102003328,Nguyễn Huỳnh Phương,Nga,23/09/1999,Nữ,IT,2,9,9
+1333,102057743,Nguyễn Ngọc Quỳnh,Nga,04/01/1999,Nữ,English,4,8,7
+1334,102013782,Nguyễn Thị Hồng,Nga,31/01/1999,Nữ,English,9,6,6
+1335,102011950,Nguyễn Thị Thanh,Nga,12/09/1999,Nữ,Tourist,1,8,4
+1336,102001321,Nguyễn Thị Yến,Nga,03/11/1999,Nữ,Tourist,3,8,5
+1337,148012933,Trần Thị Thu,Nga,07/10/1999,Nữ,Tourist,3,1,9
+1338,149004708,Võ Thị Hồng,Nga,14/04/1999,Nữ,IT,5,1,6
+1339,102046029,Bùi Thị Thảo,Ngân,31/12/1999,Nữ,IT,10,7,9
+1340,102025375,Đặng Thị Bạch,Ngân,23/01/1999,Nữ,English,4,3,6
+1341,102015579,Đinh Nguyễn Kim,Ngân,11/08/1999,Nữ,English,1,2,3
+1342,102025374,Dương Hoàng,Ngân,28/09/1998,Nữ,English,8,4,2
+1343,150008934,Dương Thị Bích,Ngân,26/05/1999,Nữ,IT,6,7,2
+1344,142004611,Hoàng Mai Bảo,Ngân,01/11/1999,Nữ,English,8,1,7
+1345,102011955,Huỳnh Kim,Ngân,16/04/1999,Nữ,English,6,3,4
+1346,102058700,Huỳnh Thúy,Ngân,26/11/1999,Nữ,Tourist,7,7,2
+1347,149005801,La Nguyễn Khánh,Ngân,18/07/1999,Nữ,Tourist,8,3,3
+1348,102032210,Lâm Thị Ngọc,Ngân,22/12/1999,Nữ,Tourist,7,9,2
+1349,144004425,Lê Hiếu,Ngân,08/04/1999,Nữ,IT,10,3,9
+1350,102056581,Lê Hồng,Ngân,28/04/1999,Nữ,English,1,6,1
+1351,102009366,Lê Huỳnh Kim,Ngân,02/06/1999,Nữ,English,2,6,2
+1352,153007144,Lê Ngọc Kim,Ngân,30/06/1999,Nữ,Tourist,1,1,5
+1353,102027794,Lê Nguyễn Hoàng,Ngân,01/10/1999,Nữ,Tourist,1,6,3
+1354,102008955,Lê Nguyễn Ngọc,Ngân,21/03/1999,Nữ,Tourist,3,7,7
+1355,102055235,Lê Thị Thu,Ngân,25/04/1999,Nữ,IT,5,3,9
+1356,142011047,Lưu Thị Thủy,Ngân,20/03/1999,Nữ,IT,5,8,6
+1357,102060242,Lý Hồng,Ngân,11/12/1999,Nữ,English,4,10,4
+1358,140006103,Ngô Thị,Ngân,27/10/1999,Nữ,English,10,7,7
+1359,102009368,Nguyễn Bích,Ngân,18/10/1999,Nữ,English,4,6,9
+1360,102001634,Nguyễn Dư Kim,Ngân,01/07/1999,Nữ,IT,2,5,4
+1361,156003123,Nguyễn Hoàng,Ngân,05/04/1999,Nữ,English,5,1,8
+1362,102038131,Nguyễn Lê Hiếu,Ngân,18/11/1999,Nữ,English,8,10,8
+1363,102053990,Nguyễn Ngọc Kim,Ngân,17/12/1999,Nữ,Tourist,1,6,6
+1364,102016897,Nguyễn Thanh,Ngân,28/08/1999,Nữ,Tourist,7,2,2
+1365,102004289,Nguyễn Thanh Tuyết,Ngân,07/10/1999,Nữ,Tourist,6,7,5
+1366,142009753,Nguyễn Thị Kim,Ngân,05/12/1999,Nữ,IT,6,9,7
+1367,102057004,Nguyễn Thị Kim,Ngân,07/02/1998,Nữ,IT,6,7,2
+1368,110006442,Nguyễn Thị Kim,Ngân,22/10/1999,Nữ,English,5,2,7
+1369,152003713,Nguyễn Thị Kim,Ngân,12/05/1999,Nữ,English,3,9,2
+1370,102055241,Nguyễn Thị Mỹ,Ngân,03/11/1999,Nữ,English,4,7,1
+1371,161002148,Nguyễn Thị Mỹ,Ngân,28/01/1999,Nữ,IT,6,1,1
+1372,102045237,Nguyễn Trà Ngọc,Ngân,15/11/1999,Nữ,English,1,2,5
+1373,102003335,Phạm Thái Kim,Ngân,21/11/1999,Nữ,English,10,5,10
+1374,102060247,Phạm Thị Thanh,Ngân,30/08/1999,Nữ,Tourist,3,7,1
+1375,150007187,Tạ Thị,Ngân,25/01/1999,Nữ,Tourist,2,5,8
+1376,102008963,Trần Kim,Ngân,02/04/1999,Nữ,Tourist,8,10,9
+1377,102043309,Trương Bảo,Ngân,10/10/1999,Nữ,IT,3,4,9
+1378,102053998,Trương Giản Long,Ngân,09/04/1999,Nữ,IT,1,1,3
+1379,102035923,Võ Hoàng Kim,Ngân,17/10/1999,Nữ,English,7,8,2
+1380,102016909,Võ Thị Thanh,Ngân,21/10/1999,Nữ,English,4,5,7
+1381,102035924,Võ Thị Thanh,Ngân,08/01/1999,Nữ,English,9,3,2
+1382,148020439,Vòng Dương Kim,Ngân,10/09/1999,Nữ,IT,10,7,8
+1383,102036812,Vũ Nguyễn Thu,Ngân,27/09/1999,Nữ,English,4,8,10
+1384,102001630,Tạ Linh,Ngạn,22/10/1998,Nam,English,3,8,7
+1385,102035927,Cao Trần Đông,Nghi,04/10/1999,Nữ,Tourist,8,10,5
+1386,149012080,Chương Bảo,Nghi,12/11/1999,Nữ,Tourist,1,10,4
+1387,102005750,Đặng Thanh Bảo,Nghi,13/10/1999,Nữ,Tourist,4,3,6
+1388,137015911,Đỗ Thị Hãi,Nghi,02/04/1999,Nữ,IT,6,2,4
+1389,102015141,Đỗ Tuyết,Nghi,22/08/1999,Nữ,English,5,4,8
+1390,102043314,Huỳnh Hữu Bảo,Nghi,14/03/1999,Nữ,English,9,10,2
+1391,102024275,Lâm Tú,Nghi,13/12/1999,Nữ,Tourist,8,2,3
+1392,160001990,Lê Hồng,Nghi,22/07/1999,Nữ,Tourist,8,6,4
+1393,102006353,Lê Phương Đông,Nghi,24/07/1999,Nữ,Tourist,7,10,9
+1394,102016131,Lương Phạm Nguyên,Nghi,18/12/1999,Nữ,IT,2,3,7
+1395,102029967,Ngô Bảo,Nghi,11/05/1999,Nữ,IT,3,6,4
+1396,102029541,Nguyễn Kim,Nghi,11/08/1999,Nữ,English,10,10,8
+1397,102060830,Nguyễn Trần Minh,Nghi,29/04/1999,Nữ,English,9,3,4
+1398,102025121,Phạm Nguyễn Hà,Nghi,31/01/1999,Nữ,English,9,3,2
+1399,102008971,Trương Huệ,Nghi,14/03/1999,Nữ,IT,4,5,7
+1400,148021611,Võ Ngọc Lâm,Nghi,13/05/1999,Nữ,English,6,5,6
+1401,102003339,Hồ Trọng,Nghĩa,21/12/1999,Nam,English,2,10,7
+1402,102021544,Lê Minh,Nghĩa,29/10/1999,Nam,Tourist,7,9,1
+1403,102000444,Lê Nguyên Đại,Nghĩa,31/12/1999,Nam,Tourist,2,2,9
+1404,102042507,Lưu Tuấn,Nghĩa,26/05/1999,Nam,Tourist,5,2,1
+1405,102028642,Nguyễn Phước,Nghĩa,27/10/1999,Nam,IT,2,5,4
+1406,102010266,Phan Chí,Nghĩa,04/03/1998,Nam,IT,9,4,4
+1407,102023919,Võ Quang,Nghiêm,08/11/1999,Nam,English,2,10,5
+1408,102032229,Bùi Thiên,Ngọc,26/05/1999,Nữ,English,8,8,8
+1409,102022568,Đặng Giang Minh,Ngọc,19/04/1999,Nữ,English,5,10,3
+1410,102029551,Đặng Phạm Xuân,Ngọc,06/09/1999,Nữ,IT,1,5,5
+1411,102032231,Đậu Nguyễn Giáng,Ngọc,06/07/1999,Nữ,English,5,8,2
+1412,102031431,Giang Minh,Ngọc,21/09/1999,Nữ,English,9,9,7
+1413,102002880,Hoàng Minh,Ngọc,19/04/1999,Nữ,Tourist,4,7,8
+1414,102005758,Huỳnh Kim,Ngọc,03/02/1999,Nữ,Tourist,3,2,5
+1415,102022569,Huỳnh Mỹ,Ngọc,22/10/1999,Nữ,Tourist,3,1,9
+1416,102056603,Huỳnh Ngô Như,Ngọc,01/02/1999,Nữ,IT,2,10,4
+1417,102022570,Lê Bích,Ngọc,09/01/1999,Nữ,IT,3,10,1
+1418,144000821,Lê Hồ Thị Kim,Ngọc,19/05/1999,Nữ,English,9,8,5
+1419,102056607,Lê Phạm Hồng,Ngọc,12/09/1999,Nữ,English,1,10,5
+1420,151000342,Lê Song Song,Ngọc,17/06/1999,Nam,English,1,9,7
+1421,151009213,Lê Thị Bảo,Ngọc,01/06/1999,Nữ,IT,3,5,1
+1422,102008980,Lương Minh,Ngọc,18/01/1999,Nữ,English,6,2,5
+1423,153000759,Mạch Hồng,Ngọc,03/06/1999,Nữ,English,2,2,8
+1424,102015593,Nguyễn Bảo,Ngọc,25/02/1999,Nữ,Tourist,6,10,3
+1425,154002457,Nguyễn Đoàn Minh,Ngọc,24/05/1998,Nữ,Tourist,3,4,6
+1426,147005232,Nguyễn Hoài Bảo,Ngọc,26/06/1999,Nữ,Tourist,4,5,7
+1427,159006548,Nguyễn Lê Mỹ,Ngọc,18/04/1999,Nữ,IT,2,6,9
+1428,102000457,Nguyễn Như,Ngọc,18/08/1999,Nữ,English,2,3,6
+1429,102055524,Nguyễn Phương Bảo,Ngọc,27/10/1999,Nữ,English,2,4,10
+1430,102051117,Nguyễn Thị Bảo,Ngọc,22/11/1999,Nữ,Tourist,2,4,6
+1431,102020627,Nguyễn Thị Bảo,Ngọc,07/09/1999,Nữ,Tourist,8,3,4
+1432,102031434,Nguyễn Thị Hồng,Ngọc,11/08/1999,Nữ,Tourist,4,7,10
+1433,102057012,Nguyễn Thị Yến,Ngọc,12/11/1999,Nữ,IT,5,6,3
+1434,102004603,Nguyễn Văn Đình,Ngọc,27/12/1999,Nam,IT,5,8,7
+1435,156010050,Phạm Hồng,Ngọc,19/11/1999,Nữ,English,8,9,4
+1436,154004557,Phạm Hồng,Ngọc,14/09/1999,Nữ,English,3,6,7
+1437,102005205,Phạm Như,Ngọc,03/08/1999,Nữ,English,5,3,3
+1438,102056614,Phạm Thị Anh,Ngọc,07/06/1999,Nữ,IT,3,3,5
+1439,102038153,Phạm Thị Như,Ngọc,21/10/1999,Nữ,English,4,10,5
+1440,102000458,Phan Hồng,Ngọc,27/11/1999,Nữ,English,10,4,4
+1441,102038154,Phan Minh,Ngọc,18/04/1999,Nữ,Tourist,10,1,4
+1442,102010978,Thái Nguyễn Hồng,Ngọc,09/10/1999,Nữ,Tourist,7,9,1
+1443,161004913,Trần Bích,Ngọc,25/05/1999,Nữ,Tourist,3,5,8
+1444,149009082,Trần Hồng,Ngọc,21/10/1999,Nữ,IT,7,9,7
+1445,157002371,Trần Thị Minh,Ngọc,15/02/1999,Nữ,IT,7,9,2
+1446,163005990,Trịnh Hồng,Ngọc,11/10/1999,Nữ,English,1,4,1
+1447,102013817,Võ Đặng Hồng,Ngọc,03/06/1999,Nữ,English,4,1,7
+1448,102009391,Võ Mai Diễm,Ngọc,14/05/1999,Nữ,English,8,3,4
+1449,102001351,Võ Trần Bảo,Ngọc,19/12/1999,Nữ,IT,5,4,3
+1450,152000909,Vũ Minh,Ngọc,11/04/1999,Nữ,English,9,9,10
+1451,102029562,Vũ Thị Bích,Ngọc,17/06/1999,Nữ,English,7,7,1
+1452,152002509,Vương Bảo,Ngọc,22/01/1999,Nữ,Tourist,3,4,7
+1453,140007767,Bùi Thị,Nguyên,12/06/1999,Nữ,Tourist,2,9,5
+1454,102005767,Đặng Bình,Nguyên,22/09/1999,Nữ,Tourist,7,6,7
+1455,141009281,Đặng Thảo,Nguyên,20/11/1999,Nữ,IT,5,9,2
+1456,102008993,Đỗ Quốc Bình,Nguyên,20/03/1999,Nam,IT,2,7,6
+1457,137013019,Đỗ Thị Bảo,Nguyên,15/10/1999,Nữ,English,9,4,4
+1458,102057755,Đoàn Nữ Cát,Nguyên,24/08/1999,Nữ,English,3,6,5
+1459,102008996,Hứa Phú,Nguyên,15/01/1999,Nam,English,3,10,4
+1460,102056618,Huỳnh Đăng,Nguyên,14/08/1999,Nam,IT,8,6,9
+1461,102013821,Khưu Trúc,Nguyên,08/04/1999,Nữ,English,3,7,5
+1462,153007186,Lê Nguyễn Bình,Nguyên,17/09/1999,Nam,English,5,2,10
+1463,102041015,Lương Huỳnh Khánh,Nguyên,22/08/1999,Nữ,Tourist,4,1,7
+1464,141001345,Ngô Trung,Nguyên,03/06/1999,Nam,Tourist,6,4,2
+1465,148013926,Nguyễn Đại,Nguyên,25/08/1999,Nam,Tourist,1,5,6
+1466,102007472,Nguyễn Giang Thanh,Nguyên,10/08/1999,Nữ,IT,6,10,7
+1467,102031019,Nguyễn Hoàng,Nguyên,27/11/1999,Nam,English,2,8,5
+1468,102039520,Nguyễn Hữu Trung,Nguyên,22/05/1999,Nam,English,9,8,5
+1469,102003354,Nguyễn Khôi,Nguyên,27/05/1999,Nam,Tourist,5,9,6
+1470,102022581,Nguyễn Kỷ,Nguyên,19/12/1999,Nam,Tourist,7,1,7
+1471,102023196,Nguyễn Phúc Phương,Nguyên,06/12/1999,Nữ,Tourist,1,9,7
+1472,102012243,Nguyễn Phúc Thảo,Nguyên,02/02/1999,Nữ,IT,5,3,3
+1473,102031022,Nguyễn Phương,Nguyên,13/09/1999,Nữ,IT,6,6,6
+1474,130001654,Nguyễn Trần Thanh,Nguyên,06/01/1999,Nam,English,3,5,2
+1475,102022583,Nguyễn Trọng,Nguyên,05/01/1999,Nam,English,7,5,5
+1476,156010057,Phạm Nguyễn Hoàng,Nguyên,13/04/1999,Nữ,English,9,4,2
+1477,102025388,Phan Ngô Thủy,Nguyên,13/03/1999,Nữ,IT,8,9,2
+1478,102000470,Phan Trần Thảo,Nguyên,10/03/1999,Nữ,English,5,1,8
+1479,161000823,Trần Khải,Nguyên,01/01/1999,Nam,English,2,6,1
+1480,102035250,Trần Quốc,Nguyên,16/07/1999,Nam,Tourist,10,4,7
+1481,102002901,Trần Thanh Khoa,Nguyên,05/12/1999,Nam,Tourist,9,5,10
+1482,102007475,Đào,Nguyễn,24/11/1999,Nam,Tourist,3,9,6
+1483,102035251,Lê,Nguyễn,04/03/1999,Nam,IT,2,10,10
+1484,102000473,Nguyễn Như,Nguyễn,09/02/1999,Nữ,IT,2,8,7
+1485,102055283,Phan Chí,Nguyện,19/06/1999,Nam,English,2,4,10
+1486,137010017,Lê Thị Thanh,Nguyệt,10/10/1999,Nữ,English,8,7,6
+1487,152009726,Lưu Thị Xuân,Nguyệt,05/03/1999,Nữ,English,3,4,6
+1488,102056628,Nguyễn Như Ánh,Nguyệt,23/09/1999,Nữ,IT,6,6,10
+1489,102032254,Nguyễn Thị Minh,Nguyệt,26/12/1999,Nữ,English,9,3,2
+1490,102027067,Phạm Hoàng Nhật,Nguyệt,29/09/1999,Nữ,English,2,7,3
+1491,102011325,Tăng Minh,Nguyệt,12/12/1999,Nữ,Tourist,7,8,10
+1492,146001949,Dương Thanh,Nhã,02/12/1999,Nữ,Tourist,8,7,5
+1493,102012245,Huỳnh Ái,Nhã,11/12/1999,Nữ,Tourist,2,9,9
+1494,102012246,Huỳnh Phương,Nhã,11/12/1999,Nữ,IT,6,6,4
+1495,102003724,Nguyễn Phương,Nhã,19/10/1999,Nữ,IT,6,10,4
+1496,102023203,Trần Ngọc,Nhã,11/11/1999,Nữ,English,6,5,2
+1497,102020402,Từ Thanh,Nhã,16/01/1999,Nữ,English,2,6,2
+1498,102004609,Vương Tư,Nhã,19/11/1999,Nữ,English,3,10,9
+1499,102000474,Trần Đình,Nhạ,23/12/1999,Nam,IT,2,9,1
+1500,102025163,Đào Thúy,Nhàn,14/09/1999,Nữ,English,10,10,4
+1501,102007477,Đỗ Hồng Thị Thanh,Nhàn,16/04/1998,Nữ,English,7,5,10
+1502,102051123,Lê Thanh,Nhàn,15/02/1999,Nữ,Tourist,7,4,7
+1503,141007438,Ngô Thuỵ Thanh,NhàN,08/01/1999,Nữ,Tourist,1,2,10
+1504,153003607,Nguyễn Thanh,Nhàn,09/09/1999,Nam,Tourist,4,5,1
+1505,102016141,Nguyễn Thanh,Nhàn,08/01/1999,Nam,IT,10,4,4
+1506,156000234,Nguyễn Thị Mỹ,Nhàn,28/07/1999,Nữ,English,5,4,5
+1507,102036843,Trương Thanh,Nhàn,06/02/1999,Nữ,English,1,2,8
+1508,102042523,Đào Nguyễn Trung,Nhân,18/03/1999,Nam,Tourist,1,1,8
+1509,148010723,Đỗ Trọng,Nhân,25/08/1998,Nam,Tourist,6,3,3
+1510,154004568,Hoàng,Nhân,07/04/1999,Nam,Tourist,8,10,9
+1511,102016951,Huỳnh Trọng,Nhân,05/02/1999,Nam,IT,2,5,6
+1512,102010285,Lâm Kỳ,Nhân,23/09/1999,Nam,IT,5,7,8
+1513,102034355,Lê Đình,Nhân,18/03/1999,Nam,English,5,2,7
+1514,102007481,Nguyễn Ngọc Quang,Nhân,23/07/1998,Nam,English,5,7,6
+1515,102001654,Nguyễn Ngọc Trọng,Nhân,22/12/1999,Nam,English,3,1,3
+1516,102007086,Nguyễn Phạm Hoài,Nhân,16/01/1999,Nam,IT,7,1,9
+1517,137016656,Nguyễn Thị Mỹ,Nhân,09/10/1998,Nữ,English,10,1,2
+1518,102038178,Nguyễn Thị Thanh,Nhân,27/06/1999,Nữ,English,3,2,9
+1519,156010461,Nguyễn Trọng,Nhân,13/03/1999,Nam,Tourist,4,10,1
+1520,102006379,Nguyễn Trực,Nhân,24/08/1999,Nam,Tourist,4,5,1
+1521,102001373,Tống Thiện,Nhân,19/09/1999,Nam,Tourist,9,10,1
+1522,102005775,Trần Nguyễn Thùy,Nhân,02/07/1999,Nữ,IT,2,1,5
+1523,102005215,Trần Quang,Nhân,05/12/1999,Nam,IT,9,10,2
+1524,102029585,Trần Việt,Nhân,05/11/1999,Nữ,English,4,10,5
+1525,102013844,Lê HuỳNh Đăng,Nhật,22/03/1999,Nam,English,5,9,9
+1526,102013038,Nguyễn Anh,Nhật,16/04/1999,Nam,English,3,9,4
+1527,104001594,Nguyễn Hoàng Trúc,Nhật,01/11/1999,Nữ,IT,8,9,9
+1528,102032262,Phạm Quốc,Nhật,14/08/1999,Nam,English,8,9,10
+1529,102025175,Phan Quang,Nhật,24/07/1999,Nam,English,9,3,10
+1530,102032263,Trần Cao Quang,Nhật,14/07/1999,Nam,Tourist,8,1,9
+1531,102002911,Trần Minh,Nhật,09/09/1999,Nam,Tourist,1,3,9
+1532,102039532,Trần Minh,Nhật,27/10/1999,Nam,Tourist,5,2,8
+1533,102029589,Trần Nguyễn Cường,Nhật,12/11/1999,Nam,IT,4,2,3
+1534,102044527,Trương Nguyên,Nhật,04/05/1999,Nam,IT,10,6,1
+1535,102028677,Bùi Trang,Nhi,26/04/1999,Nữ,English,4,1,6
+1536,149008087,Cái Ngọc Quế,Nhi,17/03/1999,Nữ,English,6,6,4
+1537,102004614,Đặng Ngọc Gia,Nhi,09/06/1999,Nữ,English,6,2,3
+1538,143001798,Đào Quý,Nhi,14/08/1999,Nữ,IT,8,1,2
+1539,102032270,Đỗ Thị Dung,Nhi,02/11/1999,Nữ,English,6,3,1
+1540,142010516,Đồng Thị Thanh,Nhi,19/01/1999,Nữ,English,3,8,9
+1541,141007460,Hoàng Phạm Uyển,Nhi,18/03/1999,Nữ,Tourist,9,7,5
+1542,102013847,Huỳnh Bảo,Nhi,27/05/1999,Nữ,Tourist,5,10,4
+1543,102039538,Huỳnh Thị Hoài,Nhi,03/05/1999,Nữ,Tourist,5,5,4
+1544,146005899,Huỳnh Yến,Nhi,08/05/1999,Nữ,IT,1,7,4
+1545,159000545,Lâm Mỹ,Nhi,23/03/1999,Nữ,English,10,4,3
+1546,102035258,Lâm Yến,Nhi,12/08/1999,Nữ,English,1,7,7
+1547,102039540,Lê Mai,Nhi,28/02/1999,Nữ,Tourist,6,4,1
+1548,102037475,Lê Ngọc Liễu,Nhi,08/10/1999,Nữ,Tourist,4,8,2
+1549,102002913,Lê Ngọc Uyên,Nhi,02/12/1999,Nữ,Tourist,1,6,1
+1550,102051131,Lê Nguyễn Hằng,Nhi,30/07/1999,Nữ,IT,3,3,3
+1551,146002368,Lê Thị Mai,Nhi,28/06/1999,Nữ,IT,7,4,4
+1552,104007017,Lê Tuyết,Nhi,08/05/1999,Nữ,English,1,6,7
+1553,138002528,Lưu Đặng Ánh,Nhi,03/08/1999,Nữ,English,8,7,2
+1554,102012253,Lý Mẫn,Nhi,08/12/1999,Nữ,English,1,4,6
+1555,160002392,Lý Tuyết,Nhi,04/10/1999,Nữ,IT,2,6,10
+1556,102052258,Nguyễn Ái,Nhi,17/11/1999,Nữ,English,6,8,9
+1557,144003965,Nguyễn Châu Tuyết,Nhi,17/01/1999,Nữ,English,4,1,9
+1558,102013045,Nguyễn Đàm Thúy,Nhi,18/11/1999,Nữ,Tourist,10,9,2
+1559,154007605,Nguyễn Hồ Gia,Nhi,11/10/1999,Nữ,Tourist,9,2,7
+1560,138006913,Nguyễn Hoàng,Nhi,26/07/1999,Nữ,Tourist,8,7,2
+1561,148021694,Nguyễn Hữu Ái,Nhi,03/01/1999,Nữ,IT,6,8,8
+1562,102014552,Nguyễn Linh,Nhi,13/01/1999,Nữ,IT,6,9,4
+1563,102005782,Nguyễn Mai Ý,Nhi,24/07/1999,Nữ,English,9,6,4
+1564,144002761,Nguyễn Ngọc Mẫn,Nhi,13/08/1999,Nữ,English,1,2,7
+1565,102009404,Nguyễn Ngọc Phương,Nhi,26/05/1999,Nữ,English,9,9,9
+1566,102055307,Nguyễn Ngọc Thảo,Nhi,14/02/1999,Nữ,IT,3,4,10
+1567,102010307,Nguyễn Ngọc Tuyết,Nhi,30/07/1999,Nữ,English,4,4,6
+1568,153007206,Nguyễn Ngọc Tuyết,Nhi,01/07/1999,Nữ,English,4,1,9
+1569,102052732,Nguyễn Ngọc Yến,Nhi,11/11/1999,Nữ,Tourist,3,3,8
+1570,102038824,Nguyễn Ngọc Yến,Nhi,20/02/1999,Nữ,Tourist,2,7,4
+1571,148006686,Nguyễn Ngọc Yến,Nhi,08/04/1999,Nữ,Tourist,10,7,3
+1572,140018298,Nguyễn Ngọc Yến,Nhi,26/03/1999,Nữ,IT,1,9,10
+1573,148022830,Nguyễn Ngọc Yến,Nhi,17/06/1999,Nữ,IT,8,9,2
+1574,102002915,Nguyễn Ngọc Yến,Nhi,26/06/1999,Nữ,English,10,2,2
+1575,102006389,Nguyễn Ngọc Yến,Nhi,10/08/1999,Nữ,English,9,10,8
+1576,102050881,Nguyễn Ngọc Yến,Nhi,26/09/1999,Nữ,English,6,7,1
+1577,102051134,Nguyễn Thị Hồng,Nhi,15/03/1998,Nữ,IT,6,2,10
+1578,102039546,Nguyễn Thị Thanh,Nhi,15/10/1999,Nữ,English,9,10,8
+1579,102001665,Nguyễn Thị Tuyết,Nhi,21/10/1999,Nữ,English,8,3,9
+1580,102009405,Nguyễn Thị Ý,Nhi,17/02/1999,Nữ,Tourist,6,4,6
+1581,137015934,Nguyễn Thị Yến,Nhi,04/01/1999,Nữ,Tourist,1,7,4
+1582,152002538,Nguyễn Thị Yến,Nhi,07/08/1999,Nữ,Tourist,7,3,5
+1583,164003193,Nguyễn Thiên,Nhi,03/10/1999,Nữ,IT,2,3,9
+1584,102021613,Nguyễn Võ Tuyết,Nhi,15/04/1999,Nữ,English,5,7,1
+1585,102049231,Nguyễn Yến,Nhi,22/08/1999,Nữ,English,10,7,4
+1586,156003163,Nguyễn Yến,Nhi,08/06/1999,Nữ,Tourist,4,2,3
+1587,102026344,Phạm Hoàng Thanh,Nhi,03/02/1999,Nữ,Tourist,2,8,3
+1588,102039547,Phạm Ngọc Đan,Nhi,18/03/1999,Nữ,Tourist,10,2,9
+1589,140016329,Phạm Ngọc Đan,Nhi,05/09/1999,Nữ,IT,4,5,9
+1590,102046079,Phạm Trần Tuyết,Nhi,30/09/1999,Nữ,IT,1,6,8
+1591,102035989,Phạm Yến,Nhi,02/04/1999,Nữ,English,8,4,8
+1592,102001666,Phan Nguyễn Yến,Nhi,19/12/1999,Nữ,English,9,6,8
+1593,102001391,Quách Bảo,Nhi,30/11/1999,Nữ,English,8,1,4
+1594,102025194,Trần Gia,Nhi,04/10/1999,Nữ,IT,2,2,10
+1595,102043377,Trần Lữ Yến,Nhi,08/02/1999,Nữ,English,5,2,8
+1596,102036858,Trần Ngọc Phương,Nhi,14/11/1999,Nữ,English,3,1,4
+1597,159000560,Trần Ngọc Tuyết,Nhi,23/08/1999,Nữ,Tourist,10,10,7
+1598,102001393,Trần Phạm Thảo,Nhi,16/06/1999,Nữ,Tourist,6,9,9
+1599,102050892,Trần Thị Yến,Nhi,25/07/1999,Nữ,Tourist,4,8,8
+1600,156000623,Trần Thị Yến,Nhi,18/06/1999,Nữ,IT,2,6,10
+1601,102043731,Vân Bảo,Nhi,21/10/1999,Nữ,IT,5,2,2
+1602,102002437,Võ Ngọc Yến,Nhi,31/12/1999,Nữ,English,9,5,5
+1603,102031068,Võ Phạm Quỳnh,Nhi,05/08/1999,Nữ,English,7,4,9
+1604,102025195,Võ Yến,Nhi,07/03/1999,Nữ,English,1,6,8
+1605,102022606,Lương Thuận,Nhiên,21/09/1999,Nam,IT,4,5,3
+1606,102036864,Nguyễn Thanh Trà,Nhiên,12/06/1998,Nam,English,1,3,5
+1607,102044541,Trần Như Quỳnh,Nhiên,02/12/1999,Nữ,English,3,6,10
+1608,103012918,Đỗ Thị,Nhinh,30/10/1999,Nữ,Tourist,8,5,7
+1609,102005235,Nghiêm Nguyễn Vân,Nhu,28/04/1999,Nữ,Tourist,5,10,8
+1610,102034555,Phạm Đình,Nhu,26/05/1999,Nam,Tourist,2,6,1
+1611,102009411,Cao Ngọc Tâm,Như,24/06/1999,Nữ,IT,8,2,2
+1612,102025206,Chung Mỹ,Như,15/09/1999,Nữ,IT,7,7,3
+1613,102011008,Đàm Thảo,Như,25/06/1999,Nữ,English,5,6,7
+1614,140014685,Đặng Ngọc,Như,07/06/1999,Nữ,English,10,7,7
+1615,102028702,Diệp Ngọc Quỳnh,Như,15/04/1999,Nữ,English,8,8,10
+1616,152003101,Đỗ Nguyễn Phương,Như,26/12/1999,Nữ,IT,2,7,5
+1617,102013870,Hoàng Tâm,Như,20/11/1999,Nữ,English,4,2,9
+1618,144002785,Hồng Tuyết,Như,16/10/1999,Nữ,English,5,9,10
+1619,148006269,Hứa Gia,Như,26/09/1999,Nữ,Tourist,2,2,4
+1620,155001280,Huỳnh Nhựt,Như,16/10/1999,Nữ,Tourist,9,7,5
+1621,102033085,Huỳnh Phạm Quỳnh,Như,02/01/1999,Nữ,Tourist,5,8,8
+1622,102036869,Huỳnh Tâm,Như,05/07/1999,Nữ,IT,9,9,6
+1623,102005795,Lại Trần Thanh,Như,03/11/1999,Nữ,English,1,7,6
+1624,102009412,Lê Ngọc Quỳnh,Như,08/02/1999,Nữ,English,7,8,7
+1625,102044547,Lê Xuân Bảo,Như,22/01/1999,Nữ,Tourist,7,8,2
+1626,102041120,Lương Quỳnh,Như,22/01/1999,Nữ,Tourist,5,6,7
+1627,102039556,Lương Thụy Quỳnh,Như,21/01/1999,Nữ,Tourist,1,7,9
+1628,102009413,Mạc Mỹ,Như,09/06/1999,Nữ,IT,6,9,1
+1629,102005243,Ngô Vũ Phương,Như,18/11/1999,Nữ,IT,10,10,8
+1630,102042536,Nguyễn Hồ Ý,Như,21/08/1999,Nữ,English,9,3,1
+1631,102023236,Nguyễn Lê Quỳnh,Như,08/11/1999,Nữ,English,6,6,5
+1632,102031465,Nguyễn Minh,Như,03/10/1999,Nữ,English,7,7,6
+1633,102005245,Nguyễn Ngọc Quỳnh,Như,26/11/1999,Nữ,IT,9,3,9
+1634,102020440,Nguyễn Ngọc Thu,Như,15/11/1999,Nữ,English,5,10,4
+1635,102050910,Nguyễn Nguyệt,Như,18/11/1999,Nữ,English,8,4,1
+1636,102003744,Nguyễn Phạm Quỳnh,Như,26/02/1999,Nữ,Tourist,9,10,8
+1637,148006272,Nguyễn Quỳnh,Như,30/12/1999,Nữ,Tourist,4,10,9
+1638,102025211,Nguyễn Quỳnh,Như,03/04/1999,Nữ,Tourist,2,3,1
+1639,102003745,Nguyễn Quỳnh,Như,18/05/1999,Nữ,IT,8,9,8
+1640,102013061,Nguyễn Thị Quỳnh,Như,30/08/1999,Nữ,IT,6,4,3
+1641,148003244,Nguyễn Thị Quỳnh,Như,12/01/1999,Nữ,English,10,5,5
+1642,102007124,Nguyễn Thị Thu,Như,28/03/1999,Nữ,English,2,4,2
+1643,155005030,Phạm Thị Huỳnh,Như,16/11/1999,Nữ,English,8,2,6
+1644,146005945,Tô Yến,Như,04/12/1999,Nữ,IT,6,7,2
+1645,102001412,Trần Lưu Quỳnh,Như,26/08/1999,Nữ,English,2,7,10
+1646,102055547,Trần Ngọc Tố,Như,07/06/1999,Nữ,English,8,8,2
+1647,102031087,Trần Nguyễn Ngọc,Như,20/11/1999,Nữ,Tourist,6,9,4
+1648,149007508,Trần Quỳnh,Như,18/09/1999,Nữ,Tourist,8,2,10
+1649,102001673,Trần Thanh,Như,17/09/1999,Nữ,Tourist,5,7,5
+1650,149009145,Trần Thị Huỳnh,Như,23/05/1999,Nữ,IT,4,1,4
+1651,140005318,Trần Thị Quỳnh,Như,19/07/1999,Nữ,IT,7,9,7
+1652,102057039,Trịnh Huỳnh Tuyết,Như,13/04/1999,Nữ,English,10,4,4
+1653,102022613,Trương Phan Quỳnh,Như,08/07/1999,Nữ,English,10,2,9
+1654,102005246,Võ Ngọc Minh,Như,12/08/1999,Nữ,English,7,4,8
+1655,102018653,Võ Thị Tuyết,Như,21/01/1999,Nữ,IT,9,10,2
+1656,102023986,Võ Thị Tuyết,Như,05/11/1999,Nữ,English,3,1,5
+1657,102042534,Bùi Mai Hồng,Nhung,13/11/1999,Nữ,English,4,6,5
+1658,102020429,Đặng Thị Tuyết,Nhung,01/06/1999,Nữ,Tourist,4,6,6
+1659,116007346,Hà Thị Hồng,Nhung,25/05/1999,Nữ,Tourist,5,6,6
+1660,102056661,Huỳnh Ngọc,Nhung,12/10/1999,Nữ,Tourist,8,5,9
+1661,102006400,Lê Thị Hồng,Nhung,28/03/1999,Nữ,IT,8,4,2
+1662,140014676,Ngô Thị,Nhung,20/11/1998,Nữ,English,6,1,8
+1663,102008266,Nguyễn Hồng,Nhung,09/09/1999,Nữ,English,6,5,4
+1664,102001394,Nguyễn Thanh Hồng,Nhung,29/01/1999,Nữ,Tourist,7,5,4
+1665,102049995,Nguyễn Thị Hồng,Nhung,01/12/1999,Nữ,Tourist,8,6,10
+1666,102005791,Nguyễn Thị Hồng,Nhung,06/04/1999,Nữ,Tourist,4,9,7
+1667,102025205,Nguyễn Thị Phi,Nhung,21/12/1999,Nữ,IT,8,5,4
+1668,138005112,Phạm Thị Cẩm,Nhung,08/06/1999,Nữ,IT,3,3,7
+1669,151002982,Tạ Thị Hồng,Nhung,03/07/1999,Nữ,English,10,4,7
+1670,102006403,Vũ Hồng,Nhung,19/08/1999,Nữ,English,7,3,6
+1671,102037492,Đào Quang,Nhựt,26/07/1999,Nam,English,2,6,3
+1672,153002530,Nguyễn Phan Minh,Nhựt,29/01/1999,Nam,IT,1,6,9
+1673,102048365,Phan Minh,Nhựt,04/06/1999,Nam,English,3,9,9
+1674,102026371,Trịnh Minh,Nhựt,20/10/1997,Nam,English,5,7,9
+1675,102027876,Phạm Thị Bảo,Ni,16/10/1999,Nữ,Tourist,8,9,9
+1676,138008934,Kpă,Nưnh,20/08/1999,Nam,Tourist,1,4,6
+1677,102038848,Nguyễn Hà Anh,Ny,07/10/1999,Nữ,Tourist,5,6,6
+1678,144002013,Nguyễn Thị Kiều,Ny,18/10/1999,Nữ,IT,2,6,2
+1679,102009419,Bùi Hoàng,Oanh,24/11/1999,Nữ,IT,2,9,3
+1680,102025225,Dương Hoàng,Oanh,06/10/1999,Nữ,English,7,8,9
+1681,102009052,Hà Kiều,Oanh,09/03/1999,Nữ,English,9,2,8
+1682,148024795,Hoàng Thị Hoàng,Oanh,08/07/1999,Nữ,English,5,10,3
+1683,102002449,Lê Kim,Oanh,30/01/1999,Nữ,IT,3,7,8
+1684,102024307,Lưu Bội,Oanh,26/04/1999,Nữ,English,5,7,4
+1685,140008748,Nguyễn Hà Kiều,Oanh,20/05/1999,Nữ,English,8,9,10
+1686,102019730,Nguyễn Huỳnh Kim,Oanh,20/02/1999,Nữ,Tourist,3,3,6
+1687,102002450,Nguyễn Vũ Hoàng,Oanh,11/09/1999,Nữ,Tourist,9,6,7
+1688,102029633,Phạm Phương,Oanh,03/12/1999,Nữ,Tourist,6,4,3
+1689,102054074,Phan Huỳnh Yến,Oanh,08/12/1999,Nữ,IT,6,3,2
+1690,152008424,Thiều Thị,Oanh,23/12/1999,Nữ,IT,1,7,3
+1691,163001552,Mã Thị,Phấn,26/10/1999,Nữ,English,1,9,2
+1692,102009421,Ngô Tấn,Pháp,20/07/1999,Nam,English,4,4,1
+1693,102022620,Bùi Đức,Phát,27/04/1999,Nam,English,8,1,6
+1694,102039571,Dương NguyễN ĐứC,PháT,20/07/1999,Nam,IT,1,2,1
+1695,102044554,Lê Đình,Phát,24/03/1999,Nam,English,7,4,4
+1696,102021635,Mai Minh,Phát,04/03/1999,Nam,English,7,2,9
+1697,102037498,Nguyễn Hoàng,Phát,23/12/1999,Nam,Tourist,8,8,3
+1698,102006418,Nguyễn Tào,Phát,20/05/1999,Nam,Tourist,3,2,1
+1699,102035281,Nguyễn Tiến,Phát,01/06/1999,Nam,Tourist,6,2,6
+1700,102038854,Nguyễn Trần Hoàng,Phát,18/06/1999,Nam,IT,4,9,6
+1701,102015627,Phạm Tấn,Phát,21/10/1999,Nam,English,9,4,2
+1702,102009059,Tô Đĩnh,Phát,28/10/1998,Nam,English,6,2,8
+1703,102004627,Trần Đức,Phát,01/12/1999,Nam,Tourist,3,3,2
+1704,159000602,Trương Thành,Phát,17/05/1999,Nam,Tourist,9,8,5
+1705,102021646,Châu Chí,Phi,21/03/1999,Nam,Tourist,5,7,3
+1706,133005487,Hoàng Thanh Nhật,Phi,06/08/1999,Nam,IT,5,8,10
+1707,146001320,Hồng Vĩnh,Phi,02/06/1998,Nam,IT,7,3,8
+1708,102060296,Nguyễn Hoàng,Phi,01/10/1999,Nam,English,2,4,3
+1709,156008202,Nguyễn Hồng,Phi,04/02/1999,Nam,English,6,6,3
+1710,102031103,Phạm Phương,Phi,19/01/1999,Nam,English,9,9,3
+1711,102037499,Trần Nguyễn Ngọc,Phi,18/11/1999,Nam,IT,2,2,7
+1712,102002933,Đào Thanh,Phong,24/06/1999,Nam,English,5,5,2
+1713,102013904,La Vĩ,Phong,03/09/1999,Nam,English,2,9,4
+1714,102035286,Lương Thanh,Phong,24/10/1999,Nam,Tourist,10,7,9
+1715,102056698,Nguyễn Thanh,Phong,30/09/1999,Nam,Tourist,1,10,2
+1716,102002934,Nguyễn Thành,Phong,03/09/1999,Nam,Tourist,8,3,2
+1717,102005812,Nguyễn Thành,Phong,29/06/1999,Nam,IT,10,2,4
+1718,102038861,Phan Thanh,Phong,20/07/1999,Nam,IT,3,3,2
+1719,102010349,Tác Quốc,Phong,10/08/1999,Nam,English,9,1,7
+1720,102054091,Trần Thanh,Phong,26/10/1999,Nam,English,5,5,9
+1721,103008804,Đỗ Nhân,Phú,09/06/1999,Nam,English,7,10,3
+1722,152009785,Dương Nguyễn Vĩnh,Phú,24/03/1999,Nam,IT,3,1,8
+1723,102005813,Hoàng Nguyên,Phú,24/10/1999,Nam,English,9,5,3
+1724,102039581,Nguyễn Đại,Phú,17/06/1999,Nam,English,9,9,2
+1725,102007145,Nguyễn Đức,Phú,22/06/1999,Nam,Tourist,1,8,9
+1726,102021661,Nguyễn Phong,Phú,11/08/1999,Nam,Tourist,4,5,1
+1727,141007542,Nguyễn Phong,Phú,19/10/1999,Nam,Tourist,6,6,6
+1728,102042553,Trần Quang,Phú,19/08/1999,Nam,IT,4,8,6
+1729,102002938,Trần Thiên,Phú,02/09/1999,Nam,IT,4,1,7
+1730,102039583,Võ Ngọc,Phú,06/01/1999,Nam,English,6,4,1
+1731,102011037,Đặng Phạm Hoàng,Phúc,09/10/1999,Nam,English,9,10,4
+1732,102018179,Đặng Thanh,Phúc,02/04/1999,Nam,English,5,3,2
+1733,102003386,Đinh Hoàng,Phúc,22/07/1999,Nam,IT,8,10,4
+1734,159006598,Đoàn Trần Hồng,Phúc,11/01/1999,Nam,English,5,1,7
+1735,103008806,Hoàng Hữu,Phúc,10/10/1999,Nam,English,10,7,10
+1736,102036895,Hoàng Phạm Thiên,Phúc,19/05/1999,Nam,Tourist,8,7,8
+1737,102033108,Lê Hồng,Phúc,06/09/1999,Nam,Tourist,4,5,9
+1738,137012751,Ngô Trương Đại,Phúc,22/09/1999,Nam,Tourist,6,4,8
+1739,161006575,Nguyễn,Phúc,23/09/1999,Nam,IT,10,9,10
+1740,102021671,Nguyễn Đặng Tấn,Phúc,04/07/1999,Nam,English,3,6,4
+1741,102042556,Nguyễn Đắt,Phúc,21/02/1998,Nam,English,8,10,1
+1742,102024025,Nguyễn Hoàng,Phúc,24/09/1999,Nam,Tourist,7,6,7
+1743,142003881,Nguyễn Hữu,Phúc,06/04/1999,Nam,Tourist,10,2,3
+1744,102001688,Nguyễn Huỳnh Thiên,Phúc,14/10/1999,Nam,Tourist,3,8,3
+1745,102027900,Nguyễn Lê Thiên,Phúc,26/09/1999,Nữ,IT,5,4,7
+1746,102025415,Nguyễn Ngọc Kim,Phúc,11/08/1999,Nữ,IT,1,1,4
+1747,102022638,Nguyễn Tấn,Phúc,01/09/1999,Nam,English,4,6,1
+1748,102041206,Nguyễn Thị Hồng,Phúc,24/04/1999,Nữ,English,9,3,1
+1749,102027901,Nguyễn Tiến,Phúc,07/11/1999,Nam,English,3,1,9
+1750,102042560,Nguyễn Trần Hoàng,Phúc,26/05/1999,Nam,IT,8,8,9
+1751,102024027,Nguyễn Xuân,Phúc,25/03/1999,Nam,English,1,1,2
+1752,102041208,Phạm Ngọc Hồng,Phúc,14/08/1999,Nữ,English,5,2,4
+1753,102050946,Phạm Nguyễn Minh,Phúc,22/05/1999,Nam,Tourist,9,1,10
+1754,102042561,Phạm Thị Hồng,Phúc,24/09/1999,Nữ,Tourist,8,10,6
+1755,102039590,Phạm Trần Bảo,Phúc,21/01/1999,Nam,Tourist,7,2,9
+1756,102067893,Trần Hồng,Phúc,01/12/1998,Nam,IT,7,2,10
+1757,155002981,Trần Nguyễn Thiện,Phúc,05/08/1999,Nam,IT,2,10,1
+1758,148013993,Trần Thiên,Phúc,02/12/1999,Nam,English,9,10,6
+1759,102022643,Trương Hoàng,Phúc,02/02/1999,Nam,English,7,7,2
+1760,159000626,Trương Tấn,Phúc,06/04/1999,Nam,English,8,7,6
+1761,102000541,Võ Đỗ Gia,Phúc,08/03/1999,Nữ,IT,1,7,3
+1762,102036037,Vũ Huy Hồng,Phúc,10/04/1999,Nữ,English,1,2,10
+1763,102013095,Giang Kim,Phụng,06/04/1999,Nữ,English,8,5,3
+1764,102025422,Hà Tiểu,Phụng,27/07/1999,Nữ,Tourist,8,4,9
+1765,102005269,Huỳnh Thu,Phụng,24/08/1999,Nữ,Tourist,1,10,10
+1766,102013928,Nguyễn Linh,Phụng,28/12/1999,Nữ,Tourist,4,2,10
+1767,102006440,Nguyễn Phi,Phụng,29/05/1999,Nữ,IT,3,4,2
+1768,102060307,Trần Tiểu,Phụng,26/06/1999,Nữ,IT,5,9,4
+1769,148002397,Trần Võ Mỹ,Phụng,04/10/1999,Nữ,English,4,5,10
+1770,102018684,Vòng Tú,Phụng,07/12/1999,Nữ,English,1,3,6
+1771,102005823,Đặng Vĩnh,Phước,14/03/1999,Nam,English,2,9,4
+1772,102051172,Đậu Xuân,Phước,06/06/1999,Nam,IT,7,9,10
+1773,102003392,Lê Hữu,Phước,19/11/1999,Nam,English,1,5,2
+1774,102002946,Nguyễn Thuận,Phước,30/09/1998,Nam,English,2,1,3
+1775,102024039,Phạm Tiến,Phước,06/10/1999,Nam,Tourist,7,6,9
+1776,102029676,Quách Thiên,Phước,01/01/1999,Nữ,Tourist,3,5,5
+1777,141005846,Trần Minh,Phước,10/11/1999,Nam,Tourist,6,3,10
+1778,159004930,Bùi Thị Mỹ,Phương,07/10/1999,Nữ,IT,10,3,3
+1779,138000391,Cao Nguyễn Nhật,Phương,03/10/1999,Nữ,English,4,10,8
+1780,152001464,Châu Thiên,Phương,19/10/1999,Nữ,English,9,9,6
+1781,102054351,Đặng Thúy,Phương,07/03/1999,Nữ,Tourist,7,1,8
+1782,102054108,Diệp Kim,Phương,22/12/1999,Nữ,Tourist,5,3,3
+1783,102022646,Đoàn Ngọc Minh,Phương,16/06/1999,Nữ,Tourist,6,6,2
+1784,101055615,Đoàn Thị,Phương,01/11/1999,Nữ,IT,1,2,7
+1785,102039593,Hà Đỗ Thùy,Phương,07/03/1999,Nữ,IT,9,3,10
+1786,102002475,Hồ Thụy Nam,Phương,24/03/1999,Nữ,English,8,7,6
+1787,102041228,Hoàng Lan,Phương,05/01/1999,Nữ,English,9,9,7
+1788,152000964,Hoàng Ngọc,Phương,18/04/1999,Nữ,English,6,8,6
+1789,102013102,Huỳnh Huệ,Phương,14/01/1999,Nữ,IT,6,9,7
+1790,102035299,Huỳnh Nhã,Phương,22/08/1999,Nữ,English,10,8,4
+1791,102039594,Huỳnh Thanh,Phương,17/04/1999,Nữ,English,2,7,4
+1792,161001247,Lâm Tú,Phương,11/08/1999,Nữ,Tourist,6,5,8
+1793,102039595,Lê,Phương,01/01/1999,Nam,Tourist,8,10,4
+1794,143004756,Lê Hà,Phương,07/08/1999,Nữ,Tourist,8,10,3
+1795,102005826,Lê Huỳnh Uyên,Phương,27/05/1999,Nữ,IT,2,6,3
+1796,164003248,Lê Ngọc Diễm,Phương,29/11/1999,Nữ,IT,3,1,7
+1797,102054109,Lê Thị Anh,Phương,22/10/1999,Nữ,English,6,6,2
+1798,102024317,Lee Phẩm,Phương,06/07/1999,Nữ,English,1,2,2
+1799,102025436,Lý Đào Minh,Phương,27/02/1999,Nữ,English,6,2,10
+1800,102022647,Nguyễn Anh,Phương,26/09/1999,Nữ,IT,7,10,4
+1801,102020484,Nguyễn Hòang,Phương,16/12/1999,Nam,English,9,4,3
+1802,102054112,Nguyễn Hữu,Phương,07/09/1999,Nam,English,1,1,10
+1803,102031478,Nguyễn Minh,Phương,03/10/1999,Nữ,Tourist,4,5,6
+1804,102034439,Nguyễn Ngọc Linh,Phương,15/09/1999,Nữ,Tourist,4,9,4
+1805,102048415,Nguyễn Phạm Thiên,Phương,15/08/1999,Nữ,Tourist,10,6,9
+1806,102006451,Nguyễn Phan Thảo,Phương,07/04/1999,Nữ,IT,6,8,10
+1807,153007307,Nguyễn Quỳnh,Phương,19/11/1999,Nữ,IT,2,10,4
+1808,102056729,Nguyễn Thanh,Phương,25/04/1999,Nam,English,2,6,4
+1809,102002952,Nguyễn Thanh,Phương,23/01/1998,Nữ,English,8,5,1
+1810,133003653,Nguyễn Thanh,Phương,06/09/1999,Nữ,English,7,10,5
+1811,148008232,Nguyễn Thị Đông,Phương,04/08/1999,Nữ,IT,6,4,2
+1812,103002840,Nguyễn Thị Hà,Phương,06/06/1999,Nữ,English,3,7,6
+1813,140008293,Nguyễn Thị Hồng,Phương,14/09/1999,Nữ,English,5,5,3
+1814,102039604,Nguyễn Thị Mai,Phương,22/06/1999,Nữ,Tourist,10,5,9
+1815,102026408,Nguyễn Thị Minh,Phương,17/06/1999,Nữ,Tourist,1,6,10
+1816,142000437,Nguyễn Uyên,Phương,15/01/1999,Nữ,Tourist,7,7,2
+1817,102029689,Phạm Thị Ngọc,Phương,29/09/1999,Nữ,IT,4,7,4
+1818,102002482,Trần Huệ,Phương,29/04/1999,Nữ,English,10,4,8
+1819,155002477,Trần Huỳnh Uyên,Phương,11/10/1999,Nữ,English,7,1,1
+1820,147006529,Trần Lê Nhất,Phương,31/08/1999,Nữ,Tourist,2,4,4
+1821,152006542,Trần Minh,Phương,09/05/1999,Nam,Tourist,3,2,2
+1822,102055568,Trần Minh,Phương,24/06/1999,Nữ,Tourist,10,6,5
+1823,102036920,Trần Nam,Phương,17/01/1999,Nữ,IT,7,4,8
+1824,102007174,Trần Ngọc Diễm,Phương,10/09/1999,Nữ,IT,7,9,8
+1825,137000327,Trần Nhất,Phương,18/06/1999,Nữ,English,1,6,2
+1826,102004388,Trần Phan Quế,Phương,06/11/1999,Nữ,English,9,5,5
+1827,156010824,Trịnh Minh,Phương,16/12/1999,Nam,English,1,10,1
+1828,102002485,Trương Hà,Phương,10/10/1999,Nữ,IT,1,10,4
+1829,102010376,Trương Phạm Nam,Phương,10/04/1999,Nữ,English,8,10,5
+1830,102054353,Võ Hà,Phương,03/01/1999,Nữ,English,7,8,3
+1831,149001563,Võ Văn,Phương,02/05/1999,Nam,Tourist,8,7,10
+1832,163003451,Đặng Thị Mỹ,Phượng,11/10/1999,Nữ,Tourist,3,1,4
+1833,102017092,Nguyễn Hà Mai,Phượng,01/04/1999,Nữ,Tourist,6,7,7
+1834,153009392,Nguyễn Thị Bích,Phượng,13/08/1999,Nữ,IT,2,9,4
+1835,148024329,Nguyễn Thị Kim,Phượng,02/12/1999,Nữ,IT,10,8,7
+1836,151012174,Phan Ngọc,Phượng,27/11/1999,Nữ,English,10,4,3
+1837,102020681,Trương Thị Hồng,Phượng,29/05/1999,Nữ,English,8,7,8
+1838,102025464,Cao Chánh Anh,Quân,03/11/1999,Nam,English,10,10,4
+1839,102067916,Chung Thụy,Quân,17/10/1996,Nữ,IT,1,10,3
+1840,102028778,Đỗ Hoàng Minh,Quân,14/09/1999,Nam,English,5,5,1
+1841,102025465,Dương Minh,Quân,13/05/1999,Nữ,English,10,3,4
+1842,142001110,Hà Thái Minh,Quân,14/12/1999,Nam,Tourist,1,2,8
+1843,102021842,Lê Đỗ Hoàng,Quân,06/05/1999,Nam,Tourist,10,1,2
+1844,102001477,Lưu Mỹ,Quân,09/03/1999,Nữ,Tourist,4,4,3
+1845,102036932,Phan Khải,Quân,22/11/1999,Nữ,IT,8,8,7
+1846,102004405,Trần Minh,Quân,10/02/1999,Nam,IT,6,8,6
+1847,102028789,Trần Minh Anh,Quân,09/02/1998,Nam,English,6,4,6
+1848,102009131,Trịnh Thanh,Quân,02/03/1999,Nam,English,5,3,6
+1849,102034595,Vũ Anh,Quân,31/07/1999,Nam,English,2,10,8
+1850,102006471,Vương Mẫn,Quân,26/07/1999,Nữ,IT,3,9,10
+1851,102041249,Dương Trần Minh,Quang,23/11/1999,Nam,English,5,5,1
+1852,102054354,Nguyễn Đăng,Quang,23/06/1999,Nam,English,8,4,10
+1853,102007180,Nguyễn Đinh,Quang,26/10/1999,Nam,Tourist,7,7,3
+1854,155006505,Nguyễn Nhật,Quang,02/01/1999,Nam,Tourist,9,10,3
+1855,102025460,Nguyễn Phụng Minh,Quang,18/04/1999,Nam,Tourist,2,3,6
+1856,102006461,Nguyễn Phương,Quang,17/04/1998,Nam,IT,6,1,6
+1857,102054355,Nguyễn Trần Minh,Quang,27/11/1999,Nam,English,4,1,1
+1858,102027918,Nguyễn Vũ Duy,Quang,25/11/1999,Nam,English,5,10,10
+1859,102041264,Nguyễn Xuân,Quang,30/06/1999,Nam,Tourist,7,6,6
+1860,151005363,Phạm Phương,Quang,19/11/1997,Nam,Tourist,4,7,2
+1861,151006097,Phù Vĩnh,Quang,01/07/1999,Nam,Tourist,5,3,5
+1862,102001473,Trần Nguyễn Nhật,Quang,03/11/1999,Nam,IT,10,6,5
+1863,102015651,Vũ Đình,Quang,26/04/1999,Nam,IT,7,1,3
+1864,102017343,Đặng Lê Đan,Quế,04/08/1999,Nữ,English,10,5,4
+1865,102043495,Hoàng Ngọc Kim,Quế,01/09/1999,Nữ,English,1,6,8
+1866,102005834,Hồ Đình,Quí,22/11/1999,Nam,English,6,6,9
+1867,102059762,Đinh Hữu,Quốc,30/01/1999,Nam,IT,3,10,8
+1868,163003460,Nguyễn Công,Quốc,09/04/1999,Nam,English,2,1,10
+1869,102054130,Nguyễn Văn,Quốc,11/04/1998,Nam,English,1,6,1
+1870,102037535,Phùng Kinh,Quốc,27/07/1999,Nam,Tourist,9,7,10
+1871,144001108,Trần Phú,Quý,06/08/1999,Nam,Tourist,1,9,5
+1872,102003412,Trương Thị Ngọc,Quý,18/09/1999,Nữ,Tourist,8,10,6
+1873,102009138,Cao Ngọc Tố,Quyên,13/11/1999,Nữ,IT,10,5,8
+1874,102051222,Đỗ Khánh,Quyên,10/12/1999,Nữ,IT,1,1,3
+1875,102033141,Đỗ Mai,Quyên,30/04/1999,Nữ,English,6,1,9
+1876,102043498,Dương Tú,Quyên,24/03/1999,Nữ,English,7,4,4
+1877,102059766,Lưu Ái,Quyên,30/10/1999,Nữ,English,3,10,4
+1878,102000583,Lý Bích,Quyên,20/03/1999,Nữ,IT,9,8,2
+1879,159000680,Lý Thái,Quyên,30/11/1999,Nữ,English,9,5,2
+1880,102037539,Nguyễn Lan,Quyên,18/03/1999,Nữ,English,10,8,3
+1881,102005300,Nguyễn Thị Kim,Quyên,02/06/1999,Nữ,Tourist,9,7,5
+1882,137007922,Nguyễn Thị Thu,Quyên,22/12/1999,Nữ,Tourist,6,8,5
+1883,153009397,Phạm Thị Tố,Quyên,04/10/1999,Nữ,Tourist,9,10,5
+1884,102030033,Phạm Thúy,Quyên,13/02/1999,Nữ,IT,7,9,2
+1885,102037541,Thái Bội,Quyên,07/04/1999,Nữ,IT,6,6,2
+1886,102015237,Trần Hồng,Quyên,22/12/1999,Nữ,English,3,9,9
+1887,156002753,Trần Thị Mỹ,Quyên,14/09/1999,Nữ,English,10,9,8
+1888,102054138,Trịnh Vũ Thảo,Quyên,02/06/1999,Nữ,English,8,4,6
+1889,157004727,Võ Bảo,Quyên,27/07/1999,Nữ,IT,2,6,7
+1890,102029722,Võ Hoàng Khả,Quyên,07/04/1999,Nữ,English,8,7,2
+1891,154005850,Võ Ngọc,Quyên,23/01/1999,Nữ,English,5,4,2
+1892,157003329,Võ Thị Thúy,Quyên,16/07/1999,Nữ,Tourist,8,4,10
+1893,102013966,NguyễN Thị Nhã,QuyềN,24/03/1999,Nữ,Tourist,8,2,7
+1894,102042576,Võ Thúy,Quyền,09/09/1999,Nữ,Tourist,6,8,4
+1895,102010393,Vòng Thế,Quyền,28/10/1999,Nam,IT,6,1,10
+1896,102056763,Bùi Như,Quỳnh,26/07/1998,Nữ,English,5,4,9
+1897,102003415,Đặng Như,Quỳnh,20/06/1999,Nữ,English,1,3,10
+1898,102000587,Hà Ngọc Phương,Quỳnh,07/06/1999,Nữ,Tourist,1,8,5
+1899,102057825,Lâm Thị Phương,Quỳnh,29/01/1999,Nữ,Tourist,8,9,4
+1900,102028795,Lâm Thúy,Quỳnh,18/01/1999,Nữ,Tourist,10,8,3
+1901,102025489,Lê Ngọc Như,Quỳnh,13/04/1999,Nữ,IT,3,8,9
+1902,102039631,Lê Thị Như,Quỳnh,20/08/1999,Nữ,IT,1,8,3
+1903,102055625,Mai Thị Bạch,Quỳnh,16/11/1999,Nữ,English,8,7,6
+1904,137000917,Mai Thị Như,Quỳnh,06/12/1999,Nữ,English,5,3,8
+1905,102018706,Nguyễn Ngọc,Quỳnh,14/02/1998,Nữ,English,9,9,4
+1906,102010399,Nguyễn Ngọc Như,Quỳnh,01/12/1999,Nữ,IT,8,10,7
+1907,142011127,Nguyễn Ngọc Yến,Quỳnh,25/04/1999,Nữ,English,3,5,1
+1908,141001916,Nguyễn Như Mai,Quỳnh,09/06/1999,Nữ,English,1,8,1
+1909,102002505,Nguyễn Phạm Diễm,Quỳnh,01/03/1999,Nữ,Tourist,10,2,7
+1910,102042579,Nguyễn Thanh Đông,Quỳnh,23/12/1999,Nữ,Tourist,1,8,9
+1911,102007199,Nguyễn Thanh Phụng,Quỳnh,09/12/1999,Nữ,Tourist,2,7,8
+1912,140002710,Nguyễn Thị,Quỳnh,06/05/1999,Nữ,IT,8,8,8
+1913,148013418,Nguyễn Thị Diễm,Quỳnh,04/01/1999,Nữ,IT,3,6,6
+1914,153005204,Nguyễn Thị Hương,Quỳnh,06/09/1999,Nữ,English,6,1,1
+1915,102005306,Nguyễn Thị Phương,Quỳnh,12/07/1999,Nữ,English,9,5,8
+1916,149008159,Nguyễn Thúy,Quỳnh,11/11/1999,Nữ,English,8,7,4
+1917,102020712,Nguyễn Vũ Xuân,Quỳnh,15/06/1999,Nữ,IT,3,8,9
+1918,102043770,Phạm Ngọc Như,Quỳnh,12/01/1999,Nữ,English,9,1,3
+1919,102006481,Phạm Như,Quỳnh,07/12/1999,Nữ,English,6,10,3
+1920,142002594,Phan Lê Khánh,Quỳnh,17/08/1999,Nữ,Tourist,9,1,8
+1921,102033608,Phan Ngọc Như,Quỳnh,02/06/1999,Nữ,Tourist,2,3,1
+1922,102030041,Trần Ái,Quỳnh,23/04/1999,Nữ,Tourist,4,4,9
+1923,102005846,Trần Nguyễn Phương,Quỳnh,22/02/1999,Nữ,IT,7,3,7
+1924,102032366,Trần Thảo,Quỳnh,05/10/1999,Nữ,IT,6,6,2
+1925,102004653,Trần Thảo,Quỳnh,16/07/1999,Nữ,English,2,1,4
+1926,102017352,Trương Ngọc Diễm,Quỳnh,24/10/1999,Nữ,English,9,5,10
+1927,102004654,Văn Thể,Quỳnh,06/01/1999,Nữ,English,9,6,8
+1928,144001131,Văn Thúy,Quỳnh,24/08/1999,Nữ,IT,8,9,5
+1929,102043778,Võ Lê Phương,Quỳnh,20/07/1999,Nữ,English,2,1,10
+1930,102005848,Võ Mai,Quỳnh,18/04/1999,Nữ,English,3,5,4
+1931,148001295,Võ Ngọc Diễm,Quỳnh,30/12/1999,Nữ,Tourist,6,4,5
+1932,102009152,Võ Thị Trúc,Quỳnh,26/02/1999,Nữ,Tourist,5,5,10
+1933,102009455,Vũ Nguyễn Dạ,Quỳnh,30/04/1999,Nữ,Tourist,7,10,2
+1934,147007040,Nguyễn Thiên,Sâm,22/01/1999,Nữ,IT,3,7,5
+1935,102016227,Tạ Quốc,Sâm,18/06/1999,Nam,English,4,3,9
+1936,147006945,Đào Đặng Thanh,Sang,28/04/1999,Nam,English,4,1,8
+1937,137015652,Huỳnh Thanh,Sang,29/10/1999,Nam,Tourist,7,9,4
+1938,148003324,Lê Phước,Sang,26/09/1999,Nam,Tourist,6,7,10
+1939,102071220,Lê Quý,Sang,30/06/1999,Nam,Tourist,2,6,8
+1940,151011586,Lê Thành,Sang,19/02/1999,Nam,IT,9,6,3
+1941,156003968,Nguyễn Phúc,Sang,03/06/1999,Nam,IT,2,5,7
+1942,102036084,Nguyễn Quỳnh Hương,Sang,23/10/1999,Nữ,English,7,8,2
+1943,102015664,Nguyễn Tấn,Sang,25/11/1999,Nam,English,2,9,1
+1944,137006549,Nguyễn Thanh,Sang,17/07/1999,Nam,English,5,3,10
+1945,102004657,Tô Ngọc,Sang,24/05/1999,Nữ,IT,1,9,9
+1946,102016225,Trần Quang,Sang,24/09/1999,Nam,English,6,5,8
+1947,102004425,Trương Thế,Sang,22/09/1999,Nam,English,7,10,2
+1948,152001520,Võ Văn,Sang,09/04/1999,Nam,Tourist,4,8,8
+1949,102005309,Hu Hao,Sáng,22/09/1999,Nam,Tourist,4,4,3
+1950,102009158,Dương Trí,Siêu,29/01/1999,Nam,Tourist,6,2,10
+1951,102044603,Châu Đại,Sơn,25/09/1999,Nam,IT,1,2,3
+1952,102067203,Đỗ Thanh,Sơn,18/10/1999,Nam,IT,4,9,9
+1953,102028803,Hà Thái,Sơn,27/08/1999,Nam,English,8,3,1
+1954,157000308,Hồng,Sơn,21/11/1999,Nam,English,8,8,4
+1955,102007209,Lại Ngọc,Sơn,06/05/1999,Nam,English,3,8,9
+1956,140016602,Nguyễn Dũng,Sơn,21/07/1999,Nam,IT,8,5,7
+1957,102003429,Nguyễn Hoàng,Sơn,14/01/1999,Nam,English,9,10,4
+1958,102035325,Nguyễn Trường,Sơn,21/10/1999,Nam,English,3,6,10
+1959,129012357,Nguyễn Thị,Sương,20/08/1999,Nữ,Tourist,7,8,1
+1960,102038925,Trần Thị Thảo,Sương,20/02/1999,Nữ,Tourist,1,2,3
+1961,138010861,Trần Thị Tuyết,Sương,20/04/1999,Nữ,Tourist,9,3,5
+1962,102051272,Cao Phát,Tài,14/10/1999,Nam,IT,6,6,4
+1963,102029738,Đào Phú,Tài,06/02/1999,Nam,IT,7,1,7
+1964,102055655,Đoàn Vỹ,Tài,09/12/1999,Nam,English,2,5,9
+1965,158004180,Dương Trí,Tài,07/05/1998,Nam,English,5,1,5
+1966,102056780,Hồ Thanh,Tài,15/10/1999,Nam,English,1,9,7
+1967,102042588,Lâm Trí,Tài,21/12/1999,Nam,IT,7,7,7
+1968,102013146,Nguyễn Hữu,Tài,20/01/1999,Nam,English,2,10,1
+1969,102045414,Phạm Tấn,Tài,26/09/1999,Nam,English,3,5,5
+1970,102030045,Phan Đại,Tài,16/10/1999,Nam,Tourist,6,7,1
+1971,102015258,Trần Đức,Tài,25/08/1999,Nam,Tourist,10,6,7
+1972,102042593,Trần Minh,Tài,29/07/1999,Nam,Tourist,4,4,10
+1973,148020518,Trần Quang,Tài,10/06/1999,Nam,IT,10,5,9
+1974,102003433,Trần Trương Minh,Tài,17/02/1999,Nam,English,4,10,6
+1975,102011084,Trương Minh,Tài,19/01/1999,Nam,English,10,9,6
+1976,102057833,Võ Tấn,Tài,01/11/1999,Nam,Tourist,3,6,2
+1977,102043799,Bùi Nguyễn Nhân,Tâm,23/09/1999,Nam,Tourist,5,1,5
+1978,102024095,La Hoàng,Tâm,05/11/1998,Nam,Tourist,2,4,6
+1979,102023324,Lữ Minh,Tâm,04/06/1999,Nữ,IT,10,10,8
+1980,102025523,Mai Minh,Tâm,01/09/1999,Nữ,IT,6,10,3
+1981,102007233,Nguyễn Minh,Tâm,24/10/1999,Nữ,English,4,3,2
+1982,102002520,Nguyễn Ngọc,Tâm,21/07/1999,Nam,English,10,5,9
+1983,102005856,Nguyễn Ngọc Đan,Tâm,27/10/1999,Nữ,English,10,3,9
+1984,102017390,Nguyễn Phạm Minh,Tâm,13/11/1999,Nữ,IT,8,10,2
+1985,101032371,Nguyễn Thanh,Tâm,12/08/1999,Nữ,English,5,2,2
+1986,154004646,Nguyễn Thị Mỹ,Tâm,30/06/1999,Nữ,English,2,6,8
+1987,102009174,Phạm Minh,Tâm,17/07/1999,Nam,Tourist,7,10,4
+1988,102036108,Tạ Tuấn,Tâm,14/08/1999,Nam,Tourist,4,3,4
+1989,102033623,Tăng Thị Thúy,Tâm,06/06/1998,Nữ,Tourist,4,8,7
+1990,102009176,Trần Mỹ,Tâm,03/06/1999,Nữ,IT,8,7,8
+1991,102005858,Trang Minh,Tâm,09/02/1999,Nam,IT,7,6,2
+1992,102051296,Võ Duy,Tâm,14/05/1999,Nam,English,6,8,1
+1993,102025530,Vũ Ngọc Thanh,Tâm,16/09/1999,Nữ,English,10,6,2
+1994,102051297,Huỳnh Phú Sĩ,Tân,10/01/1999,Nam,English,10,4,7
+1995,102021869,Lê Hữu,Tân,26/04/1999,Nam,IT,2,2,2
+1996,133005080,Nguyễn Văn,Tân,06/03/1999,Nam,English,4,1,10
+1997,102027180,Phạm Vũ Duy,Tân,28/09/1999,Nam,English,3,9,8
+1998,102028823,Lê Ngọc,Tấn,14/02/1999,Nam,Tourist,3,6,5
+1999,148000578,Lê Trọng,Tấn,22/03/1999,Nam,Tourist,9,2,10
+2000,153011730,Nguyễn Thành,Tấn,03/02/1999,Nam,Tourist,9,2,1
+2001,102036116,Lê Huỳnh Vĩnh,Thái,21/02/1999,Nam,IT,1,7,10
+2002,102039658,Lương Đức,Thái,01/10/1999,Nam,IT,1,10,2
+2003,102051308,Nguyễn Ngọc,Thái,03/11/1999,Nam,English,10,9,8
+2004,102007546,Nguyễn Tấn,Thái,25/10/1999,Nam,English,5,8,3
+2005,118012848,Nguyễn Văn,Thái,14/05/1999,Nam,English,4,5,3
+2006,149007006,Trần Quốc,Thái,26/03/1999,Nam,IT,8,6,6
+2007,102021876,Wang Quốc,Thái,16/07/1999,Nam,English,3,7,6
+2008,102025579,Lâm Kim Hồng,Thắm,17/06/1999,Nữ,English,6,3,9
+2009,143008553,Vòng Thị Ngọc,Thắm,01/09/1999,Nữ,Tourist,1,2,2
+2010,102001794,Tạ Bảo,Thăng,28/05/1999,Nam,Tourist,5,7,5
+2011,102025582,Đoàn Quốc,Thắng,01/01/1999,Nam,Tourist,6,1,10
+2012,102054211,Đoàn Từ Quốc,Thắng,26/07/1999,Nam,IT,7,3,1
+2013,102006534,Huỳnh Công,Thắng,07/01/1999,Nam,English,1,1,7
+2014,102043885,Huỳnh Ngô Trung,Thắng,27/09/1999,Nam,English,1,3,2
+2015,102036993,Lê Nguyên,Thắng,04/04/1999,Nam,Tourist,2,9,3
+2016,102045456,Lương Toàn,Thắng,02/11/1999,Nam,Tourist,6,9,1
+2017,102000668,Nguyễn Quốc,Thắng,08/12/1999,Nam,Tourist,3,6,1
+2018,102030114,Nguyễn Trọng,Thắng,09/11/1999,Nam,IT,10,8,5
+2019,143000824,Phạm Hoàng,Thắng,30/04/1999,Nam,IT,5,2,7
+2020,102007557,Phạm Minh,Thắng,05/10/1999,Nam,English,9,4,4
+2021,102004682,Phạm Quang,Thắng,16/06/1999,Nam,English,3,7,3
+2022,102017467,Phạm Văn,Thắng,25/09/1998,Nam,English,9,1,5
+2023,102036151,Phan Nguyễn Chiêu,Thắng,30/03/1999,Nam,IT,8,6,6
+2024,102003003,Thang Toàn,Thắng,06/05/1999,Nam,English,6,1,1
+2025,152001050,Trần Cao,Thắng,30/07/1999,Nam,English,3,5,7
+2026,102057121,Vũ Đỗ Quốc,Thắng,04/04/1999,Nam,Tourist,9,6,5
+2027,102005862,Bùi Phương,Thanh,09/10/1999,Nữ,Tourist,3,1,5
+2028,148003359,Đặng Nguyễn Phương,Thanh,24/06/1999,Nữ,Tourist,9,8,2
+2029,148007818,Đặng Trần Thiên,Thanh,11/12/1999,Nữ,IT,8,4,7
+2030,102027968,Đinh Ngọc Lan,Thanh,07/11/1999,Nữ,IT,10,9,2
+2031,102038284,Đinh Thị Hồng,Thanh,24/05/1999,Nữ,English,1,10,5
+2032,150002857,Lê Bảo,Thanh,22/07/1999,Nữ,English,3,3,5
+2033,148006378,Lê Ngọc Đan,Thanh,18/07/1999,Nữ,English,8,9,2
+2034,141003801,Lê Nguyễn Ngọc Huyền,Thanh,25/02/1999,Nữ,IT,2,8,5
+2035,102014008,Lê Nhật,Thanh,07/10/1996,Nam,English,9,3,3
+2036,102009190,Ngô Bảo,Thanh,01/01/1999,Nữ,English,8,7,3
+2037,143004791,Ngô Ngọc Đan,Thanh,13/09/1999,Nữ,Tourist,5,6,10
+2038,102033168,Nguyễn Châu Bích,Thanh,03/02/1999,Nữ,Tourist,8,8,1
+2039,102045434,Nguyễn Ngọc Phương,Thanh,28/05/1999,Nữ,Tourist,3,9,2
+2040,102043830,Nguyễn Ngọc Thiên,Thanh,28/02/1999,Nữ,IT,10,10,9
+2041,102031223,Nguyễn Phạm Huệ,Thanh,02/11/1999,Nữ,IT,6,7,9
+2042,102005866,Nguyễn Phương,Thanh,26/04/1999,Nữ,English,4,6,1
+2043,102023344,Nguyễn Phương Mai,Thanh,27/11/1999,Nữ,English,1,9,7
+2044,102039666,Nguyễn Thị Ngọc,Thanh,13/04/1999,Nữ,English,10,5,4
+2045,102013172,Nguyễn Trúc,Thanh,27/03/1999,Nữ,IT,1,5,10
+2046,102028830,Phạm Phương,Thanh,13/06/1999,Nữ,English,1,3,4
+2047,154002075,Phạm Trương Thanh,Thanh,02/08/1999,Nữ,English,4,10,1
+2048,102055687,Phan Tống Quý,Thanh,16/07/1998,Nam,Tourist,8,8,1
+2049,102001765,Phùng Kim,Thanh,14/10/1999,Nữ,Tourist,3,9,1
+2050,102065303,Thái Mỹ,Thanh,25/12/1993,Nữ,Tourist,2,10,8
+2051,148016051,Thân Hoài,Thanh,11/01/1999,Nam,IT,4,2,7
+2052,102023345,Tô Ngọc Đan,Thanh,28/06/1999,Nữ,English,8,3,9
+2053,102014011,Trần Huỳnh Nhật,Thanh,24/08/1999,Nữ,English,5,4,1
+2054,102030064,Trang Ái,Thanh,02/02/1999,Nữ,Tourist,6,3,9
+2055,102036124,Trương Thiên,Thanh,26/11/1999,Nữ,Tourist,7,8,8
+2056,102004444,Bùi Công,Thành,18/12/1999,Nam,Tourist,2,1,4
+2057,102010439,Cao Trần Kim,Thành,31/08/1999,Nữ,IT,4,7,4
+2058,102015276,Đoàn Tuấn,Thành,12/09/1999,Nam,IT,7,1,9
+2059,102001768,Lê Phú,Thành,18/08/1999,Nam,English,9,1,4
+2060,102000643,Lư Quang,Thành,13/12/1999,Nam,English,6,1,6
+2061,102013178,Lưu Tín,Thành,27/10/1999,Nam,English,5,4,2
+2062,102032414,Nguyễn Liêm,Thành,25/05/1999,Nam,IT,4,1,8
+2063,142003932,Nguyễn Văn,Thành,07/02/1999,Nam,English,8,9,8
+2064,102000647,Nguyễn Văn,Thành,12/04/1999,Nam,English,8,6,5
+2065,102036130,Trần Công,Thành,29/03/1999,Nam,Tourist,9,10,8
+2066,102038944,Trần Hữu,Thành,07/01/1999,Nam,Tourist,7,1,8
+2067,102032415,Trần Minh,Thành,04/07/1999,Nam,Tourist,10,3,1
+2068,102024127,Trần Tuấn,Thành,10/11/1999,Nam,IT,9,7,6
+2069,142007665,Trương Công,Thành,09/06/1999,Nam,IT,2,3,1
+2070,148007827,Vũ Tâm,Thành,10/12/1999,Nam,English,5,10,1
+2071,102051335,Bùi Phương,Thảo,11/05/1999,Nữ,English,5,5,1
+2072,102012384,Bùi Thị Ngọc,Thảo,12/08/1999,Nữ,English,10,5,1
+2073,134002169,Bùi Thị Thanh,Thảo,25/07/1999,Nữ,IT,8,1,6
+2074,102028839,Bùi Thụy Phương,Thảo,23/01/1999,Nữ,English,6,1,7
+2075,143003709,Cao Thị,Thảo,08/06/1999,Nữ,English,1,3,4
+2076,144007461,Cao Thị Thanh,Thảo,18/12/1999,Nữ,Tourist,10,1,7
+2077,144001250,Đào Thị Thu,Thảo,05/11/1999,Nữ,Tourist,7,1,7
+2078,102039672,Đinh Nguyễn Mai,Thảo,30/03/1999,Nữ,Tourist,9,7,5
+2079,102044635,Đỗ Ngọc Minh,Thảo,18/10/1999,Nữ,IT,4,2,1
+2080,102037581,Đỗ Ngọc Phương,Thảo,10/12/1999,Nữ,IT,8,8,1
+2081,102038294,Đỗ Thanh,Thảo,10/04/1999,Nữ,English,3,7,1
+2082,102015280,Đỗ Thị Thanh,Thảo,27/07/1999,Nữ,English,3,6,6
+2083,102039674,Đỗ Thị Thanh,Thảo,22/09/1999,Nữ,English,2,2,3
+2084,102026477,Đỗ Thị Thu,Thảo,25/02/1999,Nữ,IT,6,10,8
+2085,152001588,Đỗ Thị Thu,Thảo,15/11/1999,Nữ,English,7,6,5
+2086,145003883,Dương Lê Thanh,Thảo,25/02/1999,Nữ,English,6,3,3
+2087,102000650,Dương Tâm,Thảo,26/08/1999,Nữ,Tourist,9,1,6
+2088,142006267,Hồ Nguyễn Dương,Thảo,07/11/1998,Nam,Tourist,8,4,3
+2089,102045444,Hoàng Thị Phương,Thảo,09/12/1999,Nữ,Tourist,8,2,4
+2090,102042614,Huỳnh Ngọc Phương,Thảo,09/02/1999,Nữ,IT,4,2,8
+2091,102055703,Huỳnh Thị Thu,Thảo,30/11/1999,Nữ,English,10,3,7
+2092,102030089,Kiều Nguyễn Thiên,Thảo,06/09/1999,Nữ,English,7,2,1
+2093,102057098,Lê Nhật,Thảo,27/03/1999,Nữ,Tourist,1,7,6
+2094,102024344,Lữ Thanh,Thảo,17/06/1999,Nữ,Tourist,4,6,8
+2095,102012388,Mạch Kim,Thảo,05/11/1999,Nữ,Tourist,9,1,5
+2096,102033634,Nguyễn Hoàng Phương,Thảo,22/07/1999,Nữ,IT,4,1,8
+2097,148007387,Nguyễn Hoàng Thanh,Thảo,06/04/1999,Nữ,IT,4,1,4
+2098,102036983,Nguyễn Mai,Thảo,01/08/1999,Nữ,English,1,10,4
+2099,143008885,Nguyễn Minh,Thảo,08/08/1999,Nam,English,2,8,4
+2100,142002248,Nguyễn Ngọc,Thảo,24/07/1999,Nữ,English,5,4,9
+2101,102000657,Nguyễn Ngọc Phương,Thảo,23/10/1999,Nữ,IT,4,3,7
+2102,102031243,Nguyễn Phương,Thảo,30/11/1999,Nữ,English,2,2,6
+2103,102003810,Nguyễn Phương,Thảo,04/01/1999,Nữ,English,6,10,3
+2104,152004309,Nguyễn Thanh,Thảo,20/08/1999,Nữ,Tourist,1,7,6
+2105,102054379,Nguyễn Thanh,Thảo,04/02/1999,Nữ,Tourist,5,9,2
+2106,144001266,Nguyễn Thị,Thảo,15/01/1999,Nữ,Tourist,4,6,8
+2107,148013059,Nguyễn Thị Ngọc,Thảo,07/02/1999,Nữ,IT,8,3,2
+2108,147007711,Nguyễn Thị Phương,Thảo,01/02/1999,Nữ,IT,1,6,5
+2109,102055712,Nguyễn Thị Thu,Thảo,10/09/1999,Nữ,English,5,9,9
+2110,102041491,Nguyễn Thị Thu,Thảo,06/10/1999,Nữ,English,2,5,8
+2111,102057109,Nguyễn Thụy Lan,Thảo,18/05/1999,Nữ,English,1,6,2
+2112,102038300,Phạm Đình Quế,Thảo,09/10/1999,Nữ,IT,6,6,7
+2113,148006402,Phạm Huỳnh Như,Thảo,24/02/1999,Nữ,English,3,1,9
+2114,102027991,Phạm Phương,Thảo,23/02/1999,Nữ,English,5,8,2
+2115,160000684,Phạm Thị Phương,Thảo,16/08/1999,Nữ,Tourist,9,10,9
+2116,142010623,Phạm Thị Thu,Thảo,03/11/1999,Nữ,Tourist,5,2,7
+2117,151012848,Phan Thanh,Thảo,13/05/1999,Nữ,Tourist,5,9,1
+2118,102033197,Reyes Dương Phương,Thảo,25/09/1999,Nữ,IT,8,2,4
+2119,102005878,Tạ Duy Thanh,Thảo,28/06/1999,Nữ,IT,2,3,8
+2120,153001607,Tăng Thị Thu,Thảo,23/05/1999,Nữ,English,3,2,2
+2121,102007270,Trần Đỗ Ngọc,Thảo,07/11/1999,Nữ,English,10,8,3
+2122,102037586,Trần Nguyễn Thanh,Thảo,04/01/1997,Nữ,English,7,8,10
+2123,152001042,Trần Thanh,Thảo,14/02/1999,Nữ,IT,10,4,3
+2124,102027993,Trần Thị Ngọc,Thảo,04/10/1999,Nữ,English,9,3,8
+2125,102023357,Trần Thị Thu,Thảo,28/04/1999,Nữ,English,8,5,4
+2126,102015695,Trần Trịnh Thu,Thảo,10/04/1999,Nữ,Tourist,9,7,6
+2127,142011160,Trương Thị Thu,Thảo,13/01/1999,Nữ,Tourist,4,4,4
+2128,102009496,Võ Thị Ngọc,Thảo,17/09/1999,Nữ,Tourist,7,7,2
+2129,102009497,Võ Thị Phương,Thảo,29/08/1999,Nữ,IT,4,5,7
+2130,143003427,Vòng Dạ,Thảo,03/09/1999,Nữ,English,10,3,2
+2131,102037595,Bùi Lâm Quang,Thi,25/03/1999,Nam,English,4,1,2
+2132,102021929,Nguyễn Đào Minh,Thi,19/10/1999,Nữ,Tourist,1,6,10
+2133,102006536,Nguyễn Dương Hồng Ngọc Lan,Thi,01/05/1999,Nữ,Tourist,9,1,5
+2134,153009442,Nguyễn Thị Mai,Thi,22/02/1999,Nữ,Tourist,5,3,3
+2135,149012565,Tô Vân,Thi,17/06/1999,Nữ,IT,5,9,10
+2136,102028851,Trương Mai,Thi,08/01/1999,Nữ,IT,3,4,2
+2137,140012592,Nguyễn Văn,Thích,20/04/1999,Nam,English,5,5,8
+2138,102055743,Nguyễn Ngọc,Thiên,08/09/1999,Nam,English,7,6,8
+2139,144007995,Huỳnh Tuấn,Thiện,04/05/1998,Nam,English,1,9,8
+2140,102036164,Lê Đức,Thiện,17/03/1999,Nam,IT,1,6,8
+2141,102004692,Nguyễn,Thiện,23/09/1999,Nam,English,10,8,4
+2142,154007713,Nguyễn Chí,Thiện,01/05/1999,Nam,English,9,9,8
+2143,102034713,Nguyễn Đức,Thiện,15/04/1999,Nam,Tourist,4,7,1
+2144,102051381,Nguyễn Hoàng,Thiện,11/12/1999,Nam,Tourist,3,3,8
+2145,149003553,Nguyễn Hoàng,Thiện,03/12/1999,Nam,Tourist,10,10,10
+2146,102055751,Nguyễn Trần Anh,Thiện,03/10/1999,Nam,IT,10,9,9
+2147,102035360,Phạm Xuân,Thiện,17/06/1999,Nam,IT,9,1,4
+2148,142012439,Ka,Thiết,27/06/1999,Nữ,English,9,5,5
+2149,102028860,Đinh Hoàng,Thịnh,05/05/1999,Nam,English,9,4,4
+2150,102025601,Đoàn Phạm Phú,Thịnh,22/03/1999,Nam,English,7,2,2
+2151,102025598,Dương Bá,Thịnh,28/04/1999,Nam,IT,8,7,6
+2152,102039693,HoàNg NgọC TrườNg,ThịNh,15/09/1999,Nam,English,4,10,6
+2153,153004729,Huỳnh Thị Ngọc,Thịnh,27/07/1999,Nữ,English,4,2,10
+2154,145000576,Lê Quốc,Thịnh,23/06/1999,Nam,Tourist,1,6,10
+2155,102020809,Lê Việt,Thịnh,30/11/1999,Nam,Tourist,1,3,7
+2156,140018694,Nguyễn Ân Đan,Thịnh,17/02/1999,Nữ,Tourist,6,8,1
+2157,102003009,Phạm Phú,Thịnh,11/01/1999,Nam,IT,2,5,7
+2158,102006549,Phan Quốc,Thịnh,01/01/1999,Nam,IT,7,9,6
+2159,102005890,Tô Trường Vĩnh,Thịnh,19/07/1998,Nam,English,7,7,10
+2160,102000681,Trần Hưng,Thịnh,13/03/1999,Nam,English,3,7,5
+2161,102036174,Trương Quốc,Thịnh,15/08/1999,Nam,English,9,6,1
+2162,149011533,Hồ Thị Ánh,Thơ,27/12/1999,Nữ,IT,3,8,5
+2163,102049414,Huỳnh Thanh,Thơ,27/07/1999,Nữ,English,1,4,2
+2164,140011008,Phạm Trần Phi,Thơ,04/08/1999,Nữ,English,2,6,2
+2165,150000675,Võ Ngọc,Thơ,21/11/1999,Nữ,Tourist,10,2,1
+2166,102041570,Nguyễn Hữu,Thọ,20/08/1999,Nam,Tourist,5,2,6
+2167,102057142,Phạm Hữu,Thọ,10/11/1999,Nam,Tourist,2,10,2
+2168,149002625,Võ Phúc,Thọ,10/08/1999,Nam,IT,10,8,6
+2169,148007848,Vũ Quang,Thọ,07/04/1999,Nam,English,9,1,7
+2170,146000863,Huỳnh Thị Kim,Thoa,15/03/1999,Nữ,English,6,9,2
+2171,152008535,Mai Thị Kim,Thoa,10/01/1999,Nữ,Tourist,2,9,3
+2172,149010886,Nguyễn Thi Kim,Thoa,29/09/1999,Nữ,Tourist,2,6,1
+2173,148010891,Nguyễn Thị Kim,Thoa,05/01/1999,Nữ,Tourist,3,1,1
+2174,149011532,Trần Thị Kim,Thoa,20/12/1999,Nữ,IT,2,3,1
+2175,102025611,Nguyễn Minh,Thông,02/08/1999,Nam,IT,1,7,1
+2176,102060383,Nguyễn Phan Kiến,Thông,02/07/1999,Nam,English,8,4,4
+2177,102028871,Phan Võ Hoàng,Thông,04/04/1999,Nam,English,10,2,1
+2178,102009527,Trần Quốc,Thống,24/03/1999,Nam,English,4,8,9
+2179,102000685,Võ Đình,Thống,10/02/1999,Nam,IT,6,1,6
+2180,137004135,BùI Thị,Thu,15/08/1999,Nữ,English,7,4,5
+2181,102030153,Đặng Huỳnh,Thu,14/05/1999,Nữ,English,8,5,9
+2182,148022236,Đặng Lê Ngọc,Thu,07/12/1999,Nữ,Tourist,10,4,10
+2183,147008247,Hồ Thị Trung,Thu,10/03/1999,Nữ,Tourist,3,5,9
+2184,102014685,Nguyễn Minh,Thu,28/10/1999,Nữ,Tourist,9,2,2
+2185,136001768,Nguyễn Quỳnh,Thu,20/02/1998,Nữ,IT,5,4,8
+2186,121006090,Phạm Thị,Thu,05/02/1999,Nữ,IT,3,9,5
+2187,142011693,Trần Thị Hoài,Thu,06/09/1999,Nữ,English,4,4,8
+2188,102054400,Trương Thúy,Thu,18/11/1999,Nữ,English,8,5,7
+2189,152009929,Võ Thị,Thu,09/06/1999,Nữ,English,5,3,1
+2190,102037008,Bùi Minh,Thư,12/12/1999,Nữ,IT,9,1,1
+2191,148007413,Bùi Ngọc Anh,Thư,23/06/1999,Nữ,English,9,3,4
+2192,102010483,Cao Hoàng Anh,Thư,28/02/1999,Nữ,English,2,6,4
+2193,102057173,Cao Minh,Thư,24/02/1999,Nữ,Tourist,8,9,10
+2194,150005418,Đặng Anh,Thư,13/08/1999,Nữ,Tourist,7,5,5
+2195,102028878,Đăng Hội Hương,Thư,15/10/1999,Nữ,Tourist,7,5,7
+2196,102025634,Đào Minh,Thư,09/03/1999,Nữ,IT,10,10,2
+2197,102030175,Đinh Lâm Bích,Thư,02/08/1999,Nữ,IT,1,3,9
+2198,153001673,Đỗ Thị Anh,Thư,30/01/1999,Nữ,English,1,2,10
+2199,102057176,Đoàn Ngọc Anh,Thư,30/11/1999,Nữ,English,8,5,7
+2200,157007613,Dương Anh,Thư,18/12/1999,Nữ,English,5,2,6
+2201,102002557,Hoàng Anh,Thư,25/11/1999,Nữ,IT,7,2,4
+2202,102032464,Hoàng Thụy Minh,Thư,10/07/1999,Nữ,English,5,5,10
+2203,102067307,Huỳnh Lê Minh,Thư,16/01/1998,Nữ,English,6,5,9
+2204,102051433,Huỳnh Ngọc Anh,Thư,15/11/1999,Nữ,Tourist,6,7,7
+2205,150007960,Huỳnh Phúc Anh,Thư,28/08/1999,Nữ,Tourist,7,5,9
+2206,102043948,Lê Minh,Thư,19/09/1999,Nữ,Tourist,10,9,7
+2207,102003493,Lê Nguyễn Khánh,Thư,23/04/1999,Nữ,IT,6,9,4
+2208,142001782,Lê Thanh,Thư,23/03/1999,Nữ,English,9,4,9
+2209,102028884,Lê Thị Minh,Thư,15/12/1999,Nữ,English,7,4,10
+2210,102002559,Lê Trần Anh,Thư,25/08/1999,Nữ,Tourist,6,7,5
+2211,144001511,Lương Minh,Thư,20/02/1999,Nữ,Tourist,5,8,5
+2212,102023390,Lương Minh,Thư,06/03/1999,Nữ,Tourist,7,6,9
+2213,102010488,Lý Nguyễn Minh,Thư,16/07/1999,Nữ,IT,3,2,2
+2214,102032467,Ngô Huỳnh Minh,Thư,23/07/1999,Nữ,IT,4,10,5
+2215,102001846,Ngô Thị Anh,Thư,19/02/1999,Nữ,English,2,10,3
+2216,102003495,Ngô Thị Anh,Thư,13/01/1999,Nữ,English,6,10,8
+2217,102001847,Nguyễn Anh,Thư,06/10/1999,Nữ,English,8,9,8
+2218,102024401,Nguyễn Bích Anh,Thư,23/03/1999,Nữ,IT,5,2,8
+2219,102015712,Nguyễn Hoàng Anh,Thư,31/07/1999,Nữ,English,4,8,9
+2220,102043950,Nguyễn Hoàng Anh,Thư,22/07/1999,Nữ,English,9,8,9
+2221,144002107,Nguyễn Hoàng Minh,Thư,29/09/1999,Nữ,Tourist,8,8,3
+2222,102020844,Nguyễn Hoàng Thanh,Thư,20/07/1997,Nữ,Tourist,4,6,10
+2223,152001695,Nguyễn Hồng Đan,Thư,19/02/1999,Nữ,Tourist,3,3,10
+2224,102005369,Nguyễn Huỳnh Anh,Thư,19/05/1999,Nữ,IT,4,4,7
+2225,153006602,Nguyễn Minh,Thư,07/01/1999,Nữ,IT,4,3,6
+2226,160004907,Nguyễn Minh,Thư,10/11/1995,Nữ,English,2,2,9
+2227,102007600,Nguyễn Minh,Thư,21/12/1999,Nữ,English,1,6,9
+2228,102000703,Nguyễn Ngọc Anh,Thư,09/11/1999,Nữ,English,7,9,7
+2229,102009551,Nguyễn Ngọc Anh,Thư,19/04/1999,Nữ,IT,3,1,6
+2230,148023071,Nguyễn Phạm Minh,Thư,10/10/1999,Nữ,English,4,10,9
+2231,102005902,Nguyễn Phạm Minh,Thư,01/08/1999,Nữ,English,4,2,10
+2232,102039720,Nguyễn Phạm Uyên,Thư,01/05/1999,Nữ,Tourist,3,2,3
+2233,122005336,Nguyễn Thị,Thư,11/04/1999,Nữ,Tourist,4,6,1
+2234,142007704,NguyễN Thị Minh,Thư,06/04/1999,Nữ,Tourist,10,9,4
+2235,160003925,Nguyễn Thị Minh,Thư,12/09/1999,Nữ,IT,4,10,1
+2236,102020850,Nguyễn Thị Minh,Thư,06/06/1999,Nữ,IT,10,7,4
+2237,102023392,Nguyễn Thị Minh,Thư,18/12/1999,Nữ,English,3,9,7
+2238,102004729,Nguyễn Thị Minh,Thư,31/03/1999,Nữ,English,2,5,7
+2239,148014697,Nguyễn Trần Hương,Thư,08/08/1999,Nữ,English,6,5,5
+2240,102009554,Nguyễn Trần Minh,Thư,05/07/1999,Nữ,IT,7,2,2
+2241,102014090,Phạm Anh,Thư,21/10/1999,Nữ,English,2,8,1
+2242,148006813,Phạm Đỗ Anh,Thư,09/03/1999,Nữ,English,2,9,1
+2243,142009003,Phạm Thị Minh,Thư,25/11/1999,Nữ,Tourist,5,3,8
+2244,102005372,Phan Anh,Thư,09/08/1999,Nữ,Tourist,8,8,3
+2245,102030185,Phan Ngọc Minh,Thư,11/06/1999,Nữ,Tourist,9,6,4
+2246,102004731,Phan Trần Anh,Thư,12/02/1999,Nữ,IT,4,8,2
+2247,102007606,Trà Minh,Thư,13/08/1999,Nữ,English,7,2,3
+2248,102025645,Trần Minh Phương,Thư,20/11/1999,Nữ,English,3,10,1
+2249,102041642,Trần Ngọc Anh,Thư,30/09/1999,Nữ,Tourist,9,2,5
+2250,148000661,Trần Nguyễn Anh,Thư,22/07/1999,Nữ,Tourist,10,5,10
+2251,102037626,Trần Nguyễn Anh,Thư,18/01/1999,Nữ,Tourist,4,2,7
+2252,102006567,Trần Nguyễn Anh,Thư,09/02/1999,Nữ,IT,6,9,4
+2253,102004734,Trịnh Hoàng Đoan,Thư,19/03/1999,Nữ,IT,3,1,9
+2254,102038347,Trương Thị Anh,Thư,16/01/1999,Nữ,English,7,5,8
+2255,153000414,Võ Huỳnh Anh,Thư,13/05/1999,Nữ,English,7,2,7
+2256,149007088,Võ Thanh,Thư,25/05/1999,Nữ,English,6,10,7
+2257,102007611,Võ Thị Anh,Thư,17/12/1999,Nữ,IT,2,9,3
+2258,130006873,Lưu Quang,Thuần,15/08/1999,Nam,English,10,10,6
+2259,140009632,Đỗ Thị Diệu,Thuận,21/09/1999,Nữ,English,10,1,2
+2260,145004713,Hồ Đắc,Thuận,14/10/1999,Nam,Tourist,4,8,3
+2261,102023379,Huỳnh Gia,Thuận,03/06/1999,Nam,Tourist,9,9,6
+2262,102055780,Huỳnh Văn,Thuận,12/05/1999,Nam,Tourist,1,3,10
+2263,138002598,Phạm Văn,Thuận,06/01/1999,Nam,IT,1,8,7
+2264,102041591,Trần Đỗ Minh,Thuận,05/11/1999,Nam,IT,1,7,2
+2265,102026516,Trần Gia,Thuận,11/05/1999,Nam,English,5,9,7
+2266,102055783,Trịnh Phúc,Thuận,30/09/1998,Nam,English,4,1,9
+2267,102025625,Ngô Minh Hiền,Thục,04/05/1999,Nữ,English,6,1,8
+2268,102007613,Nguyễn Quang,Thức,19/05/1999,Nam,IT,3,2,6
+2269,146003856,Lê Thanh,Thương,27/03/1999,Nữ,English,6,7,6
+2270,158002929,Lê Thị Mỹ,Thương,20/12/1999,Nữ,English,10,9,2
+2271,102048575,Nguyễn Thị Hoài,Thương,03/05/1999,Nữ,Tourist,2,8,1
+2272,133011288,Nguyễn Thị Hoài,Thương,23/02/1999,Nữ,Tourist,2,7,7
+2273,150010762,Trần Ngọc Huỳnh,Thương,17/11/1999,Nữ,Tourist,1,1,9
+2274,144001533,Trịnh Thị,Thương,10/08/1999,Nữ,IT,4,8,1
+2275,102054405,Trần Thị Thanh,Thuy,04/06/1999,Nữ,IT,1,9,1
+2276,103003466,Đinh Thị Thanh,Thuý,29/12/1999,Nữ,English,1,6,8
+2277,102028029,Trần Ngọc,Thuý,26/04/1999,Nữ,English,7,3,4
+2278,132003005,Hồ Thị Thanh,Thúy,24/06/1999,Nữ,English,2,4,3
+2279,102021965,Lưu Thị Thanh,Thúy,23/04/1999,Nữ,IT,2,8,9
+2280,102047723,Nguyễn Thị,Thúy,11/08/1998,Nữ,English,10,3,2
+2281,102057171,Nguyễn Thị Ngọc,Thúy,22/04/1999,Nữ,English,7,5,6
+2282,148023048,Nguyễn Thị Thanh,Thúy,15/04/1999,Nữ,Tourist,1,4,2
+2283,146002075,Nguyễn Thị Thanh,Thúy,14/06/1999,Nữ,Tourist,9,8,3
+2284,149011539,Phạm Thị Diễm,Thúy,03/10/1999,Nữ,Tourist,8,9,5
+2285,102055798,Tào Ngọc,Thúy,09/10/1999,Nữ,IT,6,2,8
+2286,102007589,Trần Nguyễn Ngọc,Thúy,09/08/1999,Nữ,English,8,9,1
+2287,102013215,Cao Nguyễn Phương,Thùy,23/11/1998,Nữ,English,6,8,6
+2288,149007074,Đặng Võ Ngọc,Thùy,12/05/1999,Nữ,Tourist,5,5,3
+2289,102020825,Diệp Anh,Thùy,16/08/1999,Nữ,Tourist,7,9,5
+2290,142013925,Đỗ Minh,Thùy,01/01/1998,Nữ,Tourist,2,6,7
+2291,102035368,Hồ Lê Minh,Thùy,01/10/1999,Nữ,IT,10,3,7
+2292,102030161,Lê Thị Ngọc,Thùy,28/05/1999,Nữ,IT,3,1,9
+2293,102001837,Mai Phương Đoan,Thùy,14/06/1999,Nữ,English,5,9,7
+2294,102021956,Nguyễn Mai Như,Thùy,03/08/1999,Nữ,English,10,2,3
+2295,102004711,Nguyễn Ngọc Nhật,Thùy,12/07/1999,Nữ,English,1,5,1
+2296,102052443,Nguyễn Thị Ngọc,Thùy,05/12/1999,Nữ,IT,8,7,3
+2297,102033227,Nguyễn Thị Thanh,Thùy,23/09/1999,Nữ,English,1,1,8
+2298,148007858,Đinh Hoàng Lệ,Thủy,14/03/1999,Nữ,English,1,7,5
+2299,103007611,Đinh Thị Thanh,Thủy,16/05/1999,Nữ,Tourist,5,2,5
+2300,102033664,Nguyễn Hoài Thanh,Thủy,10/02/1999,Nữ,Tourist,7,2,7
+2301,152001676,Nguyễn Thanh,Thủy,07/08/1999,Nữ,Tourist,7,1,9
+2302,144002100,Nguyễn Thị Phương,Thủy,14/12/1999,Nữ,IT,10,4,9
+2303,148002503,Nguyễn Thị Thanh,Thủy,02/01/1999,Nữ,IT,2,4,7
+2304,102003490,Nguyễn Thị Thu,Thủy,16/12/1999,Nữ,English,9,2,3
+2305,142004795,Nguyễn Thị Thu,Thủy,27/11/1999,Nữ,English,9,2,2
+2306,140007861,Phạm Huỳnh Minh,Thủy,02/07/1999,Nữ,English,2,5,10
+2307,102049435,Phạm Thanh,Thủy,30/04/1999,Nữ,IT,7,9,8
+2308,134013048,Võ Đoan,Thuyền,02/01/1999,Nữ,English,1,5,8
+2309,102009569,Chung Phương,Thy,27/11/1999,Nữ,English,3,8,1
+2310,102021993,Đinh Vũ Uyên,Thy,21/02/1999,Nữ,Tourist,6,10,8
+2311,102038350,Hà Ngọc Quỳnh,Thy,01/11/1999,Nữ,Tourist,1,10,6
+2312,102024412,Huỳnh Như Anh,Thy,28/04/1999,Nữ,Tourist,3,4,1
+2313,102005382,Lê Minh Phương,Thy,16/07/1999,Nữ,IT,4,1,5
+2314,102039734,Nguyễn Hoàng Thy,Thy,15/01/1999,Nữ,IT,8,4,6
+2315,102051454,Nguyễn Kim,Thy,23/11/1999,Nữ,English,4,3,3
+2316,102037026,Nguyễn Minh,Thy,04/12/1999,Nữ,English,5,9,3
+2317,102020859,Nguyễn Ngọc Mai,Thy,15/11/1999,Nữ,English,6,8,9
+2318,142009485,Nguyễn Thị Hữu,Thy,20/04/1999,Nữ,IT,10,1,5
+2319,156002378,Phạm Hoài Bảo,Thy,10/10/1999,Nữ,English,3,4,9
+2320,146004454,Trầm Phượng,Thy,10/08/1999,Nữ,English,8,8,7
+2321,102000708,Trần Ngọc Uyên,Thy,09/10/1999,Nữ,Tourist,5,9,10
+2322,102057202,Trịnh Trần Lan,Thy,23/08/1999,Nữ,Tourist,4,6,3
+2323,135003508,Nguyễn Ti,Ti,19/07/1999,Nữ,Tourist,1,4,7
+2324,148006823,Bùi Ngọc Xuân,Tiên,13/03/1999,Nữ,IT,3,10,6
+2325,102007621,Châu Trần Thị Thủy,Tiên,10/12/1999,Nữ,English,4,8,3
+2326,153005295,Đặng Thị Thuỷ,Tiên,13/04/1999,Nữ,English,5,7,1
+2327,102022000,Đỗ Nhi,Tiên,05/08/1999,Nữ,Tourist,2,4,5
+2328,149006477,Đỗ Thị Cẩm,Tiên,22/02/1998,Nữ,Tourist,9,2,1
+2329,102057204,Hồ Thị Thủy,Tiên,06/12/1999,Nữ,Tourist,4,2,3
+2330,102052877,Huỳnh Cẩm,Tiên,08/09/1999,Nữ,IT,9,5,5
+2331,102031612,Huỳnh Hà Mỹ,Tiên,26/06/1999,Nữ,IT,3,2,7
+2332,102026547,Kim Hoàng Thủy,Tiên,31/07/1999,Nữ,English,1,10,9
+2333,102037029,Lê Huyền Thủy,Tiên,04/09/1999,Nữ,English,6,5,2
+2334,102013241,Nguyễn Đàm Tấn,Tiên,20/05/1999,Nam,English,6,6,3
+2335,102025662,Nguyễn Hà Mỹ,Tiên,10/02/1999,Nữ,IT,7,10,5
+2336,156010888,Nguyễn Hoàng Thủy,Tiên,06/05/1999,Nữ,English,1,10,4
+2337,102053452,Nguyễn Hoàng Thủy,Tiên,19/08/1999,Nữ,English,10,10,2
+2338,102014100,Nguyễn Lê Thủy,Tiên,01/01/1999,Nữ,Tourist,1,4,4
+2339,102011437,Nguyễn Lê Thủy,Tiên,13/05/1999,Nữ,Tourist,7,3,9
+2340,102043986,Nguyễn Mộng Cẩm,Tiên,28/09/1999,Nữ,Tourist,3,5,9
+2341,102043987,Nguyễn Ngọc Diễm,Tiên,08/01/1999,Nữ,IT,2,10,8
+2342,150010767,Nguyễn Thị Cẩm,Tiên,09/02/1999,Nữ,IT,2,7,2
+2343,102003835,Phạm Thủy,Tiên,15/09/1999,Nữ,English,5,10,10
+2344,102044689,Phạm Vũ Trúc,Tiên,23/09/1999,Nữ,English,3,2,4
+2345,102033250,Phan Nguyễn Kiều,Tiên,26/02/1999,Nữ,English,8,5,2
+2346,153000431,Phan Phạm Cẩm,Tiên,14/12/1999,Nữ,IT,1,10,10
+2347,102039739,Trần Hoàng Thủy,Tiên,20/05/1999,Nữ,English,5,5,3
+2348,148004230,Trần Ngọc Quỳnh,Tiên,06/01/1998,Nữ,English,3,1,4
+2349,145004772,Trần Thị Thủy,Tiên,11/08/1999,Nữ,Tourist,1,1,2
+2350,102036216,Trương Ngọc Mỹ,Tiên,17/09/1999,Nữ,Tourist,2,8,6
+2351,156009694,Bùi Kim,Tiến,20/04/1998,Nữ,Tourist,5,4,3
+2352,102000719,Lê Tân,Tiến,21/06/1999,Nam,IT,6,1,9
+2353,102055834,Lê Trần,Tiến,03/09/1999,Nam,IT,4,6,10
+2354,102055835,Lê Trọng,Tiến,19/07/1999,Nam,English,10,1,2
+2355,102043994,Nguyễn Công,Tiến,04/02/1999,Nam,English,3,2,8
+2356,102048600,Nguyễn Việt,Tiến,01/11/1999,Nam,English,6,2,1
+2357,102009594,Nguyễn Xuân,Tiến,18/04/1999,Nam,IT,7,8,5
+2358,102030218,Phạm Lê Anh,Tiến,17/01/1999,Nam,English,3,9,6
+2359,147008948,Trần,Tiến,18/05/1999,Nam,English,3,8,9
+2360,102028909,Trần Thành,Tiến,16/11/1999,Nam,Tourist,10,10,2
+2361,102000721,Đặng Trọng,Tín,04/12/1999,Nam,Tourist,9,10,4
+2362,102025676,Hà Phương Bảo,Tín,28/04/1999,Nam,Tourist,1,5,6
+2363,102057220,Lê Trọng,Tín,07/06/1999,Nam,IT,7,6,3
+2364,140000451,Nguyễn Đức,Tín,12/01/1999,Nam,English,7,9,2
+2365,102042662,Nguyễn Huỳnh Trung,Tín,25/12/1998,Nam,English,2,5,6
+2366,141012821,Nguyễn Thành,Tín,15/07/1999,Nam,Tourist,8,4,3
+2367,102009599,Nguyễn Trần Thành,Tín,03/09/1999,Nam,Tourist,1,4,10
+2368,150000725,Nguyễn Trung,Tín,17/05/1999,Nam,Tourist,9,2,4
+2369,102022017,Nguyễn Trung,Tín,19/07/1999,Nam,IT,8,1,3
+2370,102005389,Tạ Kim,Tín,05/08/1999,Nam,IT,6,7,3
+2371,102007638,Trần Trung,Tín,27/03/1999,Nam,English,8,3,3
+2372,102062475,Phan Nguyễn,Tina,14/11/1996,Nữ,English,10,10,3
+2373,156004040,Mai Hửu,Tình,04/06/1999,Nam,English,7,1,1
+2374,140016897,Phạm Thị Thân,Tịnh,06/11/1999,Nữ,IT,2,10,2
+2375,102031626,Nguyễn Kế,Toại,20/09/1999,Nam,English,7,5,9
+2376,148009768,Lê Minh,Toàn,13/02/1998,Nam,English,4,6,7
+2377,102005920,Ngô Quốc,Toàn,28/08/1999,Nam,Tourist,9,4,6
+2378,102022024,Nguyễn Đức,Toàn,22/03/1999,Nam,Tourist,2,7,6
+2379,102031630,Nguyễn Đức,Toàn,13/09/1999,Nam,Tourist,5,10,9
+2380,102002577,Nguyễn Trí,Toàn,15/06/1999,Nam,IT,2,10,7
+2381,146004884,Trần Minh,Toàn,19/09/1998,Nam,IT,7,5,7
+2382,102060416,Trần Thiện,Toàn,29/03/1999,Nam,English,3,9,8
+2383,102044000,Trương Hoài,Toàn,10/02/1999,Nam,English,9,6,5
+2384,164001483,Võ Mạnh,Toàn,25/03/1999,Nam,English,10,6,2
+2385,148000687,Vũ Mạnh,Toàn,12/01/1999,Nam,IT,1,9,4
+2386,102020887,Hà Quốc,Toản,07/07/1999,Nam,English,6,2,5
+2387,104000780,Lê Đức,Tôn,18/12/1998,Nam,English,3,8,6
+2388,102002580,Nguyễn An,Tôn,18/05/1999,Nam,Tourist,6,5,4
+2389,147009122,Hoàng Phương,Trà,31/07/1999,Nữ,Tourist,9,5,9
+2390,141006286,Lê Thanh,Trà,13/03/1999,Nữ,Tourist,6,7,6
+2391,102038362,Nguyễn Thụy Thu,Trà,18/02/1999,Nữ,IT,2,1,7
+2392,102051499,Võ Ngọc Phương,Trà,16/11/1999,Nam,IT,9,8,4
+2393,102034801,Bùi Nguyễn Bích,Trâm,16/09/1999,Nữ,English,10,1,5
+2394,163000853,Đặng Thị Huyền,Trâm,11/03/1999,Nữ,English,6,10,5
+2395,102052936,Đỗ Ngọc,Trâm,03/12/1999,Nữ,English,1,4,7
+2396,102039023,Đỗ Thị Quế,Trâm,29/05/1999,Nữ,IT,8,1,9
+2397,144003357,Đoàn Hoàng Bích,Trâm,20/04/1999,Nữ,English,3,7,8
+2398,102028927,Hồ Bích,Trâm,21/11/1999,Nữ,English,5,9,6
+2399,102022738,Huỳnh Giang Ngọc,Trâm,15/08/1999,Nữ,Tourist,2,8,5
+2400,102054508,Huỳnh Ngọc,Trâm,12/05/1999,Nữ,Tourist,2,3,4
+2401,102000736,Huỳnh Ngọc,Trâm,20/03/1999,Nữ,Tourist,7,6,4
+2402,102001902,Lai Nguyễn Bích,Trâm,02/09/1999,Nữ,IT,1,3,3
+2403,148008323,Lê Hoàng Bảo,Trâm,04/12/1999,Nữ,English,10,10,10
+2404,102033278,Lê Ngọc Bảo,Trâm,27/12/1999,Nữ,English,1,1,4
+2405,102006592,Lê Thị Phương,Trâm,28/01/1999,Nữ,Tourist,9,8,1
+2406,143007730,Mai Thị Bảo,Trâm,01/09/1999,Nữ,Tourist,2,4,7
+2407,102025709,Mai Vũ Quỳnh,Trâm,29/07/1999,Nữ,Tourist,1,6,6
+2408,102045553,Ngô Thị Mai,Trâm,01/12/1999,Nữ,IT,8,4,8
+2409,102044716,Nguyễn Đan Quỳnh,Trâm,23/07/1999,Nữ,IT,7,7,5
+2410,102037063,Nguyễn Đặng Phương,Trâm,06/08/1999,Nữ,English,6,2,4
+2411,102001904,Nguyễn Thị Bích,Trâm,07/06/1999,Nữ,English,8,6,3
+2412,102044044,Nguyễn Thị Hoàng,Trâm,02/05/1999,Nữ,English,3,3,3
+2413,102020913,Nguyễn Thị Huyền,Trâm,01/06/1999,Nữ,IT,1,10,9
+2414,102007679,Nguyễn Thị Thanh,Trâm,28/06/1999,Nữ,English,6,4,1
+2415,102014132,Nguyễn Trần Mai,Trâm,17/07/1999,Nữ,English,7,8,5
+2416,153008131,Nguyễn Trần Phương,Trâm,08/02/1999,Nữ,Tourist,8,5,3
+2417,147009393,Nguyễn Trọng Thùy,Trâm,27/04/1999,Nữ,Tourist,7,2,9
+2418,102020916,Phạm Ngọc Tuyết,Trâm,19/05/1999,Nữ,Tourist,2,6,1
+2419,148007457,Phan Ngọc,Trâm,01/04/1999,Nữ,IT,2,5,9
+2420,102054518,Phan Ngọc Hoài,Trâm,22/05/1999,Nữ,IT,1,8,6
+2421,146000937,Phan Thị Quế,Trâm,25/09/1999,Nữ,English,6,10,10
+2422,102005932,Sơn Hồ Bảo,Trâm,11/11/1999,Nữ,English,6,10,3
+2423,161005947,Tạ Ngọc,Trâm,27/02/1999,Nữ,English,8,2,1
+2424,102003526,Tăng Ngọc Thanh,Trâm,22/09/1999,Nữ,IT,4,3,6
+2425,102022056,Trần Hương,Trâm,26/11/1999,Nữ,English,1,1,7
+2426,102015735,Trần Ngọc,Trâm,27/06/1999,Nữ,English,7,8,6
+2427,148001371,Trần Ngọc,Trâm,10/01/1999,Nữ,Tourist,5,1,5
+2428,102060425,Trần Nguyễn Ngọc,Trâm,07/03/1999,Nữ,Tourist,5,6,10
+2429,102016308,Trần Thị Mai,Trâm,04/07/1999,Nữ,Tourist,10,9,3
+2430,102014730,Trương Thanh,Trâm,22/12/1999,Nữ,IT,4,6,4
+2431,146006133,Trương Thị Phương,Trâm,29/08/1999,Nữ,IT,3,3,8
+2432,102057281,Uông Vũ Hoàng,Trâm,01/01/1999,Nữ,English,1,7,2
+2433,102004775,Võ Ngọc Phương,Trâm,24/04/1999,Nữ,English,8,2,1
+2434,102005934,Võ Thị Tuyết,Trâm,21/07/1999,Nữ,English,7,4,7
+2435,102037071,Võ Thu,Trâm,29/07/1999,Nữ,IT,6,2,10
+2436,152008584,Bùi Thanh,Trân,08/02/1999,Nữ,English,9,6,7
+2437,149002679,Đào Thị Ngọc,Trân,31/08/1999,Nữ,English,5,8,3
+2438,102049509,Đỗ Nguyễn Huyền,Trân,06/07/1999,Nữ,Tourist,7,7,9
+2439,102009624,Đỗ Thiện Thảo,Trân,07/12/1999,Nữ,Tourist,3,5,10
+2440,102022060,Dương Ngọc Bảo,Trân,02/12/1999,Nữ,Tourist,5,9,8
+2441,102007686,Hồ Minh Huyền,Trân,28/09/1999,Nữ,IT,1,2,9
+2442,102007687,Hồ Minh Huỳnh,Trân,28/09/1999,Nữ,English,2,3,9
+2443,140011055,Hoàng Phương,Trân,03/01/1999,Nữ,English,1,5,1
+2444,102019866,Lê Hoàng Huyền,Trân,09/08/1999,Nữ,Tourist,5,8,8
+2445,102031675,Lê Nguyễn Bảo,Trân,01/12/1999,Nữ,Tourist,1,6,10
+2446,102004783,Lưu Bảo,Trân,19/05/1999,Nữ,Tourist,7,2,5
+2447,160001588,Lý Ngọc,Trân,29/05/1999,Nữ,IT,4,1,6
+2448,102002593,Ngô Đặng Tuyết,Trân,23/07/1999,Nữ,IT,10,1,1
+2449,102039030,Nguyễn Hảo Uyên,Trân,08/06/1999,Nữ,English,7,1,2
+2450,102026588,Nguyễn Huỳnh,Trân,25/11/1998,Nữ,English,10,10,9
+2451,139008014,Nguyễn Lâm Huyền,Trân,11/04/1999,Nữ,English,10,6,6
+2452,102057928,Nguyễn Ngọc Bảo,Trân,14/05/1999,Nữ,IT,5,4,10
+2453,140017154,Nguyễn Ngọc Bảo,Trân,28/10/1999,Nữ,English,5,6,7
+2454,102052952,Nguyễn Thị Huyền,Trân,12/02/1999,Nữ,English,7,10,2
+2455,149011793,Nguyễn Thị Quế,Trân,08/07/1999,Nữ,Tourist,3,3,2
+2456,102062488,Nguyễn Việt,Trân,10/05/1996,Nữ,Tourist,10,1,9
+2457,141007957,Phạm Bảo,Trân,07/10/1999,Nữ,Tourist,10,8,5
+2458,149010930,Phạm Ngọc Huyền,Trân,13/05/1999,Nữ,IT,4,3,8
+2459,148024922,Phạm Trần Diễm,Trân,21/02/1999,Nữ,IT,4,2,4
+2460,102033701,Phạm Trương Việt,Trân,21/11/1999,Nữ,English,10,2,2
+2461,102037078,Phan Bảo,Trân,23/02/1999,Nữ,English,5,1,2
+2462,102002596,Phan Bảo,Trân,21/05/1999,Nữ,English,2,4,8
+2463,102009633,Tạ Thị Huyền,Trân,30/07/1999,Nữ,IT,9,4,1
+2464,102030282,Trần Bảo,Trân,27/08/1999,Nữ,English,2,9,4
+2465,156010577,Trần Đặng Bảo,Trân,16/04/1999,Nữ,English,8,7,10
+2466,102005412,Trần Hoàng Gia,Trân,27/01/1999,Nữ,Tourist,2,6,5
+2467,102009634,Trần Lê Bảo,Trân,09/06/1999,Nữ,Tourist,9,7,2
+2468,102013289,Trần Ngọc,Trân,05/04/1999,Nữ,Tourist,3,6,1
+2469,151007114,Trần Thị Ngọc,Trân,13/08/1999,Nữ,IT,9,9,9
+2470,102016313,Trần Thị Quế,Trân,26/11/1999,Nữ,IT,7,6,3
+2471,137001018,Trương Minh,Trân,23/06/1999,Nữ,English,8,9,2
+2472,102019855,Bùi Thị Yến,Trang,06/01/1999,Nữ,English,10,5,9
+2473,143009112,Cao Thị Thùy,Trang,29/12/1999,Nữ,English,10,6,7
+2474,102025692,Đào Thị Huyền,Trang,12/07/1999,Nữ,IT,8,7,3
+2475,102027280,Đào Thị Thu,Trang,08/01/1999,Nữ,English,2,8,8
+2476,148007892,Đỗ Thị Đoan,Trang,07/02/1999,Nữ,English,1,1,10
+2477,102016298,Đỗ Thị Thanh,Trang,26/10/1999,Nữ,Tourist,7,8,3
+2478,102051508,Đỗ Thị Thu,Trang,17/06/1999,Nữ,Tourist,8,7,10
+2479,102037043,Đỗ Vân,Trang,07/07/1999,Nữ,Tourist,2,4,4
+2480,156002825,Hồ Thị Mỹ,Trang,24/08/1999,Nữ,IT,3,6,5
+2481,102005923,Hoàng Thị Thu,Trang,25/07/1999,Nữ,English,3,8,3
+2482,102051511,Huỳnh Thị Thùy,Trang,03/05/1999,Nữ,English,1,1,5
+2483,102005924,Lê Hoàng Đoan,Trang,24/11/1999,Nữ,Tourist,9,5,4
+2484,102026560,Lê Phạm Thiên,Trang,22/04/1999,Nữ,Tourist,2,7,10
+2485,144003335,Lê Thị Thanh,Trang,22/02/1999,Nữ,Tourist,6,7,2
+2486,102010522,Lê Thị Thùy,Trang,04/02/1999,Nữ,IT,8,8,1
+2487,102036232,Lê Thị Thùy,Trang,09/02/1999,Nữ,IT,2,7,3
+2488,102005395,Lê Thuỳ,Trang,16/01/1999,Nữ,English,3,1,10
+2489,102002585,Lư Vận,Trang,26/07/1999,Nữ,English,3,6,2
+2490,102055860,Lương Thị Thùy,Trang,13/08/1999,Nữ,English,7,2,8
+2491,143005646,Ngô Hồ Đoan,Trang,05/04/1999,Nữ,IT,5,10,6
+2492,148012224,Ngô Thị Tuyết,Trang,09/06/1999,Nữ,English,9,8,9
+2493,152001746,Nguyễn Lê Đoan,Trang,25/08/1999,Nữ,English,7,6,8
+2494,102025694,Nguyễn Lê Nhật,Trang,12/09/1999,Nữ,Tourist,1,6,6
+2495,102009610,Nguyễn Minh,Trang,03/01/1999,Nữ,Tourist,7,4,2
+2496,102057250,Nguyễn Mộng Thùy,Trang,15/11/1999,Nữ,Tourist,8,6,2
+2497,153001715,Nguyễn Phương,Trang,21/11/1999,Nữ,IT,3,2,8
+2498,102031646,Nguyễn Quỳnh,Trang,02/10/1999,Nữ,IT,2,1,9
+2499,163003997,Nguyễn Thị Huyền,Trang,11/08/1999,Nữ,English,5,6,2
+2500,149008601,Nguyễn Thị Mai,Trang,20/03/1999,Nữ,English,9,10,1
+2501,102054490,Nguyễn Thị Thanh,Trang,06/03/1999,Nữ,English,3,6,2
+2502,140008442,Nguyễn Thị Thùy,Trang,02/07/1999,Nữ,IT,3,1,1
+2503,102022736,Nguyễn Thị Thùy,Trang,13/06/1999,Nữ,English,6,8,6
+2504,102025700,Nguyễn Thị Tú,Trang,08/03/1999,Nữ,English,2,9,7
+2505,146007224,Nguyễn Thị Xuân,Trang,07/07/1999,Nữ,Tourist,3,9,7
+2506,102044022,Nguyễn Thu,Trang,23/06/1999,Nữ,Tourist,4,8,6
+2507,102033270,Nguyễn Trần Thùy,Trang,28/12/1999,Nữ,Tourist,8,5,7
+2508,142005588,Nguyễn Vy Thùy,Trang,05/01/1999,Nữ,IT,3,4,7
+2509,141001539,Phạm Ngọc Thùy,Trang,28/01/1999,Nữ,IT,5,3,6
+2510,102028081,Phạm Thị Kim,Trang,16/04/1999,Nữ,English,2,4,7
+2511,102057921,Phạm Thị Thùy,Trang,27/10/1999,Nữ,English,4,1,8
+2512,102020903,Phan Thị Thùy,Trang,30/10/1999,Nữ,English,2,3,10
+2513,102052929,Phùng Đoan,Trang,26/04/1998,Nữ,IT,4,4,6
+2514,152001758,Phùng Thị Minh,Trang,16/07/1999,Nữ,English,3,1,1
+2515,102033691,Trần Đặng Vân,Trang,23/12/1999,Nữ,English,3,9,2
+2516,102031651,Trần Phạm Thu,Trang,03/06/1999,Nữ,Tourist,3,5,4
+2517,102044030,Trần Thị Thảo,Trang,18/01/1999,Nữ,Tourist,6,3,7
+2518,115006789,Trần Thị Thùy,Trang,01/08/1999,Nữ,Tourist,2,3,8
+2519,102014728,Võ Phạm Đoan,Trang,10/07/1999,Nữ,IT,10,2,4
+2520,142001233,Vũ Thùy,Trang,18/05/1999,Nữ,English,10,5,3
+2521,102036263,Bùi Minh,Trí,29/07/1999,Nam,English,3,1,1
+2522,157002565,Dương Minh,Trí,22/07/1999,Nam,Tourist,4,10,4
+2523,102006607,Dương Thiên,Trí,24/10/1999,Nam,Tourist,5,4,1
+2524,145000797,Hoàng Đức Minh Nhân Nghĩa,Trí,22/11/1999,Nam,Tourist,2,4,9
+2525,102051559,Huỳnh Cao,Trí,12/08/1998,Nam,IT,4,10,1
+2526,102001923,Huỳnh Minh,Trí,31/10/1999,Nam,IT,7,6,3
+2527,142001807,Lý Ngọc Anh,Trí,09/09/1999,Nam,English,4,7,10
+2528,143007342,Nguyễn Minh,Trí,10/02/1999,Nam,English,2,10,5
+2529,155001378,Nguyễn Minh,Trí,26/09/1999,Nam,English,7,7,10
+2530,142003996,Nguyễn Vũ Minh,Trí,15/11/1999,Nam,IT,6,3,6
+2531,102014737,Phạm Hữu,Trí,13/04/1999,Nam,English,10,6,10
+2532,102015750,Phan Đức,Trí,11/08/1999,Nam,English,2,4,5
+2533,102014147,Trần Minh,Trí,01/12/1999,Nam,Tourist,5,8,4
+2534,102037676,Trần Nguyễn,Trí,18/11/1999,Nam,Tourist,8,9,2
+2535,148010951,Võ Mai Thanh,Trí,21/03/1999,Nam,Tourist,5,2,7
+2536,102005945,Nguyễn Hoàng Minh,Trị,15/10/1999,Nam,IT,5,8,2
+2537,161004193,Châu Phước,Triển,03/07/1999,Nam,IT,3,7,1
+2538,144001634,Thái Minh,Triển,10/03/1999,Nam,English,3,7,2
+2539,102014738,Lương Công,Triết,24/07/1999,Nam,English,2,2,10
+2540,154007227,Ong Vương Minh,Triết,09/12/1999,Nam,English,1,10,1
+2541,102005946,Trần Minh,Triết,12/12/1998,Nam,IT,3,6,5
+2542,102013296,Trần Minh,Triết,20/12/1999,Nam,English,6,2,10
+2543,102009645,Trần Nguyễn Minh,Triết,01/01/1999,Nam,English,4,4,2
+2544,102025733,Aydob Lê Huỳnh Hải,Triều,30/03/1999,Nữ,Tourist,4,3,4
+2545,135003557,Dương Thị Cẩm,Triều,06/08/1999,Nữ,Tourist,5,7,2
+2546,102015760,Nguyễn Hoàng,Triều,27/11/1999,Nam,Tourist,3,3,6
+2547,102005947,Phạm Ngọc Thủy,Triều,26/02/1999,Nam,IT,2,1,8
+2548,102005421,Nguyễn Đức,Triệu,28/07/1999,Nam,IT,7,8,4
+2549,141004001,Nguyễn Quốc,Triệu,17/06/1999,Nam,English,10,9,2
+2550,102044076,Đặng Thụy Phương,Trinh,25/06/1999,Nữ,English,7,3,2
+2551,102063495,Đào Mỹ,Trinh,04/10/1998,Nữ,English,8,2,4
+2552,102022077,Đỗ Phương,Trinh,05/02/1999,Nữ,IT,5,2,6
+2553,102044724,Đoàn Thị Mai,Trinh,05/12/1999,Nữ,English,3,7,4
+2554,152010016,Hà Thị Ngọc,Trinh,08/06/1999,Nữ,English,7,10,10
+2555,163004025,Hồ Nữ Phương,Trinh,14/07/1999,Nữ,Tourist,5,6,10
+2556,148007465,Hoàng Mai,Trinh,08/04/1999,Nữ,Tourist,1,1,1
+2557,102007706,Lý Ngọc,Trinh,04/09/1999,Nữ,Tourist,9,5,3
+2558,102022083,Nguyễn Hoài Phương,Trinh,13/07/1999,Nữ,IT,3,10,2
+2559,102057308,Nguyễn Lê Hoàng,Trinh,12/11/1999,Nữ,English,2,6,8
+2560,157003116,Nguyễn Mai,Trinh,07/09/1999,Nữ,English,2,2,8
+2561,102051576,Nguyễn Ngọc,Trinh,11/06/1999,Nữ,Tourist,3,9,1
+2562,152001149,Nguyễn Ngọc Phương,Trinh,08/09/1999,Nữ,Tourist,2,1,3
+2563,146005516,Nguyễn Phan Mai,Trinh,09/11/1999,Nữ,Tourist,2,2,7
+2564,102017662,Nguyễn Thị Diễm,Trinh,14/08/1999,Nữ,IT,2,2,7
+2565,102014743,Nguyễn Thị Mai,Trinh,08/10/1999,Nữ,IT,8,9,10
+2566,102066634,Nguyễn Thị Tuyết,Trinh,05/03/1997,Nữ,English,1,9,10
+2567,152001150,Phạm Thùy,Trinh,13/07/1999,Nữ,English,1,1,8
+2568,102062986,Phan Thị Tuyết,Trinh,16/02/1998,Nữ,English,9,1,1
+2569,102064176,Tăng Thục,Trinh,11/01/1999,Nữ,IT,5,5,3
+2570,139006617,Trương Thị Mỹ,Trinh,17/01/1999,Nữ,English,9,9,3
+2571,102020954,Bùi Hà Đức,Trọng,20/09/1999,Nam,English,8,5,1
+2572,102033722,Ngô Tiến,Trọng,17/08/1999,Nam,Tourist,7,5,8
+2573,102039047,Nguyễn Đình,Trọng,25/08/1999,Nam,Tourist,8,5,6
+2574,102003043,Nguyễn Đức,Trọng,04/09/1999,Nam,Tourist,5,10,2
+2575,148003512,Nguyễn Duy,Trọng,29/10/1999,Nam,IT,4,7,10
+2576,156004070,Trần Thanh,Trọng,15/03/1999,Nam,IT,4,3,9
+2577,102000766,Bùi Thị Thanh,Trúc,08/03/1999,Nữ,English,2,4,7
+2578,102055932,Đặng Lê Hoàng,Trúc,21/11/1999,Nữ,English,1,10,1
+2579,102005433,Đặng Thúy,Trúc,12/03/1999,Nữ,English,5,1,9
+2580,102054546,Đậu Vũ Thanh,Trúc,27/12/1999,Nữ,IT,10,9,4
+2581,102022095,Đỗ Nguyễn Thanh,Trúc,20/09/1999,Nữ,English,2,5,5
+2582,150010810,Lâm Thanh,Trúc,06/01/1999,Nữ,English,4,1,5
+2583,102005952,Lương Mỹ Thanh,Trúc,22/04/1999,Nữ,Tourist,9,6,1
+2584,102051591,Lý Thụy Phương,Trúc,29/11/1999,Nữ,Tourist,8,2,3
+2585,102003044,Ngô Thị Thanh,Trúc,03/08/1999,Nữ,Tourist,10,10,2
+2586,102058951,Nguyễn Huỳnh Thanh,Trúc,05/03/1999,Nữ,IT,4,5,1
+2587,102028961,Nguyễn Phan Hoàng,Trúc,15/04/1999,Nữ,IT,7,7,4
+2588,144010050,Nguyễn Thị Hồng,Trúc,08/09/1997,Nữ,English,6,9,1
+2589,151011729,Nguyễn Thị Thanh,Trúc,17/05/1999,Nữ,English,1,4,1
+2590,102060434,Nguyễn Thị Thu,Trúc,13/01/1999,Nữ,English,1,10,7
+2591,102028115,Phạm Mai,Trúc,16/09/1999,Nữ,IT,3,8,5
+2592,102004808,Phan Hoàng Thanh,Trúc,05/11/1999,Nữ,English,7,7,1
+2593,102022103,Trần Lưu Thanh,Trúc,13/11/1999,Nữ,English,6,9,4
+2594,102035407,Trần Thanh,Trúc,14/02/1999,Nữ,Tourist,5,3,3
+2595,102028964,Trần Thị Huệ,Trúc,17/12/1999,Nữ,Tourist,10,8,7
+2596,151003865,Võ Quan Phương,Trúc,01/08/1999,Nữ,Tourist,4,10,8
+2597,102007731,Lý Đức,Trung,23/08/1999,Nam,IT,5,1,5
+2598,155001389,Nguyễn Hoàng,Trung,19/03/1999,Nam,English,1,7,1
+2599,102005954,Nguyễn Long,Trung,04/01/1999,Nam,English,1,1,3
+2600,102012553,Nguyễn Minh,Trung,06/02/1999,Nam,Tourist,3,2,4
+2601,102035409,Nguyễn Minh,Trung,16/02/1999,Nam,Tourist,4,3,2
+2602,149005362,Nguyễn Ngọc Minh,Trung,15/10/1999,Nam,Tourist,5,4,1
+2603,102014754,Nguyễn Phước Duy,Trung,23/10/1999,Nam,IT,2,6,4
+2604,140008916,Nguyễn Quang,Trung,25/07/1999,Nam,IT,10,5,1
+2605,102033738,Nguyễn Quang,Trung,10/11/1999,Nam,English,8,7,1
+2606,102059898,Nguyễn Quốc,Trung,17/10/1999,Nam,English,9,7,1
+2607,102011501,Ôn Hoàng,Trung,04/10/1999,Nam,English,5,9,10
+2608,102003051,Phạm Hoàng,Trung,25/09/1999,Nam,IT,2,4,4
+2609,102015794,Phạm Quang,Trung,15/04/1999,Nam,English,6,8,5
+2610,102003052,Quách Nguyên,Trung,27/08/1999,Nam,English,2,7,9
+2611,102037106,Thái Anh,Trung,24/01/1999,Nam,Tourist,6,5,2
+2612,102042018,Trương Nguyễn Phước,Trung,25/03/1999,Nam,Tourist,5,8,7
+2613,102030331,Võ Minh,Trung,29/01/1999,Nam,Tourist,6,10,2
+2614,102018336,Bùi Quang,Trường,09/05/1999,Nam,IT,3,2,2
+2615,137001487,Cao Văn,Trường,08/01/1999,Nam,IT,4,1,5
+2616,102023473,Dương Quốc,Trường,21/04/1999,Nam,English,9,4,9
+2617,142009034,Kơ Ho Touneh,Trường,13/08/1999,Nam,English,3,5,6
+2618,140017220,Nguyễn Minh,Trường,24/09/1999,Nam,English,4,10,6
+2619,102044740,Nguyễn Nhật,Trường,08/11/1997,Nam,IT,7,6,4
+2620,102015801,Nguyễn Nhật,Trường,24/11/1999,Nam,English,10,5,9
+2621,148017112,Nguyễn Tấn,Trường,19/02/1999,Nam,English,1,4,9
+2622,102006628,Nguyễn Tín,Trường,21/10/1999,Nam,Tourist,8,6,7
+2623,130009160,Nguyễn Viết,Trường,20/09/1999,Nam,Tourist,5,3,9
+2624,102054569,Phạm Nguyễn Minh,Trường,21/11/1999,Nam,Tourist,10,5,10
+2625,102005445,Trần Văn Đan,Trường,20/09/1999,Nam,IT,10,10,3
+2626,102039059,Đặng An,Tú,23/11/1999,Nữ,IT,4,9,1
+2627,141006804,Đào Mẫn,Tú,15/01/1999,Nữ,English,5,1,9
+2628,102014167,Đỗ Hồng Cẩm,Tú,21/07/1999,Nữ,English,7,2,6
+2629,102002611,Đoàn Thạch,Tú,26/11/1999,Nam,English,5,10,7
+2630,138000552,Lê Khương Anh,Tú,02/03/1999,Nam,IT,8,4,1
+2631,102027325,Lương Thanh,Tú,23/02/1999,Nam,English,9,4,8
+2632,148006877,Ngô Hoàng Cẩm,Tú,20/10/1999,Nữ,English,9,4,1
+2633,163002913,Nguyễn Anh,Tú,16/03/1999,Nam,Tourist,4,4,4
+2634,102005446,Nguyễn Anh,Tú,08/11/1999,Nam,Tourist,7,1,8
+2635,102034862,Nguyễn Ngọc,Tú,01/01/1999,Nữ,Tourist,3,4,6
+2636,146003913,Nguyễn Thị Cẩm,Tú,28/06/1999,Nữ,IT,2,3,4
+2637,102038409,Nguyễn Thị Minh,Tú,16/03/1999,Nữ,English,3,10,3
+2638,102042696,Phạm Công,Tú,11/04/1999,Nam,English,3,3,8
+2639,102037118,Phan Đoàn Tuấn,Tú,07/06/1999,Nam,Tourist,10,10,10
+2640,102034866,Phan Thanh,Tú,29/03/1999,Nữ,Tourist,8,10,1
+2641,102038410,Trần Huỳnh Cẩm,Tú,10/11/1999,Nữ,Tourist,4,3,1
+2642,102022768,Trương Mai Minh,Tú,03/12/1999,Nữ,IT,5,10,5
+2643,102020986,Từ Phước Anh,Tú,16/08/1999,Nam,IT,1,1,3
+2644,148000739,Võ Hoàng Minh,Tú,27/06/1999,Nữ,English,9,7,1
+2645,156002445,Võ Thị Diễm,Tú,29/09/1999,Nữ,English,5,10,9
+2646,102005964,Vương Thanh,Tú,16/02/1999,Nữ,English,2,2,3
+2647,102013338,Diệp Thiên,Tuấn,08/11/1999,Nam,IT,9,6,8
+2648,148003549,Đinh Quốc,Tuấn,05/06/1999,Nam,English,5,8,4
+2649,155006667,Hoàng Anh,Tuấn,30/11/1999,Nam,English,4,1,6
+2650,102033759,Huỳnh Hoàng Bửu,Tuấn,21/09/1999,Nam,Tourist,5,8,9
+2651,149007356,Huỳnh Thái,Tuấn,18/09/1999,Nam,Tourist,4,3,9
+2652,102014764,Lâm Văn Châu,Tuấn,14/04/1999,Nam,Tourist,1,8,8
+2653,154007787,Lê Văn,Tuấn,20/05/1998,Nam,IT,5,10,1
+2654,102018344,Lý Thanh,Tuấn,24/05/1999,Nam,IT,9,8,7
+2655,102022145,Nguyễn Đăng Hữu,Tuấn,16/01/1999,Nam,English,2,4,8
+2656,102007766,Nguyễn Gia,Tuấn,17/05/1999,Nam,English,1,5,5
+2657,102024516,Nguyễn Hữu,Tuấn,11/05/1999,Nam,English,9,8,10
+2658,101069162,Nguyễn Minh,Tuấn,15/10/1998,Nam,IT,6,8,9
+2659,138002653,Nguyễn Phan Quốc,Tuấn,14/04/1999,Nam,English,3,8,9
+2660,102028985,Phạm Anh,Tuấn,21/01/1999,Nam,English,4,2,3
+2661,102002619,Phan Anh,Tuấn,20/11/1999,Nam,Tourist,10,2,9
+2662,102014771,Phan Anh,Tuấn,09/01/1999,Nam,Tourist,2,1,8
+2663,102022153,Phan Hữu,Tuấn,22/10/1999,Nam,Tourist,9,2,3
+2664,102014772,Thái Anh,Tuấn,24/07/1999,Nam,IT,2,4,7
+2665,102022774,Trần Quốc,Tuấn,15/09/1999,Nam,IT,9,10,7
+2666,102039075,Võ Đình,Tuấn,26/12/1999,Nam,English,6,9,8
+2667,102010589,Liên Gia,Tuệ,19/07/1999,Nữ,English,1,9,3
+2668,102006640,Đoàn Vũ Sơn,Tùng,27/06/1999,Nam,English,2,5,7
+2669,137009823,La Phước,Tùng,06/01/1999,Nam,IT,9,4,7
+2670,102025790,Lý Thanh,Tùng,11/11/1999,Nam,English,2,4,6
+2671,148016285,Ngô Thanh,Tùng,17/01/1998,Nam,English,5,9,1
+2672,102005971,Nguyễn Sơn,Tùng,26/12/1999,Nam,Tourist,2,6,1
+2673,102042707,Nguyễn Thanh,Tùng,15/02/1999,Nam,Tourist,8,3,10
+2674,148006544,Nguyễn Vũ Sơn,Tùng,13/05/1999,Nam,Tourist,6,7,3
+2675,102031762,Nguyễn Xuân,Tùng,15/04/1999,Nam,IT,2,3,2
+2676,102001989,Phạm Ngọc,Tùng,07/07/1999,Nam,English,1,9,5
+2677,103008392,Trần Thanh,Tùng,01/10/1999,Nam,English,6,7,8
+2678,102013349,Võ Huy,Tùng,13/11/1999,Nam,Tourist,2,6,2
+2679,102025804,Dương Gia,Tường,27/05/1999,Nam,Tourist,10,9,8
+2680,102007791,Lai Thái,Tường,03/05/1999,Nam,Tourist,9,5,1
+2681,102051654,Ngô Thụy Cát,Tường,12/04/1999,Nữ,IT,3,1,8
+2682,154007794,Hồ Cẩm,Tuyên,23/07/1999,Nữ,IT,5,8,1
+2683,102002624,Lê Vương,Tuyên,15/09/1999,Nam,English,2,10,10
+2684,102031771,Đào Khánh Kim,Tuyến,07/07/1999,Nữ,English,7,7,9
+2685,102057396,Hà Phước,Tuyến,13/12/1999,Nam,English,1,6,6
+2686,149010563,Đặng Thị Kim,Tuyền,22/06/1999,Nữ,IT,9,3,6
+2687,102006644,Lê Thanh,Tuyền,17/08/1999,Nữ,English,3,9,4
+2688,102044755,Nguyễn Kim,Tuyền,17/04/1999,Nữ,English,6,4,8
+2689,142001275,Nguyễn Lâm,Tuyền,29/06/1999,Nữ,Tourist,7,10,5
+2690,102042092,Nguyễn Ngọc,Tuyền,09/01/1998,Nữ,Tourist,6,4,6
+2691,102054592,Nguyễn Ngọc Phương,Tuyền,23/06/1999,Nữ,Tourist,10,4,7
+2692,102039807,Nguyễn Phương,Tuyền,03/10/1999,Nữ,IT,10,6,1
+2693,102032575,Nguyễn Sơn,Tuyền,17/12/1999,Nữ,IT,2,1,8
+2694,137000482,Nguyễn Thị Minh,Tuyền,28/02/1999,Nữ,English,2,5,4
+2695,146001015,Phạm Châu,Tuyền,06/11/1999,Nữ,English,6,7,5
+2696,102032577,Phạm Kim Thanh,Tuyền,12/05/1999,Nữ,English,2,9,8
+2697,148022462,Phạm Thanh,Tuyền,27/12/1999,Nữ,IT,8,3,7
+2698,102006646,Quách Minh,Tuyền,13/02/1999,Nữ,English,6,7,3
+2699,102030378,Thái Thanh,Tuyền,19/08/1999,Nữ,English,10,3,10
+2700,102051646,Trần Kim,Tuyền,19/09/1999,Nữ,Tourist,4,8,2
+2701,141010457,Trần Thị Bích,Tuyền,12/10/1999,Nữ,Tourist,5,7,1
+2702,102042095,Võ Mộng,Tuyền,27/08/1999,Nữ,Tourist,8,8,8
+2703,102030380,Võ Ngọc,Tuyền,22/10/1999,Nữ,IT,4,9,5
+2704,102028992,Chung Thị Ngọc,Tuyết,08/11/1999,Nữ,IT,7,10,1
+2705,135003090,Đỗ Vũ Ánh,Tuyết,04/06/1999,Nữ,English,4,1,3
+2706,102039079,Đoàn Thị,Tuyết,21/06/1999,Nữ,English,2,3,2
+2707,102015849,Nguyễn Thị Ngọc,Tuyết,22/10/1999,Nữ,English,8,3,5
+2708,102046365,Trần Ánh,Tuyết,20/11/1999,Nữ,IT,3,3,3
+2709,163002920,Trần Thị Ánh,Tuyết,19/11/1999,Nữ,English,8,5,3
+2710,140019060,Trần Thị Minh,Tuyết,21/05/1999,Nữ,English,8,1,8
+2711,145004884,Huỳnh Hạ Bích,Ty,15/04/1999,Nữ,Tourist,4,2,6
+2712,102030386,Cao Ngọc Thảo,Uyên,13/01/1999,Nữ,Tourist,7,7,9
+2713,104007686,Đặng Trần Tú,Uyên,18/06/1999,Nữ,Tourist,8,2,5
+2714,141002066,Đinh Hoàng Nhã,Uyên,28/02/1999,Nữ,IT,1,2,2
+2715,102014780,Đinh Thị Thu,Uyên,18/07/1999,Nữ,English,9,8,5
+2716,102057409,Hoàng Thị,Uyên,16/08/1999,Nữ,English,4,6,8
+2717,102005980,Lâm Nguyên Bảo,Uyên,01/07/1999,Nữ,Tourist,4,7,2
+2718,102039090,Lê Hoàng Khánh,Uyên,11/11/1999,Nữ,Tourist,2,7,8
+2719,102030394,Lê Hồng,Uyên,28/10/1999,Nữ,Tourist,1,9,4
+2720,102009724,Lê Ngọc Phương,Uyên,27/05/1999,Nữ,IT,7,10,5
+2721,149002725,Lê Phạm Thanh,Uyên,22/10/1999,Nữ,IT,6,10,9
+2722,153002728,Lý Phượng,Uyên,05/03/1999,Nữ,English,5,5,3
+2723,102037738,Nguyễn Bảo,Uyên,29/10/1999,Nữ,English,10,3,2
+2724,102034889,Nguyễn Bình Phương,Uyên,23/11/1999,Nữ,English,3,5,8
+2725,102033807,Nguyễn Bùi Như,Uyên,17/03/1999,Nữ,IT,10,6,7
+2726,141008294,NguyễN Cao Nhã,Uyên,21/11/1999,Nữ,English,4,3,5
+2727,146001028,Nguyễn Duy,Uyên,05/12/1999,Nữ,English,3,6,4
+2728,102026639,Nguyễn Mỹ,Uyên,01/09/1999,Nữ,Tourist,1,7,7
+2729,144007157,Nguyễn Ngọc Phương,Uyên,12/05/1999,Nữ,Tourist,3,3,5
+2730,102042117,Nguyễn Ngọc Phương,Uyên,10/01/1999,Nữ,Tourist,6,10,2
+2731,163004121,Nguyễn Nữ Mộng,Uyên,17/02/1999,Nữ,IT,2,4,9
+2732,102006653,Nguyễn Phạm Phương,Uyên,12/10/1999,Nữ,IT,4,4,7
+2733,102025817,Nguyễn Phương,Uyên,09/09/1999,Nữ,English,2,10,1
+2734,148023221,Nguyễn Quỳnh Nhật,Uyên,28/01/1999,Nữ,English,8,10,9
+2735,102055989,Nguyễn Thảo,Uyên,26/10/1999,Nữ,English,10,5,6
+2736,102039095,Nguyễn Thị Thanh,Uyên,29/05/1999,Nữ,IT,10,6,8
+2737,102004858,Nguyễn Thục,Uyên,18/10/1999,Nữ,English,4,6,3
+2738,102022176,Nguyễn Trần Băng,Uyên,15/11/1999,Nữ,English,4,9,4
+2739,102039818,Phạm Hồng Phương,Uyên,28/09/1999,Nữ,Tourist,8,3,3
+2740,141008306,Phạm Hồng Thu,Uyên,03/09/1999,Nữ,Tourist,8,1,3
+2741,102042125,Phạm Nguyễn Uyên,Uyên,19/07/1999,Nữ,Tourist,2,2,5
+2742,102028999,Trần Ngọc Thu,Uyên,23/07/1999,Nữ,IT,4,8,3
+2743,102039820,Trần Phúc Bảo,Uyên,08/10/1999,Nữ,IT,9,8,5
+2744,153001822,Trần Phương,Uyên,15/09/1999,Nữ,English,2,1,3
+2745,102011537,Trần Phượng,Uyên,12/02/1999,Nữ,English,10,1,10
+2746,147010519,Trần Thị Như,Uyên,22/08/1999,Nữ,English,8,1,7
+2747,148019880,Trần Thị Thu,Uyên,30/09/1999,Nữ,IT,3,8,6
+2748,102036337,Trần Thúy Tôn,Uyên,25/08/1999,Nữ,English,8,9,5
+2749,102015861,Trần Tú,Uyên,28/09/1999,Nữ,English,5,5,10
+2750,102028170,Trịnh Phương,Uyên,08/08/1999,Nữ,Tourist,7,4,5
+2751,102044181,Trịnh Thị Tố,Uyên,28/12/1999,Nữ,Tourist,9,7,5
+2752,102044765,Trương Tố,Uyên,17/10/1999,Nữ,Tourist,4,2,2
+2753,142002327,Văn Thị Mỹ,Uyên,15/08/1999,Nữ,IT,8,9,1
+2754,163000449,Võ Lê Nhã,Uyên,05/01/1999,Nữ,English,8,6,8
+2755,148021029,Vũ Hoàng Phương,Uyên,23/05/1999,Nữ,English,7,6,10
+2756,102036338,Vũ Hồng Thanh,Uyên,20/04/1999,Nữ,Tourist,6,4,8
+2757,102018362,Vương Tú,Uyên,16/03/1999,Nữ,Tourist,3,5,1
+2758,102013365,Hồ Thị Thu,Vân,22/06/1998,Nữ,Tourist,7,7,5
+2759,102017771,Lê Thảo,Vân,28/10/1999,Nữ,IT,9,1,2
+2760,102009740,Lình Bích,Vân,01/08/1999,Nữ,IT,6,2,1
+2761,148007942,Nguyễn Ái,Vân,17/09/1999,Nữ,English,9,7,2
+2762,102006662,Nguyễn Hồng,Vân,05/09/1999,Nữ,English,1,4,3
+2763,102031800,Nguyễn Khánh,Vân,14/07/1999,Nữ,English,2,6,4
+2764,102060465,Nguyễn Nhất Linh,Vân,30/07/1999,Nữ,IT,10,6,9
+2765,102002020,Nguyễn Phạm Hoàng,Vân,05/05/1999,Nữ,English,10,4,8
+2766,151011770,Nguyễn Thị Cẩm,Vân,23/01/1999,Nữ,English,4,3,8
+2767,137001068,Nguyễn Thị Thanh,Vân,04/02/1999,Nữ,Tourist,6,7,6
+2768,102005988,Nguyễn Thị Thanh,Vân,20/02/1999,Nữ,Tourist,3,5,3
+2769,102005989,Nguyễn Thị Thanh,Vân,28/11/1999,Nữ,Tourist,7,1,1
+2770,102014205,Phạm Lê Khả,Vân,01/01/1998,Nữ,IT,7,4,5
+2771,102029007,Phạm Thị Khánh,Vân,12/03/1999,Nữ,IT,4,1,10
+2772,102044188,Phan Thị Bích,Vân,29/11/1999,Nữ,English,9,9,7
+2773,141006912,Trương Ngọc Thùy,Vân,18/04/1999,Nữ,English,4,10,1
+2774,153008175,Huỳnh Tú,Văn,28/08/1999,Nữ,English,6,9,2
+2775,102054624,Nguyễn Hoài,Văn,18/05/1999,Nam,IT,4,4,7
+2776,102013364,Thang TịNh,Văn,04/12/1998,Nữ,English,3,3,7
+2777,157003165,Dương Thị Ngọc,Vẹn,20/10/1999,Nữ,English,5,10,4
+2778,102015875,Cao Ngọc Ánh,Vi,15/09/1999,Nữ,Tourist,3,2,1
+2779,102051679,Đặng Nguyễn Thúy,Vi,21/10/1998,Nữ,Tourist,3,5,10
+2780,148003600,Đào Thảo,Vi,14/04/1999,Nữ,Tourist,6,4,2
+2781,102002026,Đỗ Hiền,Vi,18/01/1999,Nữ,IT,2,3,4
+2782,102054629,Đoàn Thị Tường,Vi,20/12/1999,Nữ,IT,4,6,4
+2783,102024568,Hứa Tịnh,Vi,17/04/1999,Nữ,English,7,7,6
+2784,102025838,Nguyễn Khánh,Vi,22/08/1999,Nữ,English,8,10,5
+2785,150011902,Nguyễn Lăng Huyền,Vi,22/10/1999,Nữ,English,3,5,6
+2786,102026651,Nguyễn Nhật Yến,Vi,21/12/1999,Nữ,IT,3,3,6
+2787,102033830,Nguyễn Thị Thúy,Vi,01/10/1999,Nữ,English,7,2,7
+2788,102051684,Nguyễn Thúy,Vi,08/04/1999,Nữ,English,1,3,10
+2789,163000455,Phan Thúy,Vi,12/05/1999,Nữ,Tourist,4,1,3
+2790,102044195,Trịnh Thị Xuân,Vi,16/06/1999,Nữ,Tourist,6,8,10
+2791,102037754,Vương Thị Thanh,Vi,18/08/1999,Nữ,Tourist,5,9,10
+2792,140019145,Phan Gia,Vĩ,25/11/1999,Nam,IT,8,6,3
+2793,102030441,Trần Gia,Vĩ,03/07/1999,Nam,English,8,4,4
+2794,102009753,Trần Phi,Vĩ,26/06/1999,Nam,English,7,2,8
+2795,102009754,Trương Gia,Vĩ,08/06/1999,Nam,Tourist,6,3,6
+2796,102064232,Đào Hoàng,Việt,29/10/1999,Nam,Tourist,4,1,10
+2797,102057449,Lê Bảo,Việt,15/09/1996,Nam,Tourist,9,7,2
+2798,102014798,Lê Quốc,Việt,15/07/1999,Nam,IT,5,6,7
+2799,102054633,Lê Quốc,Việt,11/07/1999,Nam,IT,10,2,4
+2800,102004874,Lữ Triều,Việt,20/03/1999,Nam,English,2,6,7
+2801,102037757,Trần Đức,Việt,14/09/1999,Nam,English,1,5,10
+2802,142011272,Trần Quốc,Việt,25/01/1999,Nam,English,4,4,4
+2803,102024571,Trần Vũ Hoàng,Việt,30/07/1999,Nam,IT,10,10,8
+2804,102007834,Bùi Hiển,Vinh,01/03/1999,Nam,English,3,9,4
+2805,102005481,Bùi Quang,Vinh,12/02/1999,Nam,English,10,8,3
+2806,102009758,Đỗ Phan Hoàng,Vinh,15/07/1999,Nam,Tourist,10,4,8
+2807,153012683,Lưu Hoàng,Vinh,25/08/1999,Nam,Tourist,7,7,8
+2808,102012617,Lưu Khánh,Vinh,20/01/1999,Nam,Tourist,5,6,5
+2809,102035438,Nguyễn Bá,Vinh,22/12/1999,Nam,IT,9,10,4
+2810,102066239,Nguyễn Phan,Vinh,19/06/1997,Nam,IT,9,4,10
+2811,102022214,Nguyễn Tấn Quang,Vinh,13/01/1999,Nam,English,2,7,7
+2812,102019972,Nguyễn Trường,Vinh,03/10/1999,Nam,English,4,5,6
+2813,149006513,Trần Hữu,Vinh,28/08/1999,Nam,English,3,2,4
+2814,102024577,Trần Long,Vinh,07/03/1999,Nam,IT,8,6,8
+2815,134014561,Trần Phúc,Vinh,17/01/1999,Nam,English,9,5,3
+2816,102060475,Trần Quang,Vinh,20/04/1999,Nam,English,3,4,2
+2817,102002045,Trương Tấn,Vinh,23/02/1999,Nam,Tourist,4,4,6
+2818,102007844,Uông Duy,Vinh,26/10/1999,Nam,Tourist,9,9,7
+2819,102009770,Lư Thy,Vĩnh,09/07/1999,Nữ,Tourist,6,9,4
+2820,153003801,Đặng Nhất,Vũ,27/05/1999,Nam,IT,2,4,7
+2821,102034914,Đinh Duy Long,Vũ,29/07/1999,Nam,IT,6,5,6
+2822,102045661,Hồ Đình,Vũ,23/09/1999,Nam,English,7,10,5
+2823,102031831,Hồ Trần Anh,Vũ,21/07/1999,Nam,English,2,7,4
+2824,102022218,Nguyễn Đức Anh,Vũ,11/09/1999,Nam,English,6,6,6
+2825,137005852,Nguyễn Hoàng,Vũ,30/05/1999,Nam,IT,9,4,10
+2826,102002050,Nguyễn Lâm Tuấn,Vũ,29/06/1999,Nam,English,9,8,1
+2827,102054646,Nguyễn Quang,Vũ,06/10/1999,Nam,English,3,3,2
+2828,102057467,Phạm Anh,Vũ,26/10/1999,Nam,Tourist,7,6,4
+2829,102004878,Trần Nhật,Vũ,06/01/1999,Nam,Tourist,3,2,2
+2830,102039117,Vũ Nguyên,Vũ,27/12/1999,Nam,Tourist,7,10,8
+2831,102063543,Nguyễn Hoàng,Vủ,11/06/1997,Nam,IT,8,10,8
+2832,102057470,Hoàng Đức,Vương,17/02/1999,Nam,English,9,9,2
+2833,140004818,Lê Tuyến,Vương,09/04/1999,Nam,English,5,9,9
+2834,102014224,Nghiêm Nam,Vương,27/01/1999,Nam,Tourist,8,9,2
+2835,143004469,Nguyễn Thị Mỹ,Vượng,06/01/1998,Nữ,Tourist,2,7,10
+2836,102017815,Bạch Lan,Vy,27/03/1999,Nữ,Tourist,1,8,4
+2837,102009779,Bùi Ngọc Anh,Vy,02/01/1999,Nữ,IT,2,2,8
+2838,102022224,Bùi Thị Khánh,Vy,22/10/1999,Nữ,IT,4,6,5
+2839,102010639,Châu Ngọc Bảo,Vy,30/09/1999,Nữ,English,8,2,2
+2840,102023529,Chu Vũ Khánh,Vy,29/03/1999,Nữ,English,9,9,1
+2841,102011556,Cố Uyển,Vy,16/10/1999,Nữ,English,8,9,4
+2842,102002055,Đặng Nhật,Vy,09/04/1999,Nữ,IT,4,4,7
+2843,102042748,Đinh Thị Thúy,Vy,21/09/1999,Nữ,English,9,2,7
+2844,148006918,Đinh Thoại Yến,Vy,15/08/1999,Nữ,English,3,1,7
+2845,102039846,Dương Phương,Vy,25/06/1999,Nữ,Tourist,6,2,5
+2846,102019980,Hồ Ngọc Thanh,Vy,03/11/1999,Nữ,Tourist,9,7,2
+2847,148001434,Hoàng Ngọc Thúy,Vy,15/08/1999,Nữ,Tourist,7,5,8
+2848,102025874,Huỳnh Hoàng Đan,Vy,16/08/1999,Nữ,IT,1,2,6
+2849,149002742,Huỳnh Thảo Tường,Vy,08/08/1999,Nữ,IT,5,6,8
+2850,102021051,Ka Thị Thanh,Vy,21/08/1999,Nữ,English,8,10,10
+2851,148017597,Lại Thụy Hiền,Vy,24/11/1999,Nữ,English,9,5,5
+2852,102000841,Lê,Vy,28/01/1999,Nữ,English,3,2,5
+2853,143008963,Lê Hạ,Vy,22/07/1999,Nữ,IT,4,4,1
+2854,102056030,Lê Hoài Thảo,Vy,31/10/1999,Nữ,English,1,3,8
+2855,102047856,Lê Ngọc Thùy,Vy,04/01/1999,Nữ,English,3,6,10
+2856,102030477,Lê Ngọc Tường,Vy,10/10/1999,Nữ,Tourist,2,4,5
+2857,102011563,Lê Nhật,Vy,25/05/1999,Nữ,Tourist,6,6,2
+2858,102013381,Lê Thanh,Vy,17/03/1999,Nữ,Tourist,3,9,5
+2859,102019987,Lê Võ Huyền,Vy,12/03/1999,Nữ,IT,4,2,1
+2860,102005493,Lư Nguyễn Phương,Vy,14/04/1999,Nữ,IT,9,7,3
+2861,102018887,Lư Yến,Vy,05/05/1999,Nữ,English,7,8,1
+2862,161004590,Lưu Khã,Vy,18/08/1999,Nữ,English,3,2,10
+2863,102006004,Lưu Thanh,Vy,02/09/1999,Nữ,English,6,10,2
+2864,102006005,Lưu Thị Thanh,Vy,12/06/1999,Nữ,IT,8,1,5
+2865,141001629,Mai Khánh,Vy,15/10/1999,Nữ,English,1,7,3
+2866,102042212,Ngô Thị Tường,Vy,23/10/1999,Nữ,English,3,7,6
+2867,156010287,Nguyễn Chung Phượng,Vy,05/09/1999,Nữ,Tourist,8,7,8
+2868,153011014,Nguyễn Khánh Lan,Vy,31/03/1999,Nữ,Tourist,9,8,4
+2869,102039853,Nguyễn Lê Uyển,Vy,12/11/1999,Nữ,Tourist,8,6,7
+2870,152004004,Nguyễn Ngọc Loan,Vy,01/06/1999,Nữ,IT,6,3,9
+2871,102057480,Nguyễn Ngọc Thào,Vy,13/10/1999,Nữ,English,7,1,7
+2872,142001319,Nguyễn Phúc Huyền,Vy,31/08/1999,Nữ,English,2,9,9
+2873,102012635,Nguyễn Sok Thanh,Vy,21/08/1999,Nữ,Tourist,1,9,4
+2874,102045676,Nguyễn Thanh,Vy,18/06/1999,Nữ,Tourist,5,5,3
+2875,146005048,Nguyễn Thị Thuý,Vy,24/01/1999,Nữ,Tourist,10,9,9
+2876,146005590,Nguyễn Thúy,Vy,16/01/1999,Nữ,IT,2,2,6
+2877,102044226,Nguyễn Thúy,Vy,10/04/1999,Nữ,IT,10,10,1
+2878,102006687,Nguyễn Trần Hoàng,Vy,10/09/1999,Nữ,English,4,2,3
+2879,102044227,Nguyễn Tường,Vy,07/10/1999,Nữ,English,7,5,5
+2880,102009799,Nguyễn Tường,Vy,07/01/1999,Nữ,English,1,1,7
+2881,102015913,Nguyễn Tường,Vy,06/08/1999,Nữ,IT,7,7,3
+2882,102014808,Nguyễn Tuyết,Vy,04/09/1999,Nữ,English,3,6,8
+2883,102031850,Phạm Hoàng Thảo,Vy,17/10/1999,Nữ,English,2,5,4
+2884,102004898,Phạm Ngọc,Vy,08/04/1999,Nữ,Tourist,8,7,9
+2885,102056044,Phạm Nguyễn Ngọc Diễm,Vy,31/01/1999,Nữ,Tourist,8,2,2
+2886,102051728,Phạm Thị Thảo,Vy,10/06/1999,Nữ,Tourist,4,9,3
+2887,102029041,Phạm Thị Thúy,Vy,17/09/1999,Nữ,IT,5,5,3
+2888,155002163,Phạm Trần Trúc,Vy,13/10/1999,Nữ,IT,10,7,5
+2889,102059008,Phạm Tường,Vy,12/11/1999,Nữ,English,4,4,4
+2890,102051729,Phạm Tường,Vy,17/04/1999,Nữ,English,7,10,10
+2891,102016383,Tiêu Thụy Phương,Vy,28/04/1999,Nữ,English,9,10,8
+2892,102049624,Trần Huỳnh Khánh,Vy,12/08/1999,Nữ,IT,9,7,4
+2893,102006012,Trần Mẫn,Vy,25/07/1999,Nữ,English,1,5,4
+2894,102006691,Trần Ngọc,Vy,30/11/1997,Nữ,English,9,3,4
+2895,134007755,Trần Nguyễn Nhật,Vy,04/05/1999,Nữ,Tourist,10,5,8
+2896,102022817,TrầN NhậT,Vy,13/05/1999,Nữ,Tourist,1,4,2
+2897,102002076,Trần Thị Hoàng,Vy,12/04/1999,Nữ,Tourist,7,10,7
+2898,102028217,Trần Thị Thúy,Vy,25/10/1999,Nữ,IT,2,4,8
+2899,102048757,Trần Tường,Vy,21/11/1999,Nữ,IT,3,10,6
+2900,102010659,Trần Tường,Vy,05/10/1999,Nữ,English,2,7,5
+2901,102025881,Trần Vũ Thanh,Vy,23/08/1999,Nữ,English,6,3,3
+2902,141007004,Trương Nguyễn Tường,Vy,01/09/1999,Nữ,English,4,4,7
+2903,102015922,Trương Thúy,Vy,01/05/1999,Nữ,IT,4,8,1
+2904,141007006,Võ Đặng Trà,Vy,13/03/1999,Nữ,English,7,2,6
+2905,102045686,Võ Ngọc Thúy,Vy,06/05/1999,Nữ,English,2,6,5
+2906,102013390,Vũ Thanh,Vy,27/07/1999,Nữ,Tourist,2,3,1
+2907,102036387,Lê Uy,Vỹ,19/02/1999,Nam,Tourist,6,3,5
+2908,102033869,Từ Tuấn,Vỹ,19/08/1999,Nam,Tourist,7,8,4
+2909,102035456,Hoàng Lê Ngọc,Xuân,18/03/1999,Nữ,IT,3,7,2
+2910,102030511,Lê Phan Kim,Xuân,07/08/1999,Nữ,English,8,8,8
+2911,149008658,Lê Thị Thu,Xuân,29/10/1999,Nữ,English,2,6,9
+2912,102060491,Nguyễn Ngọc,Xuân,12/01/1999,Nữ,Tourist,1,4,7
+2913,141002832,Nguyễn Nữ Thanh,Xuân,22/03/1999,Nữ,Tourist,7,1,8
+2914,102044238,Nguyễn Thanh,Xuân,15/01/1999,Nữ,Tourist,9,8,8
+2915,102002080,Nguyễn Thị Ánh,Xuân,04/11/1999,Nữ,IT,2,5,2
+2916,146002834,Nguyễn Thị Nguyên,Xuân,16/03/1999,Nữ,IT,6,10,10
+2917,156005074,Nguyễn Thị Thanh,Xuân,25/03/1999,Nữ,English,7,1,6
+2918,102029047,Trần Hương,Xuân,23/02/1999,Nữ,English,2,10,7
+2919,145001630,Trần Thị Lệ,Xuân,30/07/1999,Nữ,English,3,1,8
+2920,102006696,Võ Hồ Thanh,Xuân,11/03/1999,Nữ,IT,6,3,7
+2921,102009811,Đặng Thị Mỹ,Xuyên,09/10/1999,Nữ,English,6,2,9
+2922,102004913,Hàng Đinh Cẩm,Xuyên,19/07/1999,Nữ,English,1,3,9
+2923,102015926,Nguyễn Thị Cẩm,Xuyên,24/04/1999,Nữ,Tourist,9,7,7
+2924,151011814,Bùi Văn Như,Ý,20/10/1999,Nam,Tourist,8,3,6
+2925,150008062,Hồ Ngọc Như,Ý,30/10/1999,Nữ,Tourist,6,2,4
+2926,142003625,Hồ Viết Như,Ý,05/03/1999,Nữ,IT,2,7,10
+2927,102026684,Lê Thị Như,Ý,10/02/1999,Nữ,IT,7,3,2
+2928,102037169,Lê Vũ Như,Ý,02/11/1999,Nữ,English,1,10,3
+2929,102006026,Lý Như,Ý,10/10/1999,Nữ,English,8,2,9
+2930,155007481,Ngô Như,Ý,17/02/1999,Nữ,English,6,5,6
+2931,155007484,Trần Siêu,Ý,07/11/1999,Nữ,IT,10,2,6
+2932,163002015,Trần Thị Nhã,Ý,29/11/1999,Nữ,English,1,2,8
+2933,102023551,Nguyễn Lam,Yên,27/04/1999,Nữ,English,6,1,3
+2934,152001235,Bế Vũ Hải,Yến,11/09/1999,Nữ,Tourist,6,4,1
+2935,102031870,Đặng Trần Hoàng,Yến,28/12/1999,Nữ,Tourist,6,3,5
+2936,102016393,Đào Hồ Hải,Yến,21/04/1999,Nữ,Tourist,5,8,7
+2937,152001236,Dương Đinh Hoàng,Yến,07/06/1999,Nữ,IT,2,7,6
+2938,102000860,Hồ Hải,Yến,22/11/1999,Nữ,IT,1,4,5
+2939,102054685,Huỳnh Kim Hải,Yến,02/10/1999,Nữ,English,6,1,9
+2940,102030516,Lâm Hoàng,Yến,07/02/1998,Nữ,English,6,6,5
+2941,102011578,Lâm Kim,Yến,18/11/1999,Nữ,English,7,2,10
+2942,102007887,Lê Diệp Kim,Yến,26/05/1999,Nữ,IT,1,10,5
+2943,102002086,Lê Dương Kim,Yến,17/06/1999,Nữ,English,2,7,5
+2944,102013403,Lê Hoàng,Yến,29/12/1999,Nữ,English,3,5,6
+2945,148023271,Lê Kim Hồng,Yến,16/05/1999,Nữ,Tourist,8,7,1
+2946,150009136,Lê Thị Hoàng,Yến,03/04/1999,Nữ,Tourist,4,4,10
+2947,153000959,Lê Thị Kim,Yến,17/05/1999,Nữ,Tourist,7,1,2
+2948,102025896,Lương Hoàng,Yến,07/03/1999,Nữ,IT,2,9,2
+2949,102037172,Ngô Thị Thu,Yến,16/05/1999,Nữ,English,6,1,6
+2950,152007459,Nguyễn Hoàng,Yến,19/06/1999,Nữ,English,10,1,7
+2951,150008417,Nguyễn Kim,Yến,21/09/1999,Nữ,Tourist,4,4,1
+2952,102003964,Nguyễn Ngọc Hiểu,Yến,03/01/1999,Nữ,Tourist,4,8,4
+2953,148006934,Nguyễn Thị Hải,Yến,11/10/1999,Nữ,Tourist,5,8,3
+2954,142004942,Trần Bạch Hiểu,Yến,08/03/1999,Nữ,IT,9,9,5
+2955,102007892,Trần Gia Hoàng,Yến,10/10/1999,Nữ,IT,3,5,4
+2956,102037787,Trần Thị Hải,Yến,17/10/1999,Nữ,English,5,7,10
+2957,147011274,Trần Thị Hoài,Yến,23/09/1999,Nữ,English,10,2,8

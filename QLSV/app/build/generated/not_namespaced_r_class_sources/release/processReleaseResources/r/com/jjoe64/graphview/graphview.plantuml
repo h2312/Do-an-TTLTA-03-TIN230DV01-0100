@@ -1,0 +1,275 @@
+@startuml
+
+title __GRAPHVIEW's Class Diagram__\n
+
+  package com.jjoe64.graphview {
+    class R {
+        - R()
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class attr {
+        {static} + coordinatorLayoutStyle : int
+        {static} + font : int
+        {static} + fontProviderAuthority : int
+        {static} + fontProviderCerts : int
+        {static} + fontProviderFetchStrategy : int
+        {static} + fontProviderFetchTimeout : int
+        {static} + fontProviderPackage : int
+        {static} + fontProviderQuery : int
+        {static} + fontStyle : int
+        {static} + fontWeight : int
+        {static} + keylines : int
+        {static} + layout_anchor : int
+        {static} + layout_anchorGravity : int
+        {static} + layout_behavior : int
+        {static} + layout_dodgeInsetEdges : int
+        {static} + layout_insetEdge : int
+        {static} + layout_keyline : int
+        {static} + seriesColor : int
+        {static} + seriesData : int
+        {static} + seriesTitle : int
+        {static} + seriesType : int
+        {static} + statusBarBackground : int
+        - attr()
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class bool {
+        {static} + abc_action_bar_embed_tabs : int
+        - bool()
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class color {
+        {static} + notification_action_color_filter : int
+        {static} + notification_icon_bg_color : int
+        {static} + notification_material_background_media_default_color : int
+        {static} + primary_text_default_material_dark : int
+        {static} + ripple_material_light : int
+        {static} + secondary_text_default_material_dark : int
+        {static} + secondary_text_default_material_light : int
+        - color()
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class dimen {
+        {static} + compat_button_inset_horizontal_material : int
+        {static} + compat_button_inset_vertical_material : int
+        {static} + compat_button_padding_horizontal_material : int
+        {static} + compat_button_padding_vertical_material : int
+        {static} + compat_control_corner_material : int
+        {static} + notification_action_icon_size : int
+        {static} + notification_action_text_size : int
+        {static} + notification_big_circle_margin : int
+        {static} + notification_content_margin_start : int
+        {static} + notification_large_icon_height : int
+        {static} + notification_large_icon_width : int
+        {static} + notification_main_column_padding_top : int
+        {static} + notification_media_narrow_margin : int
+        {static} + notification_right_icon_size : int
+        {static} + notification_right_side_padding_top : int
+        {static} + notification_small_icon_background_padding : int
+        {static} + notification_small_icon_size_as_large : int
+        {static} + notification_subtext_size : int
+        {static} + notification_top_pad : int
+        {static} + notification_top_pad_large_text : int
+        - dimen()
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class drawable {
+        {static} + notification_action_background : int
+        {static} + notification_bg : int
+        {static} + notification_bg_low : int
+        {static} + notification_bg_low_normal : int
+        {static} + notification_bg_low_pressed : int
+        {static} + notification_bg_normal : int
+        {static} + notification_bg_normal_pressed : int
+        {static} + notification_icon_background : int
+        {static} + notification_template_icon_bg : int
+        {static} + notification_template_icon_low_bg : int
+        {static} + notification_tile_bg : int
+        {static} + notify_panel_notification_icon_bg : int
+        - drawable()
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class id {
+        {static} + action0 : int
+        {static} + action_container : int
+        {static} + action_divider : int
+        {static} + action_image : int
+        {static} + action_text : int
+        {static} + actions : int
+        {static} + async : int
+        {static} + blocking : int
+        {static} + bottom : int
+        {static} + cancel_action : int
+        {static} + chronometer : int
+        {static} + end : int
+        {static} + end_padder : int
+        {static} + forever : int
+        {static} + icon : int
+        {static} + icon_group : int
+        {static} + info : int
+        {static} + italic : int
+        {static} + left : int
+        {static} + line1 : int
+        {static} + line3 : int
+        {static} + media_actions : int
+        {static} + none : int
+        {static} + normal : int
+        {static} + notification_background : int
+        {static} + notification_main_column : int
+        {static} + notification_main_column_container : int
+        {static} + right : int
+        {static} + right_icon : int
+        {static} + right_side : int
+        {static} + start : int
+        {static} + status_bar_latest_event_content : int
+        {static} + tag_transition_group : int
+        {static} + text : int
+        {static} + text2 : int
+        {static} + time : int
+        {static} + title : int
+        {static} + top : int
+        - id()
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class integer {
+        {static} + cancel_button_image_alpha : int
+        {static} + status_bar_notification_info_maxnum : int
+        - integer()
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class layout {
+        {static} + notification_action : int
+        {static} + notification_action_tombstone : int
+        {static} + notification_media_action : int
+        {static} + notification_media_cancel_action : int
+        {static} + notification_template_big_media : int
+        {static} + notification_template_big_media_custom : int
+        {static} + notification_template_big_media_narrow : int
+        {static} + notification_template_big_media_narrow_custom : int
+        {static} + notification_template_custom_big : int
+        {static} + notification_template_icon_group : int
+        {static} + notification_template_lines_media : int
+        {static} + notification_template_media : int
+        {static} + notification_template_media_custom : int
+        {static} + notification_template_part_chronometer : int
+        {static} + notification_template_part_time : int
+        - layout()
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class string {
+        {static} + status_bar_notification_info_overflow : int
+        - string()
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class style {
+        {static} + TextAppearance_Compat_Notification : int
+        {static} + TextAppearance_Compat_Notification_Info : int
+        {static} + TextAppearance_Compat_Notification_Info_Media : int
+        {static} + TextAppearance_Compat_Notification_Line2 : int
+        {static} + TextAppearance_Compat_Notification_Line2_Media : int
+        {static} + TextAppearance_Compat_Notification_Media : int
+        {static} + TextAppearance_Compat_Notification_Time : int
+        {static} + TextAppearance_Compat_Notification_Time_Media : int
+        {static} + TextAppearance_Compat_Notification_Title : int
+        {static} + TextAppearance_Compat_Notification_Title_Media : int
+        {static} + Widget_Compat_NotificationActionContainer : int
+        {static} + Widget_Compat_NotificationActionText : int
+        {static} + Widget_Support_CoordinatorLayout : int
+        - style()
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class styleable {
+        {static} + CoordinatorLayout : int[]
+        {static} + CoordinatorLayout_keylines : int
+        {static} + CoordinatorLayout_statusBarBackground : int
+        {static} + CoordinatorLayout_Layout : int[]
+        {static} + CoordinatorLayout_Layout_android_layout_gravity : int
+        {static} + CoordinatorLayout_Layout_layout_anchor : int
+        {static} + CoordinatorLayout_Layout_layout_anchorGravity : int
+        {static} + CoordinatorLayout_Layout_layout_behavior : int
+        {static} + CoordinatorLayout_Layout_layout_dodgeInsetEdges : int
+        {static} + CoordinatorLayout_Layout_layout_insetEdge : int
+        {static} + CoordinatorLayout_Layout_layout_keyline : int
+        {static} + FontFamily : int[]
+        {static} + FontFamily_fontProviderAuthority : int
+        {static} + FontFamily_fontProviderCerts : int
+        {static} + FontFamily_fontProviderFetchStrategy : int
+        {static} + FontFamily_fontProviderFetchTimeout : int
+        {static} + FontFamily_fontProviderPackage : int
+        {static} + FontFamily_fontProviderQuery : int
+        {static} + FontFamilyFont : int[]
+        {static} + FontFamilyFont_android_font : int
+        {static} + FontFamilyFont_android_fontWeight : int
+        {static} + FontFamilyFont_android_fontStyle : int
+        {static} + FontFamilyFont_android_ttcIndex : int
+        {static} + FontFamilyFont_android_fontVariationSettings : int
+        {static} + FontFamilyFont_font : int
+        {static} + FontFamilyFont_fontStyle : int
+        {static} + FontFamilyFont_fontVariationSettings : int
+        {static} + FontFamilyFont_fontWeight : int
+        {static} + FontFamilyFont_ttcIndex : int
+        {static} + GraphViewXML : int[]
+        {static} + GraphViewXML_android_title : int
+        {static} + GraphViewXML_seriesColor : int
+        {static} + GraphViewXML_seriesData : int
+        {static} + GraphViewXML_seriesTitle : int
+        {static} + GraphViewXML_seriesType : int
+        - styleable()
+    }
+  }
+  
+
+  R +-down- attr
+  R +-down- bool
+  R +-down- color
+  R +-down- dimen
+  R +-down- drawable
+  R +-down- id
+  R +-down- integer
+  R +-down- layout
+  R +-down- string
+  R +-down- style
+  R +-down- styleable
+
+
+right footer
+
+
+PlantUML diagram generated by SketchIt! (https://bitbucket.org/pmesmeur/sketch.it)
+For more information about this tool, please contact philippe.mesmeur@gmail.com
+endfooter
+
+@enduml

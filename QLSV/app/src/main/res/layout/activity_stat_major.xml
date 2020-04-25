@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".StatMajor"
+    tools:layout_editor_absoluteY="81dp">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_marginTop="35dp"
+        android:text="Số lượng sinh viên theo ngành"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/txtEng"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtITH"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:text="IT:"
+        app:layout_constraintStart_toStartOf="@+id/txtEngH"
+        app:layout_constraintTop_toBottomOf="@+id/txtEngH" />
+
+    <TextView
+        android:id="@+id/txtEngH"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="38dp"
+        android:text="English:"
+        app:layout_constraintBaseline_toBaselineOf="@+id/txtEng"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/txtTourH"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tourist:"
+        app:layout_constraintBaseline_toBaselineOf="@+id/txtTour"
+        app:layout_constraintStart_toStartOf="@+id/txtITH" />
+
+    <TextView
+        android:id="@+id/txtTour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:text="TextView"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/txtIT"
+        app:layout_constraintTop_toBottomOf="@+id/txtIT" />
+
+    <TextView
+        android:id="@+id/txtEng"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="36dp"
+        android:text="TextView"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/txtEngH"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/txtIT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:text="TextView"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/txtEng"
+        app:layout_constraintTop_toBottomOf="@+id/txtEng" />
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/graphMajor"
+        android:layout_width="353dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="34dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtTourH" />
+
+
+</android.support.constraint.ConstraintLayout>

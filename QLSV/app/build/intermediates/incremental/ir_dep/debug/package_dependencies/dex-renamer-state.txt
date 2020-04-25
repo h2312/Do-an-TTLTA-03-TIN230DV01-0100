@@ -1,0 +1,10 @@
+#Sat Oct 20 20:53:03 ICT 2018
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/hiep/Downloads/QLSV/app/build/intermediates/transforms/dexMerger/debug/10
+base.1=/Users/hiep/Downloads/QLSV/app/build/intermediates/transforms/dexMerger/debug/10
+base.0=/Users/hiep/Downloads/QLSV/app/build/intermediates/transforms/dexMerger/debug/10

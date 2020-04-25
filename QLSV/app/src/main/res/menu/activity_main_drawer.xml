@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Xem điểm">
+        <menu>
+            <item
+                android:id="@+id/search_id"
+                android:title="Xem thông tin sinh viên theo ID" />
+            <item
+                android:id="@+id/search_topn"
+                android:title="Xem điểm cao nhất" />
+        </menu>
+    </item>
+
+    <item android:title="In danh sách sinh viên">
+        <menu>
+            <item
+                android:id="@+id/list_all"
+                android:title="In tất cả " />
+            <item
+                android:id="@+id/list_major"
+                android:title="In theo ngành" />
+        </menu>
+    </item>
+
+    <item android:title="Thống kê và Đồ thị">
+        <menu>
+            <item
+                android:id="@+id/stat_major"
+                android:title="Xem theo ngành" />
+            <item
+                android:id="@+id/stat_avg"
+                android:title="Xem theo phân loại học lực" />
+        </menu>
+    </item>
+</menu>

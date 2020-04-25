@@ -1,0 +1,576 @@
+@startuml
+
+title __APP's Class Diagram__\n
+
+  package vn.edu.hoasen.qlsv {
+    class BuildConfig {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class BuildConfig {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class DescAvgComparator {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class ExampleInstrumentedTest {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class ListAll {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class ListAllAdapter {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class ListEnglishMajorAdapter {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class ListITMajorAdapter {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class ListMajor {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class ListTouristMajorAdapter {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class MainActivity {
+    }
+  }
+  
+
+  package android.support.print {
+    class R {
+    }
+  }
+  
+
+  package android.support.constraint {
+    class R {
+    }
+  }
+  
+
+  package android.arch.lifecycle {
+    package android.arch.lifecycle.livedata {
+      package android.arch.lifecycle.livedata.core {
+        class R {
+        }
+      }
+    }
+  }
+  
+
+  package android.arch.lifecycle {
+    class R {
+    }
+  }
+  
+
+  package android.support.drawerlayout {
+    class R {
+    }
+  }
+  
+
+  package android.arch.core {
+    class R {
+    }
+  }
+  
+
+  package android.support.transition {
+    class R {
+    }
+  }
+  
+
+  package android.arch.lifecycle {
+    package android.arch.lifecycle.livedata {
+      class R {
+      }
+    }
+  }
+  
+
+  package android.arch.lifecycle {
+    package android.arch.lifecycle.viewmodel {
+      class R {
+      }
+    }
+  }
+  
+
+  package android.support.drawerlayout {
+    class R {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class R {
+    }
+  }
+  
+
+  package android.support.v4 {
+    class R {
+    }
+  }
+  
+
+  package android.arch.lifecycle {
+    package android.arch.lifecycle.viewmodel {
+      class R {
+      }
+    }
+  }
+  
+
+  package android.support.v7.appcompat {
+    class R {
+    }
+  }
+  
+
+  package android.support.customview {
+    class R {
+    }
+  }
+  
+
+  package android.support.loader {
+    class R {
+    }
+  }
+  
+
+  package android.support.slidingpanelayout {
+    class R {
+    }
+  }
+  
+
+  package android.support.compat {
+    class R {
+    }
+  }
+  
+
+  package android.support.graphics.drawable {
+    class R {
+    }
+  }
+  
+
+  package android.support.design {
+    class R {
+    }
+  }
+  
+
+  package android.support.swiperefreshlayout {
+    class R {
+    }
+  }
+  
+
+  package android.support.asynclayoutinflater {
+    class R {
+    }
+  }
+  
+
+  package android.arch.core {
+    class R {
+    }
+  }
+  
+
+  package android.support.v7.viewpager {
+    class R {
+    }
+  }
+  
+
+  package android.support.transition {
+    class R {
+    }
+  }
+  
+
+  package android.arch.lifecycle {
+    package android.arch.lifecycle.livedata {
+      package android.arch.lifecycle.livedata.core {
+        class R {
+        }
+      }
+    }
+  }
+  
+
+  package android.support.documentfile {
+    class R {
+    }
+  }
+  
+
+  package android.support.coordinatorlayout {
+    class R {
+    }
+  }
+  
+
+  package android.support.customview {
+    class R {
+    }
+  }
+  
+
+  package android.support.v7.cardview {
+    class R {
+    }
+  }
+  
+
+  package com.anychart {
+    class R {
+    }
+  }
+  
+
+  package com.anychart {
+    class R {
+    }
+  }
+  
+
+  package android.support.v7.viewpager {
+    class R {
+    }
+  }
+  
+
+  package android.support.cursoradapter {
+    class R {
+    }
+  }
+  
+
+  package android.support.slidingpanelayout {
+    class R {
+    }
+  }
+  
+
+  package android.support.constraint {
+    class R {
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class R {
+    }
+  }
+  
+
+  package android.support.coreui {
+    class R {
+    }
+  }
+  
+
+  package androidx.versionedparcelable {
+    class R {
+    }
+  }
+  
+
+  package android.support.asynclayoutinflater {
+    class R {
+    }
+  }
+  
+
+  package androidx.versionedparcelable {
+    class R {
+    }
+  }
+  
+
+  package android.support.mediacompat {
+    class R {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class R {
+    }
+  }
+  
+
+  package android.support.v7.appcompat {
+    class R {
+    }
+  }
+  
+
+  package android.support.compat {
+    class R {
+    }
+  }
+  
+
+  package android.arch.lifecycle {
+    package android.arch.lifecycle.livedata {
+      class R {
+      }
+    }
+  }
+  
+
+  package android.support.v7.recyclerview {
+    class R {
+    }
+  }
+  
+
+  package android.support.v7.recyclerview {
+    class R {
+    }
+  }
+  
+
+  package android.support.v4 {
+    class R {
+    }
+  }
+  
+
+  package android.support.documentfile {
+    class R {
+    }
+  }
+  
+
+  package android.support.coordinatorlayout {
+    class R {
+    }
+  }
+  
+
+  package android.support.fragment {
+    class R {
+    }
+  }
+  
+
+  package android.support.v7.cardview {
+    class R {
+    }
+  }
+  
+
+  package android.support.coreutils {
+    class R {
+    }
+  }
+  
+
+  package android.support.coreui {
+    class R {
+    }
+  }
+  
+
+  package android.support.loader {
+    class R {
+    }
+  }
+  
+
+  package android.support.localbroadcastmanager {
+    class R {
+    }
+  }
+  
+
+  package android.support.fragment {
+    class R {
+    }
+  }
+  
+
+  package android.support.interpolator {
+    class R {
+    }
+  }
+  
+
+  package android.arch.lifecycle {
+    class R {
+    }
+  }
+  
+
+  package com.jjoe64.graphview {
+    class R {
+    }
+  }
+  
+
+  package android.support.graphics.drawable {
+    class R {
+    }
+  }
+  
+
+  package android.support.localbroadcastmanager {
+    class R {
+    }
+  }
+  
+
+  package android.support.interpolator {
+    class R {
+    }
+  }
+  
+
+  package android.support.print {
+    class R {
+    }
+  }
+  
+
+  package android.support.coreutils {
+    class R {
+    }
+  }
+  
+
+  package android.support.mediacompat {
+    class R {
+    }
+  }
+  
+
+  package android.support.design {
+    class R {
+    }
+  }
+  
+
+  package android.support.swiperefreshlayout {
+    class R {
+    }
+  }
+  
+
+  package android.support.cursoradapter {
+    class R {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class SearchID {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class SearchTopN {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class SearchTopNAdapter {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class SearchTopNDisplay {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class StatAvg {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class StatMajor {
+    }
+  }
+  
+
+  package vn.edu.hoasen.qlsv {
+    class Student {
+    }
+  }
+  
+
+  DescAvgComparator -up-|> Comparator
+  ListAll -up-|> Activity
+  ListAll o-- ListAllAdapter : adapter
+  ListAllAdapter -up-|> Adapter
+  ListEnglishMajorAdapter -up-|> Adapter
+  ListITMajorAdapter -up-|> Adapter
+  ListMajor -up-|> Activity
+  ListTouristMajorAdapter -up-|> Adapter
+  MainActivity -up-|> OnNavigationItemSelectedListener
+  MainActivity -up-|> AppCompatActivity
+  SearchID -up-|> Activity
+  SearchTopN -up-|> Activity
+  SearchTopN o-- SearchTopNAdapter : adapter
+  SearchTopNAdapter -up-|> Adapter
+  SearchTopNDisplay -up-|> Activity
+  SearchTopNDisplay o-- SearchTopNAdapter : adapter
+  StatAvg -up-|> Activity
+  StatMajor -up-|> Activity
+
+
+right footer
+
+
+PlantUML diagram generated by SketchIt! (https://bitbucket.org/pmesmeur/sketch.it)
+For more information about this tool, please contact philippe.mesmeur@gmail.com
+endfooter
+
+@enduml

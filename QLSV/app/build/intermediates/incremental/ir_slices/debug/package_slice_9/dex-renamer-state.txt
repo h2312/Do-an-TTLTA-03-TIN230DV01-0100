@@ -1,0 +1,4 @@
+#Mon Dec 24 11:46:11 ICT 2018
+base.0=/Users/hiep/Downloads/QLSV/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
